@@ -2,4 +2,4 @@ root: ./
 
 redirects:  
     previous/page1: labs/ddhills-jatre.md
-    activity/kifi-2021: labs/kifi-2021.md
+    activity/kifi-2021: labs/kifi-2021.md 
