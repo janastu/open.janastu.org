@@ -87,7 +87,3 @@
 * [Media](archives/media.md)
 * [Library](archives/library.md)
 
-## activity
-
-* [KiFi 2021](activity/kifi-2021.md)
-
