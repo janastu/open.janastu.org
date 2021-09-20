@@ -1,2 +1,4 @@
+root: ./
+
 redirects:  
     activity/kifi-2021: labs/kifi-2021
