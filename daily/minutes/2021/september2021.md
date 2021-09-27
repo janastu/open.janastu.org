@@ -2,6 +2,18 @@
 
 ## Slots minutes of meetings - September 2021
 
+### 23 September 2021
+
+* Shafali and Dinesh have discussed Rotary club documentation
+* Sanketh is here from the farm
+* Dinesh have updated BioDiversity workshops and architecture workshop updates
+* Dinesh have updated Octobr 7th plan
+* Athithya have updated Devearayanadurga Map sheet webpage
+
+#### Shared link
+
+####  [https://two.compost.digital](https://two.compost.digital)
+
 ### 06 September 2021
 
 * Dinesh, shalini went to Ragiguda.

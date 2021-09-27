@@ -48,7 +48,7 @@ The third major edition of Anthillhacks starts on December 30, 2020 and continue
 
 Interlocutor: **Prof. Kandasamy**, **Prof Animal Genetics**, Coimbatore
 
-![](../.gitbook/assets/the-black-sheep-of-progress%20%282%29.jpg)
+![](../.gitbook/assets/the-black-sheep-of-progress%20%282%29%20%282%29.jpg)
 
 _Session Recording_: [ https://files.janastu.org/s/Rz8zATmxy7nQCqb](%20https://files.janastu.org/s/Rz8zATmxy7nQCqb)
 
