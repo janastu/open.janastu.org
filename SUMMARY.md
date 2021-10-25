@@ -48,11 +48,12 @@
   * [Join us](contact/join.md)
   * [Websites](contact/website.md)
 
-## Meetings <a id="daily"></a>
+## Meetings <a href="daily" id="daily"></a>
 
 * [Daily Agenda](daily/agenda.md)
 * [Minutes of Meetings](daily/minutes/README.md)
   * [2021](daily/minutes/2021/README.md)
+    * [October ](daily/minutes/2021/october2021.md)
     * [September](daily/minutes/2021/september2021.md)
     * [August](daily/minutes/2021/august2021.md)
     * [July](daily/minutes/2021/july2021.md)
@@ -74,7 +75,7 @@
     * [April](daily/minutes/2020/april2020.md)
     * [March](daily/minutes/2020/march2020.md)
 
-## Events & Labs <a id="labs"></a>
+## Events & Labs <a href="labs" id="labs"></a>
 
 * [KiFi 2021](labs/kifi-2021.md)
 * [Anthillhacks 20.21](labs/anthill.md)
@@ -86,4 +87,3 @@
 * [Stories](archives/stories.md)
 * [Media](archives/media.md)
 * [Library](archives/library.md)
-
