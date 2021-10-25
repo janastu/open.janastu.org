@@ -7,13 +7,16 @@ description: >-
 
 # Minutes of Meetings
 
-### [**Minutes of Meetings**](https://app.gitbook.com/@janastu/s/openjanastu/~/drafts/-MX06fsOWOpUkwACywAU/daily/minutes) **Read and Update** [**Agenda**](../agenda.md)\*\*\*\*
+### [**Minutes of Meetings**](https://app.gitbook.com/@janastu/s/openjanastu/\~/drafts/-MX06fsOWOpUkwACywAU/daily/minutes)** Read and Update **[**Agenda**](../agenda.md)****
 
 ## Current
 
-{% page-ref page="2021/september2021.md" %}
+{% content-ref url="2021/october2021.md" %}
+[october2021.md](2021/october2021.md)
+{% endcontent-ref %}
 
 ## Archives
 
-{% page-ref page="2020/" %}
-
+{% content-ref url="2020/" %}
+[2020](2020/)
+{% endcontent-ref %}
