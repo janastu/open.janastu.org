@@ -54,6 +54,7 @@
 * [Radio Q: Ideas discussion with Dinesh](https://classmeet.chiguru.tech/playback/presentation/2.0/playback.html?meetingId=3520b760e5b1f6d8369fa5ac8a57c98592af963f-1598247779002)
 * [Community Networks Tech-Talk: Webinar #2 - Education and Community Networks, Building Opportunities](https://communitynetworks.group/t/education-and-community-networks-building-opportunities/557)
 * [Milli: toward a community of archives, T B Dinesh](https://youtu.be/he5d4erB9wA?t=1695)
+* [Vikalp Varta 2.4: Decentralising Digital Futures, TB Dinesh](https://www.youtube.com/watch?v=TZ6v-14191w)
 {% endtab %}
 {% endtabs %}
 
