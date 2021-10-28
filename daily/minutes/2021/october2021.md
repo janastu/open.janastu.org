@@ -2,9 +2,7 @@
 
 ## Slots minutes of meetings - October 2021
 
-### 25 October 2021
 
-*
 
 ### 04 October 2021
 
