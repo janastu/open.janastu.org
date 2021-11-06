@@ -20,7 +20,7 @@
 
 ### 23rd August 2021
 
-* Bhanu, shafali, yatarth and micah shared his kotagiri trip experience 
+* Bhanu, shafali, yatarth and micah shared his kotagiri trip experience&#x20;
 * Dinesh said milli.link is missing in open.janastu.org and we got know its in Archive project page. He asked yatarth to structure it properly
 * Dinesh asked the team to comment on servelots story on APC [https://hackmd.io/khzZyZHLR2eN5hYNRI4IlQ](https://hackmd.io/khzZyZHLR2eN5hYNRI4IlQ)
 * COW video mentions support of APC and Sida - need to be careful.. re fcra.
@@ -35,14 +35,15 @@
 * Dinesh asked Mani to write the logs to call all the members personally.
 * Dinesh have updated Setup the computer desktop in radio centre.
 * Athithya updated and presented Gitlab task management
-* Emery have updated Encoding for Robust Immutable Storage [http://purl.org/eris](http://purl.org/eris)
+* Emery have updated Encoding for Robust Immutable Storage\
+  [http://purl.org/eris](http://purl.org/eris)
 * Emery shared URN file urn:erisx2:AEBJAZIGJC5UKG5Z5K226OEW62AB6PZTZVXEQD6GGHG4BBVKUGG7NQEVQZRNTCYDINQ4YGY7H2LYKMH6KJ6CJHTXEFA3OBX2IDFV2LMZZI
 * Dinesh requested emery to thing about the Usecases of Papad
 * Shared link:
   * [https://gitlab.com/servelots/slots/team/daily-task](https://gitlab.com/servelots/slots/team/daily-task)
-  * [https://syncthing.net/](https://syncthing.net/)
+  * [https://syncthing.net/](https://syncthing.net)
   * [http://purl.org/eris](http://purl.org/eris)
-  * inqlab.net \([http://purl.org/eris](http://purl.org/eris)\)
+  * inqlab.net ([http://purl.org/eris](http://purl.org/eris))
 
 ### 11 August 2021
 
@@ -81,4 +82,3 @@
 * Dinesh, Yatarth and Mani have discussed website and breaking links. Micah and Yatarth will make Pastoralist Map blog on Janastu.
 * Athithya have updated covid audio files updates. Dinesh asked her to fragment the audios
 * Shalini asked athithya to recheck the server status
-

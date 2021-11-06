@@ -11,15 +11,14 @@
 {% endtab %}
 
 {% tab title="Our friends website" %}
-* [http://mitan.in/](http://mitan.in/)
-* [https://www.namdu1radio.com/](https://www.namdu1radio.com/)
-* [https://www.futuretronlabs.in/](https://www.futuretronlabs.in/)
-* [http://www.nammacycle.in/](http://www.nammacycle.in/)
-* [http://agnii.org/](http://agnii.org/)
-* [https://www.milli.link/](https://www.milli.link/)
-* [https://demx.in/](https://demx.in/)
+* [http://mitan.in/](http://mitan.in)
+* [https://www.namdu1radio.com/](https://www.namdu1radio.com)
+* [https://www.futuretronlabs.in/](https://www.futuretronlabs.in)
+* [http://www.nammacycle.in/](http://www.nammacycle.in)
+* [http://agnii.org/](http://agnii.org)
+* [https://www.milli.link/](https://www.milli.link)
+* [https://demx.in/](https://demx.in)
 {% endtab %}
 {% endtabs %}
 
-\*\*\*\*
-
+****

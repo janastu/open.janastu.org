@@ -5,9 +5,9 @@
 * [Adarsh engagement gift bags and boxes](https://photos.app.goo.gl/reZUftJb5hCJg7H6A)
 * [Agri activities and electric vehicles](https://photos.app.goo.gl/cH46uFaYkwQ3meydA)
 * [An iruway march](https://photos.app.goo.gl/LY56N3X8aNvxvsjKA)
-* [Anthillhacks 2019 tbd crafter space and related photos](%20https://photos.app.goo.gl/ZXd5uxMeEcaYY8rdA)
+* [Anthillhacks 2019 tbd crafter space and related photos](https://photos.app.goo.gl/ZXd5uxMeEcaYY8rdA)
 * [APC Bidar-OCT2019](https://photos.app.goo.gl/UGsyZXpJjjPMXyxVA)
-* [ASORCOM visit to India \(Dec 8-16, 2019\)](https://photos.app.goo.gl/W9RqftjKbE1kF3XW7)
+* [ASORCOM visit to India (Dec 8-16, 2019)](https://photos.app.goo.gl/W9RqftjKbE1kF3XW7)
 * [Aravind engagement fruits in baskets and ornamental gifts](https://photos.app.goo.gl/BUw43hoEhtQsXDmf7)
 * [Aravind engagement fruits in baskets and ornamental gifts](https://photos.app.goo.gl/5ZF9nCRT3k7G49RH7)
 * [Aravind wedding flower basket photos](https://photos.app.goo.gl/oPFJNgZaS8nqzBc76)
@@ -18,7 +18,7 @@
 * [Biwomen - biceps 4 women](https://photos.app.goo.gl/49qFHYJ2g7Z769kdA)
 * [Blacksheep box by Sanketh](https://photos.app.goo.gl/QSvPMGrAmPXsfWfB8)
 * [Butti Siddavva Play by kids for Rotary team on Crafterspace](https://photos.app.goo.gl/6oofrD18MrQBVbhdA)
-* [Busy craft center \(malleshwaram women group\)](https://photos.app.goo.gl/NzCW9Z3mKv5wHAB97)
+* [Busy craft center (malleshwaram women group)](https://photos.app.goo.gl/NzCW9Z3mKv5wHAB97)
 * [bidri craft](https://photos.app.goo.gl/TGEqp8WnDJvGSPBM9)
 * [2019-2020 CrafterSpace](https://photos.app.goo.gl/rxMGJJvqAypQnrzX8)
 * [India metaphysic -gastronomical research](https://photos.app.goo.gl/oZ9kSJrMVDyAp2GM7)
@@ -26,10 +26,10 @@
 * [Girish village radio during covid lockdown](https://photos.app.goo.gl/uzVYdtbsazLoZk539)
 * [Mirzapur March 2020](https://photos.app.goo.gl/zBGLsSWcRsDvCthq7)
 * [Gujarat crafts trip!](https://photos.app.goo.gl/fajyvTVJLqWNR4q27)
-* [Janastu visit to ASORCOM \(Dec 24, 2019 - Jan 4, 2020\)](https://photos.app.goo.gl/p29yBfn67PM6KgtK6)
+* [Janastu visit to ASORCOM (Dec 24, 2019 - Jan 4, 2020)](https://photos.app.goo.gl/p29yBfn67PM6KgtK6)
 * [kere-habba-2019](https://photos.app.goo.gl/vo6NFbxYdcKsW6kz7)
 * [CnC Router Experiment](https://photos.app.goo.gl/bHbLYK1XHzz9aoG38)
-* [Sacred Economy \(Selected Img\)](https://photos.app.goo.gl/rsK12GZhYoCXCNsn7)
+* [Sacred Economy (Selected Img)](https://photos.app.goo.gl/rsK12GZhYoCXCNsn7)
 * [Iruway June to Aug 2019](https://photos.app.goo.gl/qiwj5h8z2fXo8xun8)
 * [Cowmesh Pics](https://photos.app.goo.gl/aBt2ymexjuwqnricA)
 * [Summer Camp 2019 - May 20th To May 28th, Durgadahalli, Tumakuru](https://photos.app.goo.gl/XPKNyPpKe515BUeMA)
@@ -39,7 +39,7 @@
 * [1st rain morning and making of biop](https://photos.app.goo.gl/4xKWjtCWKh8SW5hTA)
 * [Ragi kana, Ramayana and Saju Pickles](https://photos.app.goo.gl/QzgLo6GynsiMWMkaA)
 * [Hari+,EUB,Liner,Namadachilume,Raja](https://photos.app.goo.gl/GPtrZSGUkSQhLSpY8)
-* [Mahua, Unbox, Radio&Namadachilume](https://photos.app.goo.gl/18WSqJaDD8euESk19)
+* [Mahua, Unbox, Radio\&Namadachilume](https://photos.app.goo.gl/18WSqJaDD8euESk19)
 * [Millet Mela Jan 2019](https://photos.app.goo.gl/J7zDRyDg16jNADSr5)
 * [NSR -27 Dec 2018](https://photos.app.goo.gl/csVvgio2MhvTSYKNA)
 * [MWADemo](https://photos.app.goo.gl/aMDt8D4nifwXy8gr9)
@@ -61,7 +61,7 @@
 * [General dd area pics, halekote and devarayanadurga](https://photos.app.goo.gl/FUFGn4tqvj1cVx847)
 * [Cowpi togo](https://photos.app.goo.gl/Go5DgNtjeVyK4nj46)
 * [Oct 2nd Weekend … beedi vyapara 2020](https://photos.app.goo.gl/sYSRNAU6ukStjH7W6)
-* [Emery \#1 jackfruiter](https://photos.app.goo.gl/GXS2s2Db7EkntqCw6)
+* [Emery #1 jackfruiter](https://photos.app.goo.gl/GXS2s2Db7EkntqCw6)
 * [Iruway random from June 2019 to Aug 2019](https://photos.app.goo.gl/qiwj5h8z2fXo8xun8)
 * [CrafterSpace Photos 2019 - 2020](https://photos.app.goo.gl/rxMGJJvqAypQnrzX8)
 * [CrafterSpace Equipment use](https://photos.app.goo.gl/G2BnCtMAaCSVoXQq6)
@@ -81,8 +81,7 @@
 * [Early craft experiments and durgadahalli images](https://photos.app.goo.gl/PQQWv5XLZxrdmPtu6)
 * [General dd area pics, halekote and devarayanadurga](https://photos.app.goo.gl/ibinyzUDSq13Lfk78)
 * [Sunday in Durgada Halli](https://photos.app.goo.gl/sSENA684A8JLK6Ep8)
-* [Laura pics Nov 2018](https://drive.google.com/drive/u/3/folders/14pXeQlZNcuht4uHisNqpyHew9Ztk4II8
-  )
+* [Laura pics Nov 2018](https://drive.google.com/drive/u/3/folders/14pXeQlZNcuht4uHisNqpyHew9Ztk4II8)
 * [Thimnayakanahalli Mela Jan 2019](https://photos.app.goo.gl/LoRd2JiBhjntmCMm8)
 * [Nov 1 LGBT, sangama 377 with Design Beku](https://photos.app.goo.gl/isUJPSpaTYW82xUTA)
 * [Nov 2nd Dipti and Natural farming - microbes gathering](https://photos.app.goo.gl/iZChnUhsr1ZhJ3T6A)
@@ -99,7 +98,7 @@
 * [Jan 15th Sankranthi Bagana at tumkur](https://photos.app.goo.gl/ztd1Zu8pzQqsnsLYA)
 * [Jan 18-20 Stall at State Millet Fair](https://photos.app.goo.gl/DvFQZsfNn7uvKfq27)
 * [Jan 26th Prasanna at Crafterspace / madya nisheda walk tumkur](https://photos.app.goo.gl/6smwyGfBXPFAX3Z39)
-* [Feb 10-11 pics of crafterspace by chandra \(shesh frnd\)](https://photos.app.goo.gl/YS3D8Fc9AehSnJtQ6)
+* [Feb 10-11 pics of crafterspace by chandra (shesh frnd)](https://photos.app.goo.gl/YS3D8Fc9AehSnJtQ6)
 * [Feb 15ish Medals for kere habba. Moda and Mahua/Ippe](https://photos.app.goo.gl/YHrRRhWx3CoH6sGA9)
 * [Feb 20 Babita and all from Unbox visit the farm](https://photos.app.goo.gl/18WSqJaDD8euESk19)
 * [Feb 21 Sira Group working with Handicapped for training](https://photos.app.goo.gl/7jKbPphgg2gmPVot9)
@@ -131,12 +130,10 @@
 * [GigaCow episodes photo documentary](https://photos.app.goo.gl/Z4Vnu1K6d8bfb9UWA)
 * [Kotagiri & DDhills trip pics](https://photos.app.goo.gl/yy3XyC1BZHtMyLQFA)
 
- **Collection**
+&#x20;**Collection**
 
 * [Dinesh Collection](https://hackmd.io/sioWTyF8Q5-wKA3iNQsGoA)
-  * [http://bit.ly/janastu-albums](http://bit.ly/janastu-albums
-
-    )
+  * [http://bit.ly/janastu-albums](http://bit.ly/janastu-albums)
 {% endtab %}
 
 {% tab title="Video" %}
@@ -155,12 +152,11 @@
 * [Aamne saamne song recorded clip](https://files.janastu.org/s/dDEpC7xPAMZ2ay6)
 * [namdu1radio jingles](https://files.janastu.org/s/ieAnPsYHbn4Ss3q)
 * [Covid Campain Audio](https://drive.google.com/drive/folders/1MC4A00umYHqRA9nF13W-eM3Ro-H0DAWT?usp=sharing)
-* [Garikur Radio Neelgiris](https://drive.google.com/drive/folders/1cjD9hD1RvJYNjZOdWr_SpoY9goO1ynrS?usp=sharing)
-* [Indoansia radio files](https://drive.google.com/drive/folders/1dacPFP6VfN-9U_Q-GVdr-CQj1OEieyTV?usp=sharing)
+* [Garikur Radio Neelgiris](https://drive.google.com/drive/folders/1cjD9hD1RvJYNjZOdWr\_SpoY9goO1ynrS?usp=sharing)
+* [Indoansia radio files](https://drive.google.com/drive/folders/1dacPFP6VfN-9U\_Q-GVdr-CQj1OEieyTV?usp=sharing)
 {% endtab %}
 
 {% tab title="Panoramas" %}
 [Anthill-DDHills-Esg-Panoramas](https://www.dropbox.com/sh/60mzb3wn8r5j1lo/AADXpAwiKG2ezrOMq7EcBUxua?dl=0)
 {% endtab %}
 {% endtabs %}
-

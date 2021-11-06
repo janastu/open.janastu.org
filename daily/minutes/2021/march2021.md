@@ -30,8 +30,8 @@
 
 * Arun went yesterday to tumakuru he was sharing experience about Jatre.
 * Shafali and Micah are working on milli
-* Athithya updated on sheet mapper [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) There is a bug in the map. Map opens only after clicking on the zoom button, ****She's trying to fix.
-* Dinesh asked Mani to collect more photos about crafs products \(including shared link from dinesh\) and upload that links to spreadsheet for sheet mapper to point in the map.
+* Athithya updated on sheet mapper [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) There is a bug in the map. Map opens only after clicking on the zoom button,** **She's trying to fix.
+* Dinesh asked Mani to collect more photos about crafs products (including shared link from dinesh) and upload that links to spreadsheet for sheet mapper to point in the map.
 * Mani moved all project descriptions content to open.janastu page. [https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit?usp=sharing)
 
 ### **25 March 2021**
@@ -44,8 +44,8 @@
 ### **24 March 2021**
 
 * Dinesh suggested to recorded minutes if possible.
-* Shafali went yesterday to DA office to meet with learning team. first they \(DA\) had online discussion with Dinesh and Shalini and Medha team. After that conversation went on tech related and Mirzapur Girls.
-* Dinesh asked Athithya to work cowmesh captive pages sites which should run without internet \(locally\) also suggeted try with ****css.
+* Shafali went yesterday to DA office to meet with learning team. first they (DA) had online discussion with Dinesh and Shalini and Medha team. After that conversation went on tech related and Mirzapur Girls.
+* Dinesh asked Athithya to work cowmesh captive pages sites which should run without internet (locally) also suggeted try with** **css.
 * Yatarth have showed Capturing photos from camera and also displayed the face with tracking. Still he's woarking on javascript and interface in html & css to get final output.
 * Micah was updating on bidar he met district collector and archiving story from him related to historical things of bidar.
 * Arun working on Maptales figuring out some sample content.
@@ -53,7 +53,7 @@
 ### **23 March 2021**
 
 * Shreyas and Dinesh have discussed about Mesh Network, Libre Router
-* Athithya have presented sheet mapper for the ddhills-jatre [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) ****and [https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1d3ZUpxx-X_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing)
+* Athithya have presented sheet mapper for the ddhills-jatre [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/)** **and [https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing)
 * Dinesh said take more content, photos from Crafter space, for pointing the craft make some triangle or different colors of circle
 * Yatarth have presented Capturing photos from camera and also alternatively displayed the face with different background and different face
 * Sanketh have updated Libre Router Backend Issues
@@ -62,12 +62,12 @@
 
 ### **22 March 2021**
 
-* Mani and Yatarth have discussed Janastu Project Description [https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0) ****and Later ****Yatarth said the timeline we can add to about page and all other pages, one image and description we can add.
+* Mani and Yatarth have discussed Janastu Project Description [https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0](https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0)** **and Later** **Yatarth said the timeline we can add to about page and all other pages, one image and description we can add.
 * Shafali and Dinesh have discussed the Project cleanup and will add photos to Mirzapur Girls projects [https://open.janastu.org/publications/pictures](https://open.janastu.org/publications/pictures)
 * Sanketh came back to Bangalore and he and Dinesh planning to go Tumkur tommorow
 * Dinesh have shared recent photos from Thimnayakanahalli [https://files.janastu.org/s/YTmD4dfBcPN7SQd](https://files.janastu.org/s/YTmD4dfBcPN7SQd)
 * Dinesh and Shafali have discussed about tommorow DD meeting
-* Dinesh and Bhanu have discussed about content, we should collect content from [https://anthill.janastu.org/](https://anthill.janastu.org/) and [http://sheeptracker.test.openrun.net/](http://sheeptracker.test.openrun.net/) for the DDHills-Jatre event
+* Dinesh and Bhanu have discussed about content, we should collect content from [https://anthill.janastu.org/](https://anthill.janastu.org) and [http://sheeptracker.test.openrun.net/](http://sheeptracker.test.openrun.net) for the DDHills-Jatre event
 * Mani and Athithya created the sheet mapper for the DDHils-jatre
   * ddhills sheet mapper UI: [https://themanikantan.github.io/ddhills-sheet-mapper/](https://themanikantan.github.io/ddhills-sheet-mapper/)
   * and spreadsheet: [https://docs.google.com/spreadsheets/d/1DfFeBAC25kPqw7cfBA8mj7HSn846hjNDSozZ7FrbX74/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1DfFeBAC25kPqw7cfBA8mj7HSn846hjNDSozZ7FrbX74/edit?usp=sharing)
@@ -76,7 +76,7 @@
 
 ### **19 March 2021**
 
-* Shalini asked Athithya and Mani to test if ****site are up or not. [https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing)
+* Shalini asked Athithya and Mani to test if** **site are up or not. [https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing)
 * Shafali shared a note in telegram about DA meeting flow for monday at DA office in Delhi.
   * Your visit to mirzapur
   * Working remotely
@@ -103,7 +103,7 @@
 * Athithya and Shalini discussed on server monitoring testing.
 * Shalini need help from Arun for mongodb server backup.
 * Mani and Dinesh discussed sheet-mapper for Jatre
-* Dinesh asked any response for W4P tech challenge Report or anybody taking responsible [https://docs.google.com/document/d/1QdE9X8iBj3oguh1pCHqz3sEYRdP7\_gG0XggvVxjT2cI/edit?usp=sharing](https://docs.google.com/document/d/1QdE9X8iBj3oguh1pCHqz3sEYRdP7_gG0XggvVxjT2cI/edit?usp=sharing)
+* Dinesh asked any response for W4P tech challenge Report or anybody taking responsible [https://docs.google.com/document/d/1QdE9X8iBj3oguh1pCHqz3sEYRdP7\_gG0XggvVxjT2cI/edit?usp=sharing](https://docs.google.com/document/d/1QdE9X8iBj3oguh1pCHqz3sEYRdP7\_gG0XggvVxjT2cI/edit?usp=sharing)
 
 ### **17 March 2021**
 
@@ -121,7 +121,7 @@
 
 * Yatharth was updating yesterday discussion on Jatre. Later team figuring out how to go with Projection mapping, Photobooth, rpi+laser and walkinstudios.
   * [https://www.ubuy.co.in/catalog/product/view/id/8707354/s/mophorn-button-maker-machine-1-inch-25mm-button-maker-machine-1000pc](https://www.ubuy.co.in/catalog/product/view/id/8707354/s/mophorn-button-maker-machine-1-inch-25mm-button-maker-machine-1000pc)
-  * [https://www.instagram.com/p/CKLcd85pJsh/?utm\_source=ig\_web\_copy\_link](https://www.instagram.com/p/CKLcd85pJsh/?utm_source=ig_web_copy_link)
+  * [https://www.instagram.com/p/CKLcd85pJsh/?utm\_source=ig\_web\_copy\_link](https://www.instagram.com/p/CKLcd85pJsh/)
   * [https://www.youtube.com/watch?v=-SuyLT5pGg0](https://www.youtube.com/watch?v=-SuyLT5pGg0)
 * Dinesh asked Mani to collect Shilpa's COVID related data for Jatre
 
@@ -135,14 +135,14 @@
   * To work with visually impaired students
   * Looking at idea of financial investment
   * Ragi gudda area could be another micro context where go and work.
-  * Devarayanadurga \(DDhills\) they could be multiple activities happening.
+  * Devarayanadurga (DDhills) they could be multiple activities happening.
 * Micah and Shafali won't be available this week, For GG activities some has to take responsible. So Dinesh asked team to come up with list and later Micha said will discuss the time and status on the group.
 * We have to talk about finalising W4P Technology Challenge Report
 
 ### 12 March 2021
 
-* Dinesh and Mani going through kolibri studio [https://studio.learningequality.org/](https://studio.learningequality.org/) how to use and upload video.
-* Yatharth and Dinesh talking on creating email addresses using plus sign \(+\) for kolibri.
+* Dinesh and Mani going through kolibri studio [https://studio.learningequality.org/](https://studio.learningequality.org) how to use and upload video.
+* Yatharth and Dinesh talking on creating email addresses using plus sign (+) for kolibri.
   * [https://www.labnol.org/internet/multiple-email-addresses-in-gmail/17426/](https://www.labnol.org/internet/multiple-email-addresses-in-gmail/17426/)
   * [https://www.cnet.com/how-to/6-clever-gmail-tricks-to-minimize-regret-frustration-and-spam/](https://www.cnet.com/how-to/6-clever-gmail-tricks-to-minimize-regret-frustration-and-spam/)
 * Dinesh was asking mirzapur film fest updates, Micah and Shafali today going to conduct meeting with girls if possible.
@@ -157,15 +157,15 @@
 * Dinesh, Shalini and Arun have discussed shirsti payment
 * Sanketh showed Aksai maker culture work.
 * Dinesh and Sanketh have discussed cowde visual
-  * [https://salus-sage.github.io/cowde-visual/](https://salus-sage.github.io/cowde-visual/) 
+  * [https://salus-sage.github.io/cowde-visual/](https://salus-sage.github.io/cowde-visual/)&#x20;
   * [https://salus-sage.github.io/cowde-visual/linechartzoom.html](https://salus-sage.github.io/cowde-visual/linechartzoom.html)
 * Micah spoked to shreya for the fund raising and also he spoked to Garima girls regarding videos making
 * Shalini and Sanketh have discussed about Think Centre and OS on it.
 * Athithya have updated yesterday event with Ragiguda kids
-* Shalini suggesting tool  [KineMaster - Video Editor, Video Make](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en_IN&gl=US)
-* Mani and Athithya created janastu feed page 
+* Shalini suggesting tool  [KineMaster - Video Editor, Video Make](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree\&hl=en\_IN\&gl=US)
+*   Mani and Athithya created janastu feed page&#x20;
 
-   [https://hackmd.io/27RhtheESZW92NUXHTfozA?view](https://hackmd.io/27RhtheESZW92NUXHTfozA?view) gathered all the links and putted together to book keeping work.
+    &#x20;[https://hackmd.io/27RhtheESZW92NUXHTfozA?view](https://hackmd.io/27RhtheESZW92NUXHTfozA?view) gathered all the links and putted together to book keeping work.
 
 ### 10 March 2021
 
@@ -174,17 +174,17 @@
 * Shafali have updated Garima girls.They brought up some ideas for videos and we want to find good, contextual reference short films that they can use as reference. The ideas are similar to 1. Nature documentary 2. Bridal makeup procedure and environment 3. 'social work' 4. The processes of a shop 5. Creating something visual using some software.
 * For Devarayanadurga-jatre Shafali and Yatarth , they are thinking to project the Deverayanadurga Hills to background.
 * Shalini, Athithya and Yatarth have discussed Ragiguda activities
-* Shafali, Micah and Yatarth have discussed photograph events with ggirls 
+* Shafali, Micah and Yatarth have discussed photograph events with ggirls&#x20;
 * Dinesh have updated DL is not expired unless it's Oct 2021 now
 
 
 
 ### 09 March 2021
 
-* Dinesh have updated changes for the Devarayanadurga-jatre page on [gitbook](https://open.janastu.org/activity/ddhills-jatre) 
+* Dinesh have updated changes for the Devarayanadurga-jatre page on [gitbook](https://open.janastu.org/activity/ddhills-jatre)&#x20;
 * Micah's compost article for Techno-Futures from Bidar. use that as a refs and make a map for jatre.
 * Dinesh asked micah and Yatarth to add upcoming events to Devarayanadurga Jatre doc
-* Yatarth created temporary [google doc](https://docs.google.com/document/d/195nt3vxkyi0mEVs111Yxw_4cl-LmCwQrKaRFM5ZoLpE/edit?usp=sharing) for the Devarayanadurga-jatre 
+* Yatarth created temporary [google doc](https://docs.google.com/document/d/195nt3vxkyi0mEVs111Yxw\_4cl-LmCwQrKaRFM5ZoLpE/edit?usp=sharing) for the Devarayanadurga-jatre&#x20;
 * Dinesh, Yatarth and shafali discussing Deverayandurga-jatre doc to add Biodiversity of map, light painting, projection mapping, Experiential photobooth telling Jatre's story
 * Dinesh suggested Fusion Fest Projection mapping example [https://vimeo.com/121788781](https://vimeo.com/121788781)
 * Micah sharing their experiences about creating compost page to team members
@@ -222,7 +222,7 @@
 
 ### 03 Mar 2021
 
-* Micah want to publish the blog, So he's asking help with Athithya what should do [https://github.com/janastu/blog.janastu.org/tree/master/\_posts](https://github.com/janastu/blog.janastu.org/tree/master/_posts).
+* Micah want to publish the blog, So he's asking help with Athithya what should do [https://github.com/janastu/blog.janastu.org/tree/master/\_posts](https://github.com/janastu/blog.janastu.org/tree/master/\_posts).
 * Mani was looking 48-percent-photos and created new directory [https://files.janastu.org/s/YTmD4dfBcPN7SQd](https://files.janastu.org/s/YTmD4dfBcPN7SQd) have uploaded few image. still he's will keep updating photos.
 * Dinesh at Durgadahalli school trying to get girls together and we are started shooting films for film fest.
 * Sindhu updating Durgadahalli school we sort of introduced idea of our film fest to students and we're working with photographer Kiran.
@@ -237,7 +237,7 @@
 * Athithya: I checked all the site status and updated on google sheet itself.
 * Mani: In blog.janastu.org I have updated title names in whichever articles not mentioned. Then later helping with kolibri studio channel for film fest and AWS testing.
 * Yatharth: Following up on this, the Gitbook issue is an issue in their side and they say they are working on it.
-* Dinesh: we \(Sindhu, shalini, sanketh incl\) are busy redoing the mesh link.
+* Dinesh: we (Sindhu, shalini, sanketh incl) are busy redoing the mesh link.
 
 ### 01 Mar 2021
 
@@ -250,4 +250,3 @@
 * Sindhu updating on ragi gudda area they're planning to screen film this week.
 * Dinesh updating on Biome project how to take forward.
 * Someone has to work on Kolibri and discord set up for film fest.
-

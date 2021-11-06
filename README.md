@@ -9,9 +9,9 @@ description: >-
 
 ![](.gitbook/assets/untitled-1.jpg)
 
-## **Janastu is a people oriented open-source collective working to enable community storytelling by the people, for the people.** 
+## **Janastu is a people oriented open-source collective working to enable community storytelling by the people, for the people. **
 
-Our mission is to build decentralized community owned networks to provision local connectivity in remote areas and to facilitate Internet, technology and crafts literacy. 
+Our mission is to build decentralized community owned networks to provision local connectivity in remote areas and to facilitate Internet, technology and crafts literacy.&#x20;
 
 We are developing audio annotation tools for community archiving and to help construct storytelling narratives to help in the inclusion of low-semi literates as first class internet citizens.
 
@@ -23,7 +23,10 @@ If you want to [join us](contact/join.md) for a meeting to see what we are worki
 
 ## Quick Links
 
-{% page-ref page="people/" %}
+{% content-ref url="people/" %}
+[people](people/)
+{% endcontent-ref %}
 
-{% page-ref page="projects/" %}
-
+{% content-ref url="projects/" %}
+[projects](projects/)
+{% endcontent-ref %}

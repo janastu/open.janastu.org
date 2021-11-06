@@ -10,77 +10,126 @@ description: Index Current projects and Past projects
 
 Opens into… Alipi, Archives, Anthillhacks, Community Radio, Papad, COWMesh, Crafterspace and storytelling by recognising the traditional storytellers.
 
-### 1998-2002 <a id="1998-2002"></a>
+### 1998-2002 <a href="1998-2002" id="1998-2002"></a>
 
- [pantoto.com](http://pantoto.com/) and [pagelets.com](http://pagelets.com/)
+&#x20;[pantoto.com](http://pantoto.com) and [pagelets.com](http://pagelets.com)
 
-Community are startup and match makers of the \(western\) web world. Project was to develop Pantoto \(software\).
+Community are startup and match makers of the (western) web world. Project was to develop Pantoto (software).
 
-### 2003 - 2008 <a id="2003---2008"></a>
+### 2003 - 2008 <a href="2003---2008" id="2003---2008"></a>
 
-Community of NGOs and surveys, forms, office data and reports. Projects used Pantoto \(software\) as the under the hood. Opening the world of NGOs.
+Community of NGOs and surveys, forms, office data and reports. Projects used Pantoto (software) as the under the hood. Opening the world of NGOs.
 
-### 2009 - 2013 <a id="2009---2013"></a>
+### 2009 - 2013 <a href="2009---2013" id="2009---2013"></a>
 
 Alipi and RDFa - Community of NGOs and stake holders. NGOs as domain experts with an intent to get the content to their stakeholders.
 
-### 2014 - 2017 <a id="2014---2017"></a>
+### 2014 - 2017 <a href="2014---2017" id="2014---2017"></a>
 
 SWeeTs, Renarration Web
 
-### 2018 - 2020 <a id="2018---2020"></a>
+### 2018 - 2020 <a href="2018---2020" id="2018---2020"></a>
 
 Audio annotations, wifi mesh - decentralised Web and low literate community expressions/archives for storytelling.
 {% endtab %}
 
 {% tab title="Index" %}
-{% page-ref page="webinar-pi.md" %}
+{% content-ref url="webinar-pi.md" %}
+[webinar-pi.md](webinar-pi.md)
+{% endcontent-ref %}
 
-{% page-ref page="mirzapur.md" %}
+{% content-ref url="mirzapur.md" %}
+[mirzapur.md](mirzapur.md)
+{% endcontent-ref %}
 
-{% page-ref page="archives.md" %}
+{% content-ref url="archives.md" %}
+[archives.md](archives.md)
+{% endcontent-ref %}
 
-{% page-ref page="crafts.md" %}
+{% content-ref url="crafts.md" %}
+[crafts.md](crafts.md)
+{% endcontent-ref %}
 
-{% page-ref page="papad.md" %}
+{% content-ref url="papad.md" %}
+[papad.md](papad.md)
+{% endcontent-ref %}
 
-{% page-ref page="ragigudda.md" %}
+{% content-ref url="ragigudda.md" %}
+[ragigudda.md](ragigudda.md)
+{% endcontent-ref %}
 
-{% page-ref page="maptales.md" %}
+{% content-ref url="maptales.md" %}
+[maptales.md](maptales.md)
+{% endcontent-ref %}
 
-{% page-ref page="cowmesh.md" %}
+{% content-ref url="cowmesh.md" %}
+[cowmesh.md](cowmesh.md)
+{% endcontent-ref %}
 
-{% page-ref page="compost.md" %}
+{% content-ref url="compost.md" %}
+[compost.md](compost.md)
+{% endcontent-ref %}
 
-{% page-ref page="renarration.md" %}
+{% content-ref url="renarration.md" %}
+[renarration.md](renarration.md)
+{% endcontent-ref %}
 
-{% page-ref page="maaya.md" %}
+{% content-ref url="maaya.md" %}
+[maaya.md](maaya.md)
+{% endcontent-ref %}
 
-{% page-ref page="iihs.md" %}
+{% content-ref url="iihs.md" %}
+[iihs.md](iihs.md)
+{% endcontent-ref %}
 
-{% page-ref page="13ways.md" %}
+{% content-ref url="13ways.md" %}
+[13ways.md](13ways.md)
+{% endcontent-ref %}
 
-{% page-ref page="ivr-box.md" %}
+{% content-ref url="ivr-box.md" %}
+[ivr-box.md](ivr-box.md)
+{% endcontent-ref %}
 
-{% page-ref page="follow-the-sheep.md" %}
+{% content-ref url="follow-the-sheep.md" %}
+[follow-the-sheep.md](follow-the-sheep.md)
+{% endcontent-ref %}
 
-{% page-ref page="pantoto.md" %}
+{% content-ref url="pantoto.md" %}
+[pantoto.md](pantoto.md)
+{% endcontent-ref %}
 
-{% page-ref page="baa-app.md" %}
+{% content-ref url="baa-app.md" %}
+[baa-app.md](baa-app.md)
+{% endcontent-ref %}
 
-{% page-ref page="sweet.md" %}
+{% content-ref url="sweet.md" %}
+[sweet.md](sweet.md)
+{% endcontent-ref %}
 
-{% page-ref page="3d.md" %}
+{% content-ref url="3d.md" %}
+[3d.md](3d.md)
+{% endcontent-ref %}
 
-{% page-ref page="helavaru.md" %}
+{% content-ref url="helavaru.md" %}
+[helavaru.md](helavaru.md)
+{% endcontent-ref %}
 
-{% page-ref page="alipi.md" %}
+{% content-ref url="alipi.md" %}
+[alipi.md](alipi.md)
+{% endcontent-ref %}
 
-{% page-ref page="pastoral.md" %}
+{% content-ref url="pastoral.md" %}
+[pastoral.md](pastoral.md)
+{% endcontent-ref %}
 
-{% page-ref page="stories-of-laws.md" %}
+{% content-ref url="stories-of-laws.md" %}
+[stories-of-laws.md](stories-of-laws.md)
+{% endcontent-ref %}
 
-{% page-ref page="indic-nlp.md" %}
+{% content-ref url="indic-nlp.md" %}
+[indic-nlp.md](indic-nlp.md)
+{% endcontent-ref %}
+
+
 {% endtab %}
 {% endtabs %}
-

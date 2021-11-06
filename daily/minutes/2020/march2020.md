@@ -14,7 +14,7 @@ tbd: it's too early to start the archiving related backend work, instead focus s
 
 we ==shouldn't be worrying about Scale== at this point, while the most important is to get started to do something on ground
 
-In any case, there will various formats of data that we can expect through our incoming channels \(whatsapp, telegram, mastodon, zotero, hypothesis\) including video, audio, images, pdf, webpages\(links\), datasets \(csv, tsv, json / api\), just text as comment or note.
+In any case, there will various formats of data that we can expect through our incoming channels (whatsapp, telegram, mastodon, zotero, hypothesis) including video, audio, images, pdf, webpages(links), datasets (csv, tsv, json / api), just text as comment or note.
 
 #### Lockdown Day 6 - conversation with Anant and Venkat
 
@@ -47,10 +47,9 @@ anant
 * cgnetsware approach - people can call a number and someone can curate it
   * self selection to who will be doing it.
   * future audience will have to be created for this
-  * we take charge of holding on to ourselves
+  *   we take charge of holding on to ourselves
 
-    HUL is interested in holding on to the migrant stories
-
+      HUL is interested in holding on to the migrant stories
   * material will have to be coming from people
     * there are enuf people talking to them
 
@@ -67,11 +66,11 @@ collaborators
   * bunch of people helping are calling agricultural mandis
     * what is happening to the mandis etc
     * industry and students
-    * can you call corporators \(dogs going hungry and one woman is feeding dogs\)
+    *   can you call corporators (dogs going hungry and one woman is feeding dogs)
 
-      -
+        \-
 
-Also everybody will start using existing tools like Zotero, Hypothesis, nextcloud / google drive, Spreadsheets, google forms, Mastodon / Tusky, Mumble depending upon ones comfort. A team which monitors all incoming feeds will help with curating and structuring \(still pretty vague\)
+Also everybody will start using existing tools like Zotero, Hypothesis, nextcloud / google drive, Spreadsheets, google forms, Mastodon / Tusky, Mumble depending upon ones comfort. A team which monitors all incoming feeds will help with curating and structuring (still pretty vague)
 
 #### Lockdown Day 4
 
@@ -89,9 +88,9 @@ To Be Added
 
 Date: 26^th^ March, 2020 Participants: Arun, Bhanu, Dinesh, Emery, Sanketh, Shalini, Vignesh
 
-Shalini: Coordinating with Suresh, he had asked for help re. current situation also coordinating with Mama \(Shepherd from belgaum\) re awareness
+Shalini: Coordinating with Suresh, he had asked for help re. current situation also coordinating with Mama (Shepherd from belgaum) re awareness
 
-Bhanu: shared the Followsheep server specs with Arun, which was just a API design doc, and Dinesh and shalini added feedback and suggestion, which is added here [Follow sheep server backend revamp](/T7Slvo3BTs6043KijXYHvg#Meeting-on-26th)
+Bhanu: shared the Followsheep server specs with Arun, which was just a API design doc, and Dinesh and shalini added feedback and suggestion, which is added here [Follow sheep server backend revamp](https://app.gitbook.com/T7Slvo3BTs6043KijXYHvg#Meeting-on-26th)
 
 Vignesh intros to the team currently a sys admin, his interest to contribute Django and python skills, so may be could look at papad architecture and help. working documentation link here [https://pad.riseup.net/p/papadDoc](https://pad.riseup.net/p/papadDoc)
 
@@ -99,7 +98,7 @@ Vignesh intros to the team currently a sys admin, his interest to contribute Dja
 
 Date: 25^th^ March, 2020 Participants: Arun, Bhanu, Dinesh, Emery, Sanketh, Shalini
 
-Conversation and updates from Dinesh and Shalini's field visit, link to minutes [W4P-JAM - Minutes of meeting](/buRUEpeVR5uW4fvFu7G9bA)
+Conversation and updates from Dinesh and Shalini's field visit, link to minutes [W4P-JAM - Minutes of meeting](https://app.gitbook.com/buRUEpeVR5uW4fvFu7G9bA)
 
 ### References and links
 
@@ -111,7 +110,7 @@ University of Virginia Digital Collection Toolkit for Crises [http://digitalcoll
 
 Documenting Your Community’s Experience of COVID-19: A Resource List Archivists adding what their respective 'units' are doing. Mostly university collection projects. [https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit](https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit)
 
-Web page recording [https://webrecorder.io/](https://webrecorder.io/)
+Web page recording [https://webrecorder.io/](https://webrecorder.io)
 
 A collection of causes during COVID lockdown [blrcauses](https://j.mp/blrcauses)
 
@@ -119,7 +118,7 @@ A collection of posters and other covid 19 awareness material in different india
 
 Crawled dataset from different official sources like ICMR MoHFW and available as JSON API [http://projects.datameet.org/covid19/](http://projects.datameet.org/covid19/)
 
-University info collection methods Stanford U. for COVID-19 related queries to its students. [https://stanforduniversity.qualtrics.com/jfe/form/SV\_1MupLIiG4qUcL5j](https://stanforduniversity.qualtrics.com/jfe/form/SV_1MupLIiG4qUcL5j)
+University info collection methods Stanford U. for COVID-19 related queries to its students. [https://stanforduniversity.qualtrics.com/jfe/form/SV\_1MupLIiG4qUcL5j](https://stanforduniversity.qualtrics.com/jfe/form/SV\_1MupLIiG4qUcL5j)
 
 ### Notes
 
@@ -142,4 +141,3 @@ University info collection methods Stanford U. for COVID-19 related queries to i
 > #### website snapshot
 >
 > Above instruction is for web app, but better always to use bookmarklet, coz requests made via bookmarklet will save site snapshot as well. see below ss ![](https://i.imgur.com/wVKSxcN.jpg)
-
