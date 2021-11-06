@@ -8,13 +8,7 @@ We have worked regionally, nationally and internationally with a wide range of p
 
 As low-literates are now becoming the new Internet users, we need to be able to connect to the traditional practices - which have evolved to address in terms of accessibility - so as to foresee the needs of the emerging internet users with a large diversity in literacy and culture. We looked at the web accessibility guidelines, and all of them expect you to be similarly educated–even if you are blind. If you have eyes but cannot read, there is no web accessibility standard that can be used as a guide. Then the focus on localization (translation), but accessibility needs to go beyond that.
 
-![](../.gitbook/assets/social-semantic-web.png)
-
-![](<../.gitbook/assets/social semantic web.jpg>)
-
-
-
-Image: social semantic web
+![Social Semantic Web - Image & PDF url : Link1 , Link2](<../.gitbook/assets/social semantic web.jpg>)
 
 
 
