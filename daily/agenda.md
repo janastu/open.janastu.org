@@ -12,7 +12,14 @@ description: Agenda for daily team meetings
 
 Team Log Jam: [https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing)
 
-##
+## 17-10-21
+
+* Papad upgrade changes
+* Taragram blog
+* ASPI is setup
+* [https://convening21.apc.org/event/access-information-and-local-content-fostering-diversity-developing-countries](https://convening21.apc.org/event/access-information-and-local-content-fostering-diversity-developing-countries)  Weve to give 10 minutes presentationblog
+
+
 
 ## 20-09-21
 
