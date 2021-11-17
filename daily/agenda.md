@@ -12,6 +12,8 @@ description: Agenda for daily team meetings
 
 Team Log Jam: [https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing)
 
+##
+
 ## 20-09-21
 
 *   Monday sept 20. full moon day. slots team (tentative) agenda:

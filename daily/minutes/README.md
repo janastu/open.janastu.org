@@ -11,8 +11,8 @@ description: >-
 
 ## Current
 
-{% content-ref url="2021/october2021.md" %}
-[october2021.md](2021/october2021.md)
+{% content-ref url="2021/november2021.md" %}
+[november2021.md](2021/november2021.md)
 {% endcontent-ref %}
 
 ## Archives
