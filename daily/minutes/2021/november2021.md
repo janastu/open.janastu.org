@@ -4,7 +4,38 @@
 
 
 
-### 04 November 2021
+### 19 November 2021
+
+**Keynotes:**
+
+1. Use Taragram Images to show Map exercise
+2. Mapping of the resources and showing interconnection and how people get populate\
+   and how other Pi’s will be replicated and bring it alive for the local needs.
+3. Show Papad and Syncthing workflow
+
+**Hardware Demo:**\
+(Requirement for a demo which works for Bhanu’s Pi listed below)
+
+1. TV with hdmi
+2. Raspberry pi
+3. Ethernet connection
+4. TP-Link
+5. Additional SIM card
+6. Micro Camera and microphone
+
+**Content Demo:**
+
+* Collect all Mirzapur Resources
+  1. KiFi film clips on the Pi in one folder\
+     ([https://www.youtube.com/channel/UCQN4MmOHaIrgYXgFddctvLg/videos](https://www.youtube.com/channel/UCQN4MmOHaIrgYXgFddctvLg/videos))
+  2. For listening activity add recorded googlemeet section (film workshop in the one folder)\
+     ([https://drive.google.com/drive/folders/1GvqkLwQBViGyyHDzNMEjOlvfBxYvVqoM?usp=sharing](https://drive.google.com/drive/folders/1GvqkLwQBViGyyHDzNMEjOlvfBxYvVqoM?usp=sharing))
+
+**Application Demo:**
+
+1. Papad Demonstration
+
+### 15 November 2021
 
 * Athithya and Bhanu have discussed Papad upgrade changes and issues. Athithya said while updating Syncthing Default folder path to upload folder, The default folder is not changing to upload folder. Bhanu told he will check the issue.
 * Shafali, Mani and Athithya have discussed Taragram blog, images related to Taragram
