@@ -4,6 +4,15 @@
 
 
 
+### 22 November 2021
+
+* Dinesh, Mani and Athithya have discussed preparation for the ASPI Documentation
+  * We have to keep in mind while making presentation
+    * 1.mesh N/W
+    * 2.Group wise connected to the area
+    * 3.ASPI how to interconnect tthe people with media
+* Shared link: https://fundacionlacaixa.org/en/programas-sociales/cooperacion-internacional/empleo/challenge-w4p/tecnologia-para-la-igualdad-de-genero-en-india
+
 ### 19 November 2021
 
 **Keynotes:**
