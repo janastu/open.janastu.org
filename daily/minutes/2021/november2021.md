@@ -4,6 +4,13 @@
 
 
 
+### 25 November 2021
+
+* Arun and Bhanu have discussed papad server issue, Bhanu said we are having backup data, so will delete the old volume and create the new volume.
+* Bhanu and Athithya have discussed Papad setup to the Mayaa teams. Bhanu will ask them to install VNC viewer, through VNC will setup Papad on their laptop.
+* Bhanu have updated DA meeting. Shafali have updated Anthillhacks meeting.
+* Athithya and Mani going to check the server weekly once
+
 ### 22 November 2021
 
 * Dinesh, Mani and Athithya have discussed preparation for the ASPI Documentation
