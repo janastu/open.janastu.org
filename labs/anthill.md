@@ -64,7 +64,7 @@ While we are open to you coming physically to the locations at ddhills area, we 
 ## OUR HISTORY
 
 \---\
-General overview page: [j.mp/myhill](http://j.mp/myhill)\
+General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://hackmd.io/anthillhacks.in)\
 A visual overview of the hill after the annotations: [graphical walkthrough](https://anthill.janastu.org/walkthrough.html)\
 "Neowarli" Anthill illustration by Megha Vishwanath\
 \---
