@@ -49,7 +49,7 @@
 {% tab title="Webinars" %}
 * [Curating Archives, Theme: Beyond the Institutional Narratives | '13 ways: A Guided Tour' by Janastu](https://www.youtube.com/watch?v=aSJvVds7FdA)
 * [IAW2020 Milli Sessions: Day 6, Jun 13: Archives consortium and annotation tools](https://www.youtube.com/watch?v=Ou4smCzjnck)
-* [Annapurna** **Garimella talk on art craft vernacular](https://files.janastu.org/apps/files/?dir=/Janastu%20Webinar/Annapurna\_Garimella\_talk\_art\_craft\_vernacular\&fileid=11948)
+* [Annapurna **** Garimella talk on art craft vernacular](https://files.janastu.org/apps/files/?dir=/Janastu%20Webinar/Annapurna\_Garimella\_talk\_art\_craft\_vernacular\&fileid=11948)
 * [LibreTalks: Exploring the State of Technology to Support Decentralised Ecosystems](https://www.youtube.com/watch?v=ashEPIZ7PVw)
 * [Radio Q: Ideas discussion with Dinesh](https://classmeet.chiguru.tech/playback/presentation/2.0/playback.html?meetingId=3520b760e5b1f6d8369fa5ac8a57c98592af963f-1598247779002)
 * [Community Networks Tech-Talk: Webinar #2 - Education and Community Networks, Building Opportunities](https://communitynetworks.group/t/education-and-community-networks-building-opportunities/557)

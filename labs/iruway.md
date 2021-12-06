@@ -1,6 +1,6 @@
 # IruWay Farm
 
-` IruWay Rural Research Lab` `DD Hills `  `Events`
+&#x20;`IruWay Rural Research Lab` `DD Hills`  `Events`
 
 [IruWay](https://iruway.janastu.org) is a collectively owned farm that aspires to be an inclusive laboratory of holistic technology exploration. Iruway is a farm located at the foothills of Devarayandurga near Durgadahalli village in Tumakuru district. Iruway is inside Halekote, and is close to forests and hills.
 

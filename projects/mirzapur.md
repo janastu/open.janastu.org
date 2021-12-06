@@ -30,7 +30,7 @@ As part of “la Caixa” Banking Foundation call Challenge Work4progress 2019, 
 
 ### **Solution**
 
-Aimed at creating synergies between gig empowered young women and digitally connected communities**. **Nurture an outlook for women to think beyond the convention towards new age income generation opportunities. A tech platform will help enable “self preneurs” engaging with local communities through freelancing opportunities to create a sustainable ecosystem.
+Aimed at creating synergies between gig empowered young women and digitally connected communities**.** Nurture an outlook for women to think beyond the convention towards new age income generation opportunities. A tech platform will help enable “self preneurs” engaging with local communities through freelancing opportunities to create a sustainable ecosystem.
 
 Our exercise is to ensure **Comfortive, Cohesive, Upskilling, Communicative, Freelancing**  spaces.
 

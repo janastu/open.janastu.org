@@ -4,7 +4,7 @@ description: Agenda for daily team meetings
 
 # Daily Agenda
 
-💻 **Meeting Room: **[**https://8x8.vc/slots/team**](https://8x8.vc/slots/team)** **
+💻 **Meeting Room:** [**https://8x8.vc/slots/team**](https://8x8.vc/slots/team) ****&#x20;
 
 ⏱️ **Meeting Time: 02:30 PM (Mon and Thu)**
 
@@ -1467,11 +1467,11 @@ shilpa. spreadsheet [https://drive.google.com/drive/folders/1HuUZ6cf8sDHjMPVirlC
 
 [https://youtu.be/Zm8hhYDseiQ](https://youtu.be/Zm8hhYDseiQ) irrfan maaya? symposium on #thehandmade 2018 [https://www.youtube.com/watch?v=\_llTFn4KY3o\&t=9m](https://www.youtube.com/watch?v=\_llTFn4KY3o\&t=9m) (do hear - its 3min 🥰 )
 
-**sheet Mapper **[https://www.mapbox.com/impact-tools/sheet-mapper](https://www.mapbox.com/impact-tools/sheet-mapper)
+**sheet Mapper** [https://www.mapbox.com/impact-tools/sheet-mapper](https://www.mapbox.com/impact-tools/sheet-mapper)
 
 heli keli / kaho suno (retro [https://www.youtube.com/watch?v=y3JSqcyy8r4](https://www.youtube.com/watch?v=y3JSqcyy8r4)) [https://github.com/janastu/janastu.github.io/blob/master/\_projects/heelikeeli.md](https://github.com/janastu/janastu.github.io/blob/master/\_projects/heelikeeli.md)
 
-shilpa call for volunteers: [https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view](https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view) **sample hospital map from the sheet **[https://lapis-great-season.glitch.me/](https://lapis-great-season.glitch.me) which is generated from this sheet in the COVID drive folder: [https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/](https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/)
+shilpa call for volunteers: [https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view](https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view) **sample hospital map from the sheet** [https://lapis-great-season.glitch.me/](https://lapis-great-season.glitch.me) which is generated from this sheet in the COVID drive folder: [https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/](https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/)
 
 tomorrow we can have a chat with Neha from Duriya village. I'll introduce her to all you. The call will be between 3pm-4pm. Neha prefers this time. Please let me know whoever can join [https://docs.google.com/spreadsheets/d/1Fd\_u6-MU8rlI2YJlbOjiT41T2kpHQKRCIfOlMLyXMF4/edit#gid=0](https://docs.google.com/spreadsheets/d/1Fd\_u6-MU8rlI2YJlbOjiT41T2kpHQKRCIfOlMLyXMF4/edit#gid=0)
 
@@ -1489,7 +1489,7 @@ Emery will make a page about intalling [https://yggdrasil-network.github.io/](ht
 
 AS/papad: Bhanu asked create one single table, but it uses 2 table. station details and related image. audio id and all in another table.
 
-**Irrfan **[https://www.youtube.com/watch?v=\_llTFn4KY3o\&t=9m](https://www.youtube.com/watch?v=\_llTFn4KY3o\&t=9m)** min 9**
+**Irrfan** [https://www.youtube.com/watch?v=\_llTFn4KY3o\&t=9m](https://www.youtube.com/watch?v=\_llTFn4KY3o\&t=9m) **min 9**
 
 Maaya hosted? Asks Emery Hosted on github itself. Also Bhanu will share pkg related info.
 
@@ -1595,13 +1595,13 @@ Story Corps update by Bhanu
 
 Annotation tool that lets you store locally [https://getpolarized.io/#features](https://getpolarized.io/#features)
 
-digital literacy - Google ? [https://www.womenwill.com/programs/internetsaathi/](https://www.womenwill.com/programs/internetsaathi/) **DEF mailer mentions Internet Saathis **[https://www.defindia.org/wp-content/uploads/2020/04/April.html](https://www.defindia.org/wp-content/uploads/2020/04/April.html)
+digital literacy - Google ? [https://www.womenwill.com/programs/internetsaathi/](https://www.womenwill.com/programs/internetsaathi/) **DEF mailer mentions Internet Saathis** [https://www.defindia.org/wp-content/uploads/2020/04/April.html](https://www.defindia.org/wp-content/uploads/2020/04/April.html)
 
 webmemex to archive tweets and pages?
 
 > \[name=bhanu] not sure if social media posts will work with webmemx, upon testing found the css is not loading. Dinesh mentioned how to remote upload snapshots, emery suggest we can save on local filesysten and enable a syncthing kind of a sync service for snapshots
 >
-> > [https://getpolarized.io/](https://getpolarized.io)** gerben mentioned - they do annotation with data kept locally ** Ananth+ issues
+> > [https://getpolarized.io/](https://getpolarized.io) **gerben mentioned - they do annotation with data kept locally** Ananth+ issues
 > >
 > > > This really looks good, didnt try the desktop app yet tho, will checkout
 

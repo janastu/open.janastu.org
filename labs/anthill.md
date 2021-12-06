@@ -2,59 +2,23 @@
 description: Upcoming / Earlier / Topics / About / History
 ---
 
-# Anthillhacks 20.21
+# Anthillhacks 20.22
 
 ## **About**
 
-![](../.gitbook/assets/anthill.png)
+![](<../.gitbook/assets/Copy of Copy\_of\_anthill\_poster1.png>)
 
-The third major edition of Anthillhacks starts on December 30, 2020 and continues through January 2021 and hopefully longer. This time the idea of Anthillhacks is to encourage people to meet virtually and on site at Iruway Farm near Devarayanadurga and more importantly, in this COVID period, to do small projects, workshops and activities locally wherever participants live. The topics for these breakout, offline sessions will continue the work initiated online. The topics begin with crafts, rural people and the uses of technology. rururbanization and selfhoods, makers spaces, decentralized web and geneaologies of the open source concept.  Our goal for this edition, as for all editions, is to be inclusive of diverse linguistic and literacy groups along with our long** **term commitment to incorporate diversity in other forms in thoughtful and challenging ways.&#x20;
+## **T**ogether Being Apart
 
-*   **Session link: **[http://meet.jit.si/anthillhacks](http://meet.jit.si/anthillhacks)
+We want to experiment with cooking and hacking together - offline with online participants - as a way to maybe connect sideways and informally in these times of fatiguing online sessions.
 
-    this link will be where the session will be live. If you are connecting through phone, you can download the Jitsi app and on laptop / desktop you can use latest Chrome or Firefox. [https://jitsi.org/#download](https://jitsi.org/#download) It is very likely the session will be recorded and also live streamed on Facebook and Youtube. If you do not want be recorded, please message us and we will try to edit you out from the recording.
-*   **Gathering (pre/post meets):** [http://j.mp/wonderant](http://j.mp/wonderant)
+Our theme is to "Cook together and hack together, being apart" within the WiFi mesh network that has been set up in 4 villages at the Devarayanadurga hills and the valley of Halekote (https://iruway.janastu.org/), Durgadahalli and Thimmanayakanahalli. We intend to connect these to the Internet world and friends who would like to join in some of these sessions.
 
-    this is a link to a gathering space online, before session and after to meet speakers and others, in private groups or find each other and to continue conversations after the session - maybe with a plate of food (beyond lunch time in India).
-*   **Channel (during/after sessions):** [http://j.mp/anthillchat](http://bit.ly/anthillchat)
 
-    this is the discord link/invite for larger conversations around AnthillHacks. Discord is a chatting forum where you can lurk around and initiate conversations. You can give feedback, start new workshops and suggest new directions. There's a channel where we collect the links that attendees have sent in relation to the talks. Another channel holds notes from the session. Feel free to explore, roam and lurk around after-hours.
-* **Gitbook (archives/details):** [https://open.janastu.org/activity/anthill](https://open.janastu.org/activity/anthill)
 
-## **Earlier**
+****
 
-### **December 30, 2020 12.30 PM Session 1 Craft**
-
-&#x20;**Yatharth**, Crafts/Technology/Futures, Designer, Janastu Collective, Bangalore\
-&#x20;**Atul Johri**, Design-Craft interfaces, Tulsi Farms, Chennapattana\
-&#x20;**Annapurna Garimella**, Interlocutor, Managing Trustee, A.R.T. Trust, Bangalore\
-**** _Session Recording_:  [https://files.janastu.org/s/prxkz7xZqAn3sN4](https://files.janastu.org/s/prxkz7xZqAn3sN4)
-
-### **January 06, 2021 12.30 PM Session 2 Rural People and the Use of Technology**
-
-&#x20;**Girish Vedanth**, on community radio, Pragati Foundation, Nonavinakere\
-&#x20;**Sindhura D. Manjunath**, on videos and villagers, A.R.T. Trust, Bangalore\
-&#x20;**Indu Krishnan**, Interlocutor, Documentary Film Maker, Bangalore\
-**** _Session Recording_:  [https://files.janastu.org/s/2CiazTD4pwCrwdH](https://files.janastu.org/s/2CiazTD4pwCrwdH)
-
-### **January 14, 2021 12.30 PM Session 3 **The Black Sheep of Progress
-
-**Shalini** on the pastoral fields near Belgaum with **Neelkantha mama** and **Ankit's film crew** on making of the documentary 'Herd Walk/Bhed Chal'. [http://mitan.in/followsheep/](http://mitan.in/followsheep/)
-
-**Shrestha** with ESG team in the villages by **Amrut Mahal Kava**l near Chellakere with **Karianna** on Farmer Producer Orgs. Readings from ESG archives [https://esgindia.org/new/tag/amrit-mahal-kaval/](https://esgindia.org/new/tag/amrit-mahal-kaval/)
-
-Interlocutor: **Prof. Kandasamy**, **Prof Animal Genetics**, Coimbatore
-
-![](<../.gitbook/assets/the-black-sheep-of-progress (2) (2).jpg>)
-
-_Session Recording_: [ https://files.janastu.org/s/Rz8zATmxy7nQCqb](https://files.janastu.org/s/Rz8zATmxy7nQCqb)
-
-## **Topics Upcoming**
-
-Rururbanization\
-Tinkering and Thinkering \
-Wireless Mesh \
-Opensource Genealogies
+&#x20;
 
 ## OUR HISTORY
 
@@ -76,7 +40,7 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * Location: Devarayanadurga hills&#x20;
 * Poster: j.mp/iruway
 
-**SOTM ANTHILLHACKS **
+**SOTM ANTHILLHACKS**&#x20;
 
 * Date: 19-20 Nov 2018
 * Location: iruWay farm, foothills of Devarayanadurga hills
@@ -88,9 +52,10 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * [Poster](https://drive.google.com/file/d/1ALnVkESjv2K4tA6Z4tWB7shcPi-l4aR4/view)
 * [Video 1](https://vimeo.com/392178753) &  [Video 2](https://vimeo.com/390408799)
 
-**ANTHILLHACKS 20.21 **(online sessions)
+**ANTHILLHACKS 20.21** (online sessions)
 
-* Date 30 Dec 2020 -  Jan 27 2021** **
+* Date 30 Dec 2020 -  Jan 27 2021 ****&#x20;
+* **Session**  information: [https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view](https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view)
 * Session link:  [https://classmeet.chiguru.tech/app/anthillhacks](https://classmeet.chiguru.tech/app/anthillhacks/)
 * Gathering (pre/post meets): [http://j.mp/wonderant](http://j.mp/wonderant)
 * Channel (during sessions): [http://j.mp/anthillchat](http://bit.ly/anthillchat)

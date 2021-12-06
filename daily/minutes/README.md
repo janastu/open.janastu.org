@@ -7,7 +7,7 @@ description: >-
 
 # Minutes of Meetings
 
-### [**Minutes of Meetings**](https://app.gitbook.com/@janastu/s/openjanastu/\~/drafts/-MX06fsOWOpUkwACywAU/daily/minutes)** Read and Update **[**Agenda**](../agenda.md)****
+### [**Minutes of Meetings**](https://app.gitbook.com/@janastu/s/openjanastu/\~/drafts/-MX06fsOWOpUkwACywAU/daily/minutes) **Read and Update** [**Agenda**](../agenda.md)****
 
 ## Current
 

@@ -16,7 +16,7 @@ For us, accessibility means something different. It means a social semantic web.
 
 ![](../.gitbook/assets/re-narration.jpg)
 
-A presentation of how Web Annotations can support a renarration Web for low-literates** **[http://bit.ly/AnnoReno ](http://bit.ly/AnnoReno)
+A presentation of how Web Annotations can support a renarration Web for low-literates **** [http://bit.ly/AnnoReno ](http://bit.ly/AnnoReno)
 
 A presentation that contextualizes the opportunity of oral narratives as heritage today -- in contrast to the heritage until today which likely was commissioned by the privileged [http://bit.ly/dinesh-srishti-jan18](http://bit.ly/dinesh-srishti-jan18)
 
@@ -46,7 +46,7 @@ Renarration and Accessiblity - T B Dinesh on Localized Knowledge in Rural India 
 * Social semantic web (local/decentralized) and bcp [http://mitan.in/bcp/raika/](http://mitan.in/bcp/raika/)
 * [https://wiki.janastu.org/wiki/Alipi](https://wiki.janastu.org/wiki/Alipi) Early applications of Renaration ideas
 * [https://open.janastu.org/projects/renarration](https://open.janastu.org/projects/renarration) a comprehensive peek at related activities,
-* [https://arxiv.org/pdf/1810.12379.pdf](https://arxiv.org/pdf/1810.12379.pdf) Renarration for All journal paper, and** **[https://www.youtube.com/watch?v=svmru\_8Xo9o](https://www.youtube.com/watch?v=svmru\_8Xo9o) a video overview from 2016
+* [https://arxiv.org/pdf/1810.12379.pdf](https://arxiv.org/pdf/1810.12379.pdf) Renarration for All journal paper, and **** [https://www.youtube.com/watch?v=svmru\_8Xo9o](https://www.youtube.com/watch?v=svmru\_8Xo9o) a video overview from 2016
 
 {% tabs %}
 {% tab title="Docs" %}

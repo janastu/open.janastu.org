@@ -1,12 +1,12 @@
 # Organisations
 
-`organisations` , `individuals `, `Events`
+`organisations` , `individuals` , `Events`
 
-* ****[**Mitan**](http://mitan.in)** ** in the language of the Adivasis of Bastar means - A long term business relationship across the value chain upholding human dignity. MITAN was promoted by a network of professionals from diverse fields, including Scientists, Designers, Information Technologists, Textile Engineers, Social Scientists, Architects, and Communications & Media professionals committed to craft-based, sustainable livelihoods approach to development.
+* ****[**Mitan**](http://mitan.in) **** in the language of the Adivasis of Bastar means - A long term business relationship across the value chain upholding human dignity. MITAN was promoted by a network of professionals from diverse fields, including Scientists, Designers, Information Technologists, Textile Engineers, Social Scientists, Architects, and Communications & Media professionals committed to craft-based, sustainable livelihoods approach to development.
 
 
 
-* [**AGNII - Art For All**](http://agnii.org)**  **began as an entertainment group performing fire-dance and drum shows and today has metamorphosed into an ART for a CAUSE group, aspiring to create a culture of peace, friendship and harmony in the society. Agnii is driven by passion to see the world smile and dance with joy.
+* [**AGNII - Art For All**](http://agnii.org)  ****  began as an entertainment group performing fire-dance and drum shows and today has metamorphosed into an ART for a CAUSE group, aspiring to create a culture of peace, friendship and harmony in the society. Agnii is driven by passion to see the world smile and dance with joy.
 
 
 
@@ -18,15 +18,15 @@
 
 
 
-* **Neelkanth Mama **a shepherd and social activist, distinguished intelligence of the educated that relies on technology from wisdom among the shepherds who rely on nature for their knowledge
+* **Neelkanth Mama** a shepherd and social activist, distinguished intelligence of the educated that relies on technology from wisdom among the shepherds who rely on nature for their knowledge
 
 
 
-* **Prabir Chitrakar - **Patachitra artists in bengal, Community of artist working on contemporary as well as traditional patachitra.
+* **Prabir Chitrakar -** Patachitra artists in bengal, Community of artist working on contemporary as well as traditional patachitra.
 
 
 
-* **Alemaree - **Creating a Makerspace and helping community in crafts.
+* **Alemaree -** Creating a Makerspace and helping community in crafts.
 
 &#x20;
 
@@ -50,7 +50,7 @@
 
 
 
-* ****[**LLN**](https://www.apc.org/fr/node/37104)** - **Community of Transgenders ( Bhooteru ) in Bidar, Mediamaking and storytelling from the community to the world. Facilitating the archives of their community stories through a decentralised mesh node.&#x20;
+* ****[**LLN**](https://www.apc.org/fr/node/37104) **-** Community of Transgenders ( Bhooteru ) in Bidar, Mediamaking and storytelling from the community to the world. Facilitating the archives of their community stories through a decentralised mesh node.&#x20;
 
 
 

@@ -48,7 +48,7 @@
   * [Join us](contact/join.md)
   * [Websites](contact/website.md)
 
-## Meetings <a href="daily" id="daily"></a>
+## Meetings <a href="#daily" id="daily"></a>
 
 * [Daily Agenda](daily/agenda.md)
 * [Minutes of Meetings](daily/minutes/README.md)
@@ -76,10 +76,10 @@
     * [April](daily/minutes/2020/april2020.md)
     * [March](daily/minutes/2020/march2020.md)
 
-## Events & Labs <a href="labs" id="labs"></a>
+## Events & Labs <a href="#labs" id="labs"></a>
 
 * [KiFi 2021](labs/kifi-2021.md)
-* [Anthillhacks 20.21](labs/anthill.md)
+* [Anthillhacks 20.22](labs/anthill.md)
 * [IruWay Farm](labs/iruway.md)
 * [Devarayanadurga Jatre](labs/ddhills-jatre.md)
 

@@ -9,7 +9,7 @@ description: >-
 
 ![](.gitbook/assets/untitled-1.jpg)
 
-## **Janastu is a people oriented open-source collective working to enable community storytelling by the people, for the people. **
+## **Janastu is a people oriented open-source collective working to enable community storytelling by the people, for the people.**&#x20;
 
 Our mission is to build decentralized community owned networks to provision local connectivity in remote areas and to facilitate Internet, technology and crafts literacy.&#x20;
 
