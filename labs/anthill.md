@@ -14,6 +14,10 @@ We want to experiment with cooking and hacking together - offline with online pa
 
 Our theme is to "Cook together and hack together, being apart" within the WiFi mesh network that has been set up in 4 villages at the Devarayanadurga hills and the valley of Halekote (https://iruway.janastu.org/), Durgadahalli and Thimmanayakanahalli. We intend to connect these to the Internet world and friends who would like to join in some of these sessions.
 
+We intend to have parallel cooking of the same recipe (adapted to location of the parallellt cooking participants) in different villages of anthill area (https://open.janastu.org/projects/cowmesh) where some are likely to join in from outside - India and elsewhere.
+
+A similar process / pattern we hope will be used for other tech and non-tech activities you all bring into the event.
+
 
 
 ****
