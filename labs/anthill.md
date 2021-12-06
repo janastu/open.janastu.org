@@ -12,9 +12,9 @@ description: Upcoming / Earlier / Topics / About / History
 
 We want to experiment with cooking and hacking together - offline with online participants - as a way to maybe connect sideways and informally in these times of fatiguing online sessions.
 
-Our theme is to _"Cook together and hack together, being apart"_ within the WiFi mesh network that has been set up in 4 villages at the Devarayanadurga hills and the valley of Halekote (https://iruway.janastu.org/), Durgadahalli and Thimmanayakanahalli. We intend to connect these to the Internet world and friends who would like to join in some of these sessions.
+Our theme is to _"**Cook together and hack together, being apart**"_ within the WiFi mesh network that has been set up in 4 villages at the Devarayanadurga hills and the valley of Halekote (https://iruway.janastu.org/), Durgadahalli and Thimmanayakanahalli. We intend to connect these to the Internet world and friends who would like to join in some of these sessions.
 
-We intend to have parallel cooking of the same recipe (adapted to location of the parallellt cooking participants) in different villages of anthill area (https://open.janastu.org/projects/cowmesh) where some are likely to join in from outside - India and elsewhere.
+We intend to have parallel cooking of the same recipe (adapted to location of the parallelly cooking participants) in different villages of anthill area (https://open.janastu.org/projects/cowmesh) where some are likely to join in from outside - India and elsewhere.
 
 A similar process / pattern we hope will be used for other tech and non-tech activities you all bring into the event.
 
@@ -38,7 +38,7 @@ Our team is listening and looking forward to include you and your session and ac
 
 We are looking forward to your sessions and also documenters and translators, particularly physically for each of the 5 locations.
 
-**Pre-announced Parallel cooking sessions** of the same “**recipe**” (adapted to location of the parallelly cooking participants) in different villages of ddhills COWmesh area where some are likely to join in from outside - india and elsewhere. A similar process/pattern we hope will be used for other tech and nontech activities you all bring in to the event.
+**Pre-announced Parallel cooking sessions** of the same “**recipe**” (adapted to location of the parallelly cooking participants) in different villages of DDHills COWmesh area where some are likely to join in from outside - india and elsewhere. A similar process/pattern we hope will be used for other tech and nontech activities you all bring in to the event.
 
 ### Physical Locations within the COWmesh area <a href="#physical-locations-within-the-cowmesh-area" id="physical-locations-within-the-cowmesh-area"></a>
 
