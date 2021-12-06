@@ -12,17 +12,54 @@ description: Upcoming / Earlier / Topics / About / History
 
 We want to experiment with cooking and hacking together - offline with online participants - as a way to maybe connect sideways and informally in these times of fatiguing online sessions.
 
-Our theme is to "Cook together and hack together, being apart" within the WiFi mesh network that has been set up in 4 villages at the Devarayanadurga hills and the valley of Halekote (https://iruway.janastu.org/), Durgadahalli and Thimmanayakanahalli. We intend to connect these to the Internet world and friends who would like to join in some of these sessions.
+Our theme is to _"Cook together and hack together, being apart"_ within the WiFi mesh network that has been set up in 4 villages at the Devarayanadurga hills and the valley of Halekote (https://iruway.janastu.org/), Durgadahalli and Thimmanayakanahalli. We intend to connect these to the Internet world and friends who would like to join in some of these sessions.
 
 We intend to have parallel cooking of the same recipe (adapted to location of the parallellt cooking participants) in different villages of anthill area (https://open.janastu.org/projects/cowmesh) where some are likely to join in from outside - India and elsewhere.
 
 A similar process / pattern we hope will be used for other tech and non-tech activities you all bring into the event.
 
+### Dates: Dec 23rd to Jan 4th <a href="#dates-dec-23rd-to-jan-4th" id="dates-dec-23rd-to-jan-4th"></a>
 
+_Sessions and activities from **Dec 24th to Jan 3rd** (9 days including the 2 weekends of Dec 24th and Jan 1st)_
 
-****
+### Theme: Cook and Hack days <a href="#theme-cook-and-hack-days" id="theme-cook-and-hack-days"></a>
 
-&#x20;
+**Everyday session tracks**
+
+1. Wireless mesh networking, nodes/devices and services
+2. Crafts and Maker Space
+3. Learning and local content, tools and management
+4. Farming, trekking and performances on the rocks
+5. Cooking
+
+### Volunteer, participate and ideate <a href="#volunteer-participate-and-ideate" id="volunteer-participate-and-ideate"></a>
+
+Our team is listening and looking forward to include you and your session and activities including outdoor ones like trekking and sessions on the beautiful rocks around (weather permitting). Please email us at [anthillhacks@janastu.org](mailto:anthillhacks@janastu.org)
+
+We are looking forward to your sessions and also documenters and translators, particularly physically for each of the 5 locations.
+
+**Pre-announced Parallel cooking sessions** of the same “**recipe**” (adapted to location of the parallelly cooking participants) in different villages of ddhills COWmesh area where some are likely to join in from outside - india and elsewhere. A similar process/pattern we hope will be used for other tech and nontech activities you all bring in to the event.
+
+### Physical Locations within the COWmesh area <a href="#physical-locations-within-the-cowmesh-area" id="physical-locations-within-the-cowmesh-area"></a>
+
+1. Anterras by Yatrinivas, Devarayanadurga/ddhills
+2. [Iruway](https://iruway.janastu.org), Halekote
+3. [CrafterSpace](https://crafts.janastu.org), Halekote/Durgadahalli
+4. Near Village Well, Durgadahalli
+5. Tamarind Grove, Thimmanayakanahalli
+
+Distributed sessions, each location will have tents with a large screen, camera and [AsPi devices](https://blog.janastu.org). People can attend sessions live at their location or by choosing a remote channel.
+
+**Setup days** from 20th Dec, 2021 - logistics, food and other requirements.\
+**Tech wise** - streaming tools within mesh and for those joining from locations outside.
+
+### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
+
+[Janastu/Servelots](https://janastu.org) || [Chiguru CoLab](https://chigurucolab.com) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/)
+
+### Covid protocols <a href="#covid-protocols" id="covid-protocols"></a>
+
+While we are open to you coming physically to the locations at ddhills area, we also ask you to be mindful of the need for the physically present to be in comfortable (safe) spaces. We may limit numbers to be 10 in closed spaces and 25 in open spaces. The session owners will be directing who will be in their physical proximity.
 
 ## OUR HISTORY
 
