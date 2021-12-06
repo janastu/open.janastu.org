@@ -61,12 +61,15 @@ Distributed sessions, each location will have tents with a large screen, camera 
 
 While we are open to you coming physically to the locations at ddhills area, we also ask you to be mindful of the need for the physically present to be in comfortable (safe) spaces. We may limit numbers to be 10 in closed spaces and 25 in open spaces. The session owners will be directing who will be in their physical proximity.
 
+{% hint style="info" %}
+[https://j.mp/ants2122](https://j.mp/ants2122)
+{% endhint %}
+
 ## OUR HISTORY
 
 \---\
 General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://hackmd.io/anthillhacks.in)\
-A visual overview of the hill after the annotations: [graphical walkthrough](https://anthill.janastu.org/walkthrough.html)\
-"Neowarli" Anthill illustration by Megha Vishwanath\
+A visual overview of the hill after the annotations: [graphical walkthrough](https://anthill.janastu.org/walkthrough.html) "Neowarli" Anthill illustration by Megha Vishwanath\
 \---
 
 **ANTHILLHACKS 2015**
