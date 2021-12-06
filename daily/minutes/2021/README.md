@@ -1,5 +1,5 @@
 ---
-description: Minutes of meetings - January 04th - February (On going)
+description: Minutes of meetings - January 04 - December (On going)
 ---
 
 # 2021
@@ -48,4 +48,8 @@ description: Minutes of meetings - January 04th - February (On going)
 
 {% content-ref url="november2021.md" %}
 [november2021.md](november2021.md)
+{% endcontent-ref %}
+
+{% content-ref url="december2021.md" %}
+[december2021.md](december2021.md)
 {% endcontent-ref %}
