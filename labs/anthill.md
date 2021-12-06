@@ -154,8 +154,12 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * [https://twitter.com/anthillhacks](https://twitter.com/anthillhacks)
 {% endtab %}
 
-{% tab title="Email" %}
-Email: anthillhacks@janastu.org
+{% tab title="E-mail" %}
+anthillhacks@janastu.org
+
+
 {% endtab %}
 {% endtabs %}
+
+
 
