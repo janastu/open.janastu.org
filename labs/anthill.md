@@ -62,7 +62,7 @@ Distributed sessions, each location will have tents with a large screen, camera 
 While we are open to you coming physically to the locations at ddhills area, we also ask you to be mindful of the need for the physically present to be in comfortable (safe) spaces. We may limit numbers to be 10 in closed spaces and 25 in open spaces. The session owners will be directing who will be in their physical proximity.
 
 {% hint style="info" %}
-[https://j.mp/ants2122](https://j.mp/ants2122)
+_Ants21.22- Sharable & Editable link to this document:_ [_https://j.mp/ants2122_](https://j.mp/ants2122)__
 {% endhint %}
 
 ## OUR HISTORY
