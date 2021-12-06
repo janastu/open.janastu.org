@@ -79,7 +79,7 @@
 ## Events & Labs <a href="#labs" id="labs"></a>
 
 * [KiFi 2021](labs/kifi-2021.md)
-* [Anthillhacks 20.22](labs/anthill.md)
+* [Anthillhacks 21.22](labs/anthill.md)
 * [IruWay Farm](labs/iruway.md)
 * [Devarayanadurga Jatre](labs/ddhills-jatre.md)
 

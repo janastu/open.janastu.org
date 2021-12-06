@@ -2,11 +2,11 @@
 description: Upcoming / Earlier / Topics / About / History
 ---
 
-# Anthillhacks 20.22
+# Anthillhacks 21.22
 
 ## **About**
 
-![](<../.gitbook/assets/Copy of Copy\_of\_anthill\_poster1.png>)
+![](../.gitbook/assets/Anthillhacks21.21.jpg)
 
 ## **T**ogether Being Apart
 
@@ -96,7 +96,7 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 **ANTHILLHACKS 20.21** (online sessions)
 
 * Date 30 Dec 2020 -  Jan 27 2021 ****&#x20;
-* **Session**  information: [https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view](https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view)
+* Session **** information: [https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view](https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view)
 * Session link:  [https://classmeet.chiguru.tech/app/anthillhacks](https://classmeet.chiguru.tech/app/anthillhacks/)
 * Gathering (pre/post meets): [http://j.mp/wonderant](http://j.mp/wonderant)
 * Channel (during sessions): [http://j.mp/anthillchat](http://bit.ly/anthillchat)
@@ -150,8 +150,9 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * [https://www.facebook.com/anthillhacks](https://www.facebook.com/anthillhacks)
 * [https://twitter.com/anthillhacks](https://twitter.com/anthillhacks)
 {% endtab %}
+
+{% tab title="Email" %}
+Email: anthillhacks@janastu.org
+{% endtab %}
 {% endtabs %}
 
-```
-Email: anthillhacks@janastu.org
-```
