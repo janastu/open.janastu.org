@@ -32,6 +32,7 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [Papad Doc - Pre-Draft](https://docs.google.com/document/d/1HMSkFLkHVC82WryG-LgbkH8ViWIT65RN08eQwB4mLjg/edit)
 * [Papad Documentation](https://docs.google.com/document/d/1AZzOU\_iEVBKfQSETWQV81NbdDOJjcJ0IMu301d8SkQw/edit)
 * [Papad audio annotations data](https://docs.google.com/spreadsheets/d/1aHN2NAQLKTQnlrDUnn7Ri6VkOR-RnDtNbALNfEqeB1k/edit#gid=0)
+* [papad-audio-annotation-demo](https://docs.google.com/spreadsheets/d/1Af-RFLoj5697VlBZfjGCs3n8INBsfPtBG-any0l9jpk/edit?usp=sharing)
 * [Papad related scrap](https://hackmd.io/rzJihgL4Qk-9wJJfNmRvOg)
 * [Papad: An autoethnographic platform for Cultural Mapping](https://docs.google.com/document/d/1ScTL9lTWWXDaQd17OWerQWPefHJLIjC5D70twWO8rGU/edit?usp=sharing)
 {% endtab %}
@@ -52,5 +53,8 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/](https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/)
 * [https://embed.kumu.io/2dceaf7df116f41f1713b3d820b2a4a5#untitled-map](https://embed.kumu.io/2dceaf7df116f41f1713b3d820b2a4a5#untitled-map)
 * [papad graph](https://docs.google.com/spreadsheets/d/1jRLTd37iLM8f1ZQ54RM581GnuM4DwffRPMXSeKnRxL8/edit?usp=drivesdk)
+* [https://hackmd.io/@sagesalus/HJMYpKK8Y](https://hackmd.io/@sagesalus/HJMYpKK8Y) papad user guide
+* [https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
+* [https://bit.ly/3GkCuHt](https://bit.ly/3GkCuHt)[  ](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
 {% endtab %}
 {% endtabs %}

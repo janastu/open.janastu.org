@@ -118,7 +118,8 @@
 * [kits community network learning isif](https://docs.google.com/document/d/1oziOiqrqFOyle9KBNZxhTeRUV6On\_iyTVSRBG0j1Zmg/edit?usp=drivesdk)
 * [Call for proposal - to setup school radio](https://hackmd.io/s/S1-yyQAbt)
 * [D4GX](https://docs.google.com/document/d/1xlYmZdYhpe1QylxHNyMIahlAqKcXlfzYSHY7RvmdqRI/edit)
-*
+* [2021\_Locnet\_Final\_Narrative\_report\_CNPeer\_InstitStrengthening\_Grant](https://docs.google.com/document/d/1aIxWQ9DiMLdNAXfPdbtKhogsi7QM8QCPA1QFZcUYoYI/edit?usp=sharing)
+* [Story Version 2021\_Locnet\_Final\_Narrative\_report\_CNPeer\_InstitStrengthening\_Grant](https://docs.google.com/document/d/1we7bK1E4cOzeeuVG5TUWC2b\_lvOcPvtkBBWsXvWFb44/edit?usp=sharing)
 {% endtab %}
 
 {% tab title="Cloud" %}
