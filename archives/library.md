@@ -76,9 +76,10 @@
 * [23rd is a demo ASPi day.](https://hackmd.io/woeClMmnSOyhcXzn0Wi0Sw?view)
 * [Evaluation of the Tech Challenge project](https://docs.google.com/presentation/d/1iMdUvyEV5Q04juClVEASv\_vpyoibkJJPNoGXKjLUqPY/edit?usp=sharing)
 * [W4P\_Phase III Draft Action Plan\_Janastu](https://docs.google.com/spreadsheets/d/1dXW6VLj\_lfsp84B1b55Z7UNfZHM1fm5x/edit?usp=sharing\&ouid=114636780859087405723\&rtpof=true\&sd=true)
-* **cdr**
+* **CDR**
   * ****[**cdr audios**](https://drive.google.com/drive/folders/1kx-M4CVNfBq-ViVLEIPY7xL89Uuh6LpW?usp=sharing)****
   * [visual for cdr sheet](https://embed.kumu.io/0112f7f8a4de2fcdeb56a01a89be2425)
+  * [CDR audio-sheet](https://docs.google.com/spreadsheets/d/1Af-RFLoj5697VlBZfjGCs3n8INBsfPtBG-any0l9jpk/edit#gid=1393250620)
 * **Taragram ASPI**
   * [Taragram ASPI: Draft 1](https://docs.google.com/document/d/1z05chu8GIWuONprj\_Tf7\_Q3As9SUIrfvuh58bY506W0/edit?usp=drivesdk)
   * [Taragram ASPI: Draft 1 - Hackmd](https://hackmd.io/UF0wBMVdSoy5UeNFaVXnlA?view)
