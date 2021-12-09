@@ -49,5 +49,8 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [https://papad.test.openrun.net/item/604f7312884df2c2883eee44](https://papad.test.openrun.net/item/604f7312884df2c2883eee44)
 * [https://github.com/janastu/papad-api](https://github.com/janastu/papad-api)
 * [https://github.com/janastu/papad-monitor](https://github.com/janastu/papad-monitor)
+* [https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/](https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/)
+* [https://embed.kumu.io/2dceaf7df116f41f1713b3d820b2a4a5#untitled-map](https://embed.kumu.io/2dceaf7df116f41f1713b3d820b2a4a5#untitled-map)
+* [papad graph](https://docs.google.com/spreadsheets/d/1jRLTd37iLM8f1ZQ54RM581GnuM4DwffRPMXSeKnRxL8/edit?usp=drivesdk)
 {% endtab %}
 {% endtabs %}

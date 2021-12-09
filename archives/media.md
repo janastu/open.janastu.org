@@ -129,6 +129,9 @@
 * saju food craft  [j.mp/sajufood](http://j.mp/sajufood)
 * [GigaCow episodes photo documentary](https://photos.app.goo.gl/Z4Vnu1K6d8bfb9UWA)
 * [Kotagiri & DDhills trip pics](https://photos.app.goo.gl/yy3XyC1BZHtMyLQFA)
+* [JuJana visit ddhills inclusive](https://photos.app.goo.gl/YkaKYqBkuPYRFemn6)
+* [Biodiversity walk and plant colors Sept 2021](https://photos.app.goo.gl/RJ8wZMMZPeJ1TtNL6)
+* [Biodiversity mudhands workshop and in-between](https://photos.app.goo.gl/8D8zEMHoDnL3uHms8)
 
 &#x20;**Collection**
 
