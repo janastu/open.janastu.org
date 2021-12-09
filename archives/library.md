@@ -72,6 +72,7 @@
 * [Ram and Rizma chat recording](https://www.dropbox.com/s/skhhnsl29zhu4oq/rizma\_ram\_2021\_08\_30\_09\_27\_06.mp3?dl=0)
 * [Access to information and local content ppt](https://docs.google.com/presentation/d/1ziMJ2oMCHbIt8yvCaXu-RW8wRc5RZ4wrC89Oh4t9lfQ/edit?usp=sharing)
 * [Subversive Love ppt](https://docs.google.com/document/d/1jhoqvcyI5EU2PK3UM4eXx5NHcKywxJnNJ3ue56K31uw/edit?usp=sharing)
+* [Loving Subversion: How we build Community Networks](https://docs.google.com/presentation/d/179EIEH7mWf8QWmAUztn5uJWUgDFpirxxMD2U\_9ITDC4/edit?usp=sharing)
 * **cdr**
   * ****[**cdr audios**](https://drive.google.com/drive/folders/1kx-M4CVNfBq-ViVLEIPY7xL89Uuh6LpW?usp=sharing)****
   * [visual for cdr sheet](https://embed.kumu.io/0112f7f8a4de2fcdeb56a01a89be2425)
