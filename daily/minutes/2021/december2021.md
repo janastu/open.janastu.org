@@ -2,6 +2,15 @@
 
 ## Slots minutes of meetings - December 2021
 
+### 09 December 2021
+
+* Mukunth have discussed papad upcoming features and rewrite the whole app to react.
+* Mani said he will help on wireframe for the papad
+* Athithya suggessted will add progress of the user availability on the Dashboard page.
+* shared link
+  * [https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/](https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/)
+  * [https://docs.google.com/document/d/1yFwLGMRkHoybsv2ueRHziBuCpvs9vcnLBSsKAWN8Jkk/edit?usp=sharing](https://docs.google.com/document/d/1yFwLGMRkHoybsv2ueRHziBuCpvs9vcnLBSsKAWN8Jkk/edit?usp=sharing)
+
 ### 06 December 2021
 
 * Mani, Dinesh have discussed Posters. Dinesh wants real image below the hills on the poster.
