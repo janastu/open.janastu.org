@@ -4,7 +4,7 @@ description: Hypermedia storytelling, archiving and media making through Audio.
 
 # Papad API
 
-## **Summary**
+## ****[#summary](papad.md#summary "mention")**Summary**
 
 ![](../.gitbook/assets/papad.png)
 
@@ -48,6 +48,7 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [https://papad.test.openrun.net/item/604b7927c2db367f593eee3a](https://papad.test.openrun.net/item/604b7927c2db367f593eee3a)
 * [https://papad.test.openrun.net/item/60536dd8884df2c2883eee55 ](https://papad.test.openrun.net/item/60536dd8884df2c2883eee55)
 * [https://papad.test.openrun.net/item/604f7312884df2c2883eee44](https://papad.test.openrun.net/item/604f7312884df2c2883eee44)
+* [https://gitlab.com/servelots/papad-api](https://gitlab.com/servelots/papad-api)
 * [https://github.com/janastu/papad-api](https://github.com/janastu/papad-api)
 * [https://github.com/janastu/papad-monitor](https://github.com/janastu/papad-monitor)
 * [https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/](https://cryptpad.fr/pad/#/2/pad/view/azlvSOaisD287FF0y38A2xu+lhomhH7Ri95Ph9kgBqo/)
@@ -55,6 +56,12 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [papad graph](https://docs.google.com/spreadsheets/d/1jRLTd37iLM8f1ZQ54RM581GnuM4DwffRPMXSeKnRxL8/edit?usp=drivesdk)
 * [https://hackmd.io/@sagesalus/HJMYpKK8Y](https://hackmd.io/@sagesalus/HJMYpKK8Y) papad user guide
 * [https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
-* [https://bit.ly/3GkCuHt](https://bit.ly/3GkCuHt)[  ](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
+* [https://bit.ly/3GkCuHt](https://bit.ly/3GkCuHt)
+* [Papad audio tagger](https://apkpure.com/papad-audio-tagger/org.janastu.annotationapp)
+* [Papad audio tagger app 1.0](https://cloudapks.com/app/annotationapp.janastu.org.papadapp/)
+*   [Papad snippets](https://gitlab.com/-/snippets/1955143)
+
+    \
+    [    ](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
 {% endtab %}
 {% endtabs %}
