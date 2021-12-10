@@ -4,7 +4,7 @@ description: Hypermedia storytelling, archiving and media making through Audio.
 
 # Papad API
 
-## ****[#summary](papad.md#summary "mention")**Summary**
+## **Summary**
 
 ![](../.gitbook/assets/papad.png)
 
