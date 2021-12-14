@@ -2,6 +2,14 @@
 
 ## Slots minutes of meetings - December 2021
 
+### 13 December 2021
+
+* Mukunth installed Ubuntu on his laptop and he setted papad then it worked.
+* Shalini and Bhanu discussed the mongodb issue.
+* Dinesh asked Arun to look for a temporary room for anthill hack people.
+* Micah and Dinesh talked about UP report and DA activities https://hackmd.io/@miximon/BJm\_XwN9K/edit
+* Dinesh and shalini asked team how will be participants in anthill hack and talked listing activity, cooking recipes, online participants link, posters design and planning daily meeting.
+
 ### 09 December 2021
 
 * Mukunth have discussed papad upcoming features and rewrite the whole app to react.
