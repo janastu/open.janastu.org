@@ -53,9 +53,19 @@ Distributed sessions, each location will have tents with a large screen, camera 
 **Setup days** from 20th Dec, 2021 - logistics, food and other requirements.\
 **Tech wise** - streaming tools within mesh and for those joining from locations outside.
 
+### Online participants link
+
+* Session link: [http://meet.jit.si/anthillhacks](http://meet.jit.si/anthillhacks)
+
+This link will be where the session will be live. If you are connecting through phone, you can download the Jitsi app and on laptop / desktop you can use latest Chrome or Firefox. [https://jitsi.org/#download](https://jitsi.org/#download)
+
+* Channel (during/after sessions): [http://j.mp/anthillchat](http://j.mp/anthillchat)
+
+This is the discord link/invite for larger conversations around AnthillHacks. Discord is a chatting forum where you can lurk around and initiate conversations. You can give feedback, start new workshops and suggest new directions.
+
 ### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
 
-[Janastu/Servelots](https://janastu.org) || [Chiguru CoLab](https://chigurucolab.com) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/)
+[Janastu/Servelots](https://janastu.org) || [Chiguru CoLab](https://chigurucolab.com) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com) || [Futuretronlabs](https://www.futuretronlabs.in)
 
 ### Covid protocols <a href="#covid-protocols" id="covid-protocols"></a>
 
