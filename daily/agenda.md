@@ -12,6 +12,11 @@ description: Agenda for daily team meetings
 
 Team Log Jam: [https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing)
 
+## 13-12-21
+
+* anthill hack updates
+* DA activities
+
 ## 17-10-21
 
 * Papad upgrade changes
