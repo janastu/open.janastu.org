@@ -53,15 +53,15 @@ Distributed sessions, each location will have tents with a large screen, camera 
 **Setup days** from 20th Dec, 2021 - logistics, food and other requirements.\
 **Tech wise** - streaming tools within mesh and for those joining from locations outside.
 
-### Online participants link
+### Online participants
+
+If you are connecting through Laptop / Desktop you can use latest Chrome or Firefox and join via the below link.
 
 * Session link: [http://meet.jit.si/anthillhacks](http://meet.jit.si/anthillhacks)
 
-This link will be where the session will be live. If you are connecting through phone, you can download the Jitsi app and on laptop / desktop you can use latest Chrome or Firefox. [https://jitsi.org/#download](https://jitsi.org/#download)
+If you are connecting through phone, you can dowload the app for iOS/android here [https://jitsi.org/#download](https://jitsi.org/#download)
 
-* Channel (during/after sessions): [http://j.mp/anthillchat](http://j.mp/anthillchat)
-
-This is the discord link/invite for larger conversations around AnthillHacks. Discord is a chatting forum where you can lurk around and initiate conversations. You can give feedback, start new workshops and suggest new directions.
+To get involved in discussions, share your ideas for workshop or sessions, give feedback, and stay in touch with our community, you can join our discord channel. [http://j.mp/anthillchat](http://j.mp/anthillchat)
 
 ### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
 
