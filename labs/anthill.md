@@ -78,7 +78,7 @@ _Ants21.22- Sharable & Editable link to this document:_ [_https://j.mp/ants2122_
 ## OUR HISTORY
 
 \---\
-General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://hackmd.io/anthillhacks.in)\
+General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://anthillhacks.in)\
 A visual overview of the hill after the annotations: [graphical walkthrough](https://anthill.janastu.org/walkthrough.html) "Neowarli" Anthill illustration by Megha Vishwanath\
 \---
 
