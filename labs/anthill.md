@@ -69,9 +69,10 @@ While we are open to you coming physically to the locations at ddhills area, we 
 
 ### Participation Links for online visitors: <a href="#participation-links-for-online-visitors" id="participation-links-for-online-visitors"></a>
 
-To get involved in discussions, share your ideas for workshops or sessions, give feedback, and stay in touch with our community, you can join our discord channel.\
-Session Link: [https://meet.jit.si/anthillhacks](https://meet.jit.si/anthillhacks)\
-Our Discord channel: [http://j.mp/anthillchat](http://j.mp/anthillchat)
+To get involved in discussions, share your ideas for workshops or sessions, give feedback, and stay in touch with our community, you can join our discord channel.
+
+* Session Link: [https://meet.jit.si/anthillhacks](https://meet.jit.si/anthillhacks)
+* Our Discord channel: [http://j.mp/anthillchat](http://j.mp/anthillchat)
 
 ### Food & Accommodation: <a href="#food-amp-accommodation" id="food-amp-accommodation"></a>
 
