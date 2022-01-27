@@ -175,7 +175,7 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * [Anthill-restricted access doc](https://docs.google.com/document/d/1lk5RhtMIBl14KJ\_3vMGXKmxb0MY2gtlCU5zZhl5ilXo/edit?usp=sharing)
 * [2019AnthillHacksElectronicItems07to20](https://docs.google.com/spreadsheets/d/1CvJ7xNfW54Rld1Aqz68loMdm6TIMF0ZgxuJ1X-58ROg/edit?usp=sharing)
 * Anthillhacks 21.22 Documentation
-  * crafts sessions https://hackmd.io/@scarecrow/H1GexKp2Y/edit
+  * crafts sessions [https://hackmd.io/AMB1NxQcSn-qAzMqf6pHQA](https://hackmd.io/AMB1NxQcSn-qAzMqf6pHQA)
   * [https://pad.riseup.net/p/cow221](https://pad.riseup.net/p/cow221)
 {% endtab %}
 {% endtabs %}
