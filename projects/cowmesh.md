@@ -50,6 +50,7 @@ Community owned mesh networks and radios began with Namma School Radio where old
 * [Cowmesh 360](https://youtu.be/\_GMFiM0R-\_M)
 * [BAIF-Gram Marg Jawhar visit: 20 to 25 August 2019](http://homepages.iitb.ac.in/\~sarbanibelur/APC/assets/reports/field/August%20Field%20report.pdf)
 * [Making\_a\_mesh\_comic-layout-mesh.pdf](https://www.dropbox.com/s/0qame3igrho6f5i/Comic-Layout-\_Mesh.pdf?dl=0)
+* [https://pad.riseup.net/p/cow221](https://pad.riseup.net/p/cow221) COWMesh Maintenance doc
 {% endtab %}
 
 {% tab title="Diagram" %}
