@@ -10,6 +10,9 @@
 * Team have recap what are the event happened at Anthillhack and filled the calendar
   * [https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/    ](https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/)
 * Dyuman have updated thinkcentre network monitoring
+* Shared links:
+  * [https://prodi.gy/](https://prodi.gy)
+  * [https://github.com/midas-research/audino](https://github.com/midas-research/audino)
 
 ### 24 January 2022
 
