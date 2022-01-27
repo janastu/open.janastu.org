@@ -59,7 +59,10 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [https://bit.ly/3GkCuHt](https://bit.ly/3GkCuHt)
 * [Papad audio tagger](https://apkpure.com/papad-audio-tagger/org.janastu.annotationapp)
 * [Papad audio tagger app 1.0](https://cloudapks.com/app/annotationapp.janastu.org.papadapp/)
-*   [Papad snippets](https://gitlab.com/-/snippets/1955143)
+* [Papad snippets](https://gitlab.com/-/snippets/1955143)
+* [https://mock-papad.test.openrun.net/home](https://mock-papad.test.openrun.net/homehttps://pad.disroot.org/p/z\_mockpapad)
+*   [https://pad.disroot.org/p/z\_mockpapad](https://mock-papad.test.openrun.net/homehttps://pad.disroot.org/p/z\_mockpapad)[    \
+    ](https://mock-papad.test.openrun.net/homehttps://pad.disroot.org/p/z\_mockpapad)
 
     \
     [    ](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
