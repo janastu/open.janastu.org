@@ -1,5 +1,5 @@
 ---
-description: Minutes of meetings - January 04 - December (On going)
+description: Minutes of meetings - January 04 - 13 December
 ---
 
 # 2021

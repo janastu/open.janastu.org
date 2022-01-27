@@ -52,6 +52,8 @@
 
 * [Daily Agenda](daily/agenda.md)
 * [Minutes of Meetings](daily/minutes/README.md)
+  * [2022](daily/minutes/2022/README.md)
+    * [January](daily/minutes/2022/january2022.md)
   * [2021](daily/minutes/2021/README.md)
     * [December](daily/minutes/2021/december2021.md)
     * [November](daily/minutes/2021/november2021.md)
