@@ -4,6 +4,15 @@
 
 
 
+### 27 January 2022
+
+* Dinesh asked everyone to login janastu wiki page and edit content https://wiki.janastu.org/wiki/Main\_Page
+* Dinesh told Arun to look and change from old pattern to new for Alipi.
+* Micah updated on DA Meeting, In Phase1 the janastu will support hardware and a workshop.
+* Nextcloud issues is fixed. files.janastu.org is now working, with file upload limit upto 10GB. Bhanu told.
+* Dyuman shareding he was insttaling network monitoring script on the Ravemill Pi speed to the internet.
+* Today evening there is a Papad discussion, Micah asked Mani and others to join.
+
 ### 20 January 2022
 
 * Started with general discussion,
