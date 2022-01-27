@@ -177,6 +177,7 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * Anthillhacks 21.22 Documentation
   * crafts sessions [https://hackmd.io/AMB1NxQcSn-qAzMqf6pHQA](https://hackmd.io/AMB1NxQcSn-qAzMqf6pHQA)
   * [https://pad.riseup.net/p/cow221](https://pad.riseup.net/p/cow221)
+  * [https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/    ](https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/) Anthillhack calendar
 {% endtab %}
 {% endtabs %}
 
