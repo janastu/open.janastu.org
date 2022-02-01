@@ -11,11 +11,15 @@ description: >-
 
 ## Current
 
-{% content-ref url="2022/january2022.md" %}
-[january2022.md](2022/january2022.md)
+{% content-ref url="2022/february2022.md" %}
+[february2022.md](2022/february2022.md)
 {% endcontent-ref %}
 
 ## Archives
+
+{% content-ref url="2021/" %}
+[2021](2021/)
+{% endcontent-ref %}
 
 {% content-ref url="2020/" %}
 [2020](2020/)
