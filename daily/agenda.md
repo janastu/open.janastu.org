@@ -12,6 +12,16 @@ description: Agenda for daily team meetings
 
 Team Log Jam: [https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz1a0MYos98zyYOtVXtY/edit?usp=sharing)
 
+## 31-01-22
+
+* Todays meeting agenda.. after the updates, apc and anthillhacks and cfp report walk through.. i would like to propose we peek at:
+  * [https://fosdem.org/2022/schedule/event/neighbourhoods/](https://fosdem.org/2022/schedule/event/neighbourhoods/)
+  * [https://detroitcommunitytech.org/sites/default/files/librarypdfs/TeachingCommunityTech.pdf](https://detroitcommunitytech.org/sites/default/files/librarypdfs/TeachingCommunityTech.pdf)
+  * [https://togethernet.org/](https://togethernet.org)
+* we can get some of us to read and call for a discussion of these in the next days.
+
+
+
 ## 24-01-22
 
 * DA report

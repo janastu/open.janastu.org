@@ -1,5 +1,5 @@
 ---
-description: Minutes of meetings - January 04 - January (On going)
+description: Minutes of meetings - January 04 - February (On going)
 ---
 
 # 2022
