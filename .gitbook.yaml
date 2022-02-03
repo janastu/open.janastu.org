@@ -3,4 +3,6 @@ root: ./
 redirects:  
     previous/page1: labs/ddhills-jatre.md
     activity/kifi-2021: labs/kifi-2021.md
-    activity/anthill: labs/anthill
+    activity/anthill: labs/anthill.md
+    activity/iruway: labs/iruway.md
+    activity/ddhills-jatre: labs/ddhills-jatre.md
