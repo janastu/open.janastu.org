@@ -1,6 +1,10 @@
+---
+description: These are organisations we are allied with across domains and places.
+---
+
 # Organisations
 
-`organisations` , `individuals` , `Events`
+`organisations` , `individuals` , event
 
 * ****[**Mitan**](http://mitan.in) **** in the language of the Adivasis of Bastar means - A long term business relationship across the value chain upholding human dignity. MITAN was promoted by a network of professionals from diverse fields, including Scientists, Designers, Information Technologists, Textile Engineers, Social Scientists, Architects, and Communications & Media professionals committed to craft-based, sustainable livelihoods approach to development.
 
@@ -10,7 +14,7 @@
 
 
 
-* [**Namma Nimma**](http://www.nammacycle.in)  is the  bicycle sharing system at the Campus of the Indian Institute of Science (IISc), Bangalore.   The pilot initiative consists of four manned bicycle rental stations within the institute campus. These bicycles are available to students, staff and visitors, to commute within the campus. The project works on a simple Sign-Up, Select, Ride and Return system where students _sign-up_ via the website, and get a registration ID, _select_ a cycle from any of the station racks, _ride_ the cycle to their destination and _return_ it to the nearest station.
+* [**Namma Nimma**](http://www.nammacycle.in)  is the  bicycle sharing system at the Campus of the Indian Institute of Science (IISc), Bangalore.  The pilot initiative consists of four manned bicycle rental stations within the institute campus. These bicycles are available to students, staff and visitors, to commute within the campus. The project works on a simple Sign-Up, Select, Ride and Return system where students _sign-up_ via the website, and get a registration ID, _select_ a cycle from any of the station racks, _ride_ the cycle to their destination and _return_ it to the nearest station.
 
 
 
@@ -50,7 +54,7 @@
 
 
 
-* ****[**LLN**](https://www.apc.org/fr/node/37104) **-** Community of Transgenders ( Bhooteru ) in Bidar, Mediamaking and storytelling from the community to the world. Facilitating the archives of their community stories through a decentralised mesh node.&#x20;
+* ****[**LLN** ](https://linktr.ee/llnaf)**-** Living Labs Network is a place based organisation that works with different contexts and communities for a participatory reimagination of development for the place
 
 
 
