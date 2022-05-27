@@ -6,40 +6,60 @@ description: Index Current projects and Past projects
 
 {% tabs %}
 {% tab title="Timeline" %}
-### Pantoto - Community Managed Community Knowledge.
+### [CnBox](https://app.gitbook.com/o/-MF10O64cnKmCqLs1tSd/s/-MF-QS3zWFSnGtGTO1ls/\~/changes/fVWwooSkYuoDgUYoWNpl/projects/cnbox)Pantoto - Community Managed Community Knowledge.
 
 Opens into… Alipi, Archives, Anthillhacks, Community Radio, Papad, COWMesh, Crafterspace and storytelling by recognising the traditional storytellers.
 
-### 1998-2002 <a href="1998-2002" id="1998-2002"></a>
+### 1998-2002 <a href="#1998-2002" id="1998-2002"></a>
 
-&#x20;[pantoto.com](http://pantoto.com) and [pagelets.com](http://pagelets.com)
+&#x20;[pantoto.com](http://pantoto.com/) and [pagelets.com](http://pagelets.com/)
 
 Community are startup and match makers of the (western) web world. Project was to develop Pantoto (software).
 
-### 2003 - 2008 <a href="2003---2008" id="2003---2008"></a>
+### 2003 - 2008 <a href="#2003---2008" id="2003---2008"></a>
 
 Community of NGOs and surveys, forms, office data and reports. Projects used Pantoto (software) as the under the hood. Opening the world of NGOs.
 
-### 2009 - 2013 <a href="2009---2013" id="2009---2013"></a>
+### 2009 - 2013 <a href="#2009---2013" id="2009---2013"></a>
 
 Alipi and RDFa - Community of NGOs and stake holders. NGOs as domain experts with an intent to get the content to their stakeholders.
 
-### 2014 - 2017 <a href="2014---2017" id="2014---2017"></a>
+### 2014 - 2017 <a href="#2014---2017" id="2014---2017"></a>
 
 SWeeTs, Renarration Web
 
-### 2018 - 2020 <a href="2018---2020" id="2018---2020"></a>
+### 2018 - 2020 <a href="#2018---2020" id="2018---2020"></a>
 
 Audio annotations, wifi mesh - decentralised Web and low literate community expressions/archives for storytelling.
 {% endtab %}
 
 {% tab title="Index" %}
+{% content-ref url="cnbox.md" %}
+[cnbox.md](cnbox.md)
+{% endcontent-ref %}
+
+{% content-ref url="cowmesh.md" %}
+[cowmesh.md](cowmesh.md)
+{% endcontent-ref %}
+
 {% content-ref url="webinar-pi.md" %}
 [webinar-pi.md](webinar-pi.md)
 {% endcontent-ref %}
 
 {% content-ref url="mirzapur.md" %}
 [mirzapur.md](mirzapur.md)
+{% endcontent-ref %}
+
+{% content-ref url="maptales.md" %}
+[maptales.md](maptales.md)
+{% endcontent-ref %}
+
+{% content-ref url="indic-nlp.md" %}
+[indic-nlp.md](indic-nlp.md)
+{% endcontent-ref %}
+
+{% content-ref url="ragigudda.md" %}
+[ragigudda.md](ragigudda.md)
 {% endcontent-ref %}
 
 {% content-ref url="archives.md" %}
@@ -52,18 +72,6 @@ Audio annotations, wifi mesh - decentralised Web and low literate community expr
 
 {% content-ref url="papad.md" %}
 [papad.md](papad.md)
-{% endcontent-ref %}
-
-{% content-ref url="ragigudda.md" %}
-[ragigudda.md](ragigudda.md)
-{% endcontent-ref %}
-
-{% content-ref url="maptales.md" %}
-[maptales.md](maptales.md)
-{% endcontent-ref %}
-
-{% content-ref url="cowmesh.md" %}
-[cowmesh.md](cowmesh.md)
 {% endcontent-ref %}
 
 {% content-ref url="compost.md" %}
@@ -124,10 +132,6 @@ Audio annotations, wifi mesh - decentralised Web and low literate community expr
 
 {% content-ref url="stories-of-laws.md" %}
 [stories-of-laws.md](stories-of-laws.md)
-{% endcontent-ref %}
-
-{% content-ref url="indic-nlp.md" %}
-[indic-nlp.md](indic-nlp.md)
 {% endcontent-ref %}
 
 

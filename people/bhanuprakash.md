@@ -2,12 +2,13 @@
 description: Product Manager
 ---
 
-# Bhanu Prakash
+# Bhanu Prakash G
 
-Wearer of many hats at Janastu - Application developer, user feedback specialist, bug fixer, mentor, product manager, Product Development, Engineering Lead and documenter (which explains why his nickname is Scribe) and recently he’s exploring his love for teaching in the form of workshop facilations and trainings.
+Product Management, Product Development, Engineering Lead At Servelots Infotech / Janastu building Opensource web applications for NGOs / NPOs
 
+```text
+Email: bhanu@servelots.com
 ```
-Email: bhanu@servelots.com        
-Twitter: @SalusSage
-```
+
+
 
