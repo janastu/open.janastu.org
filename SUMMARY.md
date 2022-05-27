@@ -32,7 +32,7 @@
 * [People](people/README.md)
   * [TB Dinesh](people/tb-dinesh.md)
   * [Shalini A](people/shalini.md)
-  * [Bhanu Prakash G](people/bhanuprakash.md)
+  * [Bhanu Prakash](people/bhanuprakash.md)
   * [Arun Kumar](people/arun.md)
   * [Yatharth](people/yatharth-2.md)
   * [Emery Hemingway](people/emery.md)
