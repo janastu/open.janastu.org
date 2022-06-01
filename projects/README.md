@@ -34,8 +34,8 @@ description: Index Current projects and Past projects
 [ragigudda.md](ragigudda.md)
 {% endcontent-ref %}
 
-{% content-ref url="archives/" %}
-[archives](archives/)
+{% content-ref url="archives.md" %}
+[archives.md](archives.md)
 {% endcontent-ref %}
 
 {% content-ref url="crafts.md" %}
@@ -62,24 +62,24 @@ description: Index Current projects and Past projects
 [iihs.md](iihs.md)
 {% endcontent-ref %}
 
-{% content-ref url="archives/13ways.md" %}
-[13ways.md](archives/13ways.md)
+{% content-ref url="13ways.md" %}
+[13ways.md](13ways.md)
 {% endcontent-ref %}
 
 {% content-ref url="ivr-box.md" %}
 [ivr-box.md](ivr-box.md)
 {% endcontent-ref %}
 
-{% content-ref url="follow-the-sheep/" %}
-[follow-the-sheep](follow-the-sheep/)
+{% content-ref url="follow-the-sheep.md" %}
+[follow-the-sheep.md](follow-the-sheep.md)
 {% endcontent-ref %}
 
 {% content-ref url="pantoto.md" %}
 [pantoto.md](pantoto.md)
 {% endcontent-ref %}
 
-{% content-ref url="follow-the-sheep/baa-app.md" %}
-[baa-app.md](follow-the-sheep/baa-app.md)
+{% content-ref url="baa-app.md" %}
+[baa-app.md](baa-app.md)
 {% endcontent-ref %}
 
 {% content-ref url="sweet.md" %}
