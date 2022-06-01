@@ -5,7 +5,7 @@
 * [Coyotes in the fortress. Ay!](https://medium.com/@tbdinesh/coyotes-in-the-fortress-ay-a3e6a6f9983e)
 * [Suno Suno / Heeli Keeli](https://storymaps.arcgis.com/stories/feb2631eb3ea489eb019ffb8282396f6)
 * [Chronicle of AnthillHacks’19](https://themanikantan.medium.com/anthill-hacks19-87369b19b59c)&#x20;
-* More here: [blog.janastu.org](https://blog.janastu.org)
+* More here: [blog.janastu.org](https://blog.janastu.org/)
 {% endtab %}
 {% endtabs %}
 
@@ -15,7 +15,7 @@
 * [Weaving community together](https://www.genderit.org/feminist-talk/weaving-community-together-grassroots-tech)
 * [Its namma school radio](https://www.prajavani.net/educationcareer/education/its-nam-school-radio-665055.html)
 * [Enabling community participation of young girls and women: Janastu community mesh radio network](https://www.apc.org/en/blog/enabling-community-participation-young-girls-and-women-janastu-community-mesh-radio-network)
-* [Gram Marg: Enabling Rural India Digitally](http://sarbanibelur.blogspot.com)
+* [Gram Marg: Enabling Rural India Digitally](http://sarbanibelur.blogspot.com/)
 * [Say hello to namma young rjs through namma halli community radio in durgadahalli](https://www.edexlive.com/people/2019/sep/25/say-hello-to-namma-young-rjs-through-namma-halli-community-radio-in-durgadahalli-8375.html)
 * [Products made with Typha and other natural fibres](http://biometrust.blogspot.com/2018/05/products-made-with-typha-and-other.html)
 * [Renarration and accessibility with tb dinesh](https://www.digital-democracy.org/blog/renarration-and-accessibility-with-t-b-dinesh/)
@@ -23,7 +23,7 @@
 * [ASPi – A Window to Tailored Hopes](https://www.devalt.org/newsletter/feb21/of\_2.htm)
 * [TECHNO-FUTURES FROM BIDAR](https://one.compost.digital/fertile-technofutures-from-bidar/)
 * [UNTIL THE COWS COME HOME](https://one.compost.digital/until-the-cows-come-home/)
-* [The shepherd project](https://theshepherdproject.tumblr.com)
+* [The shepherd project](https://theshepherdproject.tumblr.com/)
 * [Decentralising.digital - Partner Reflections Janastu](https://www.decentralising.digital/2021/06/25/partner-reflections-janastu/)
 * [Renarration and Accessiblity - T B Dinesh on Localized Knowledge in Rural India By Karissa McKelvey on June 22, 2020.](https://www.digital-democracy.org/blog/renarration-and-accessibility-with-t-b-dinesh/)
 * [Open Dialogue for Solidarity](http://www.perspectives.devalt.org/2020/10/05/open-dialogue-for-solidarity/)

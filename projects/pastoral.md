@@ -52,6 +52,6 @@ To map routes (for LL) - for the Covid study, as well as for the Atlas on Indian
 {% endtab %}
 
 {% tab title="Others" %}
-* [https://nominatim.openstreetmap.org/ ](https://nominatim.openstreetmap.org)
+* [https://nominatim.openstreetmap.org/ ](https://nominatim.openstreetmap.org/)
 {% endtab %}
 {% endtabs %}

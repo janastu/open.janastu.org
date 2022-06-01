@@ -6,8 +6,8 @@
 
 {% tabs %}
 {% tab title="Docs" %}
-* [http://swtr.in/](http://swtr.in)
-* [https://thestore.swtr.in/](https://thestore.swtr.in)
-* [http://dash.swtr.us/](http://dash.swtr.us)
+* [http://swtr.in/](http://swtr.in/)
+* [https://thestore.swtr.in/](https://thestore.swtr.in/)
+* [http://dash.swtr.us/](http://dash.swtr.us/)
 {% endtab %}
 {% endtabs %}

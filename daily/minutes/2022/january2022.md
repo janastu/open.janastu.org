@@ -46,5 +46,5 @@
   * [https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/    ](https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/)
 * Dyuman have updated thinkcentre network monitoring
 * Shared links:
-  * [https://prodi.gy/](https://prodi.gy)
+  * [https://prodi.gy/](https://prodi.gy/)
   * [https://github.com/midas-research/audino](https://github.com/midas-research/audino)

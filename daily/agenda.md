@@ -17,7 +17,7 @@ Team Log Jam: [https://docs.google.com/spreadsheets/d/1PWBminx5T1XQag4pRffgI06Tz
 * Todays meeting agenda.. after the updates, apc and anthillhacks and cfp report walk through.. i would like to propose we peek at:
   * [https://fosdem.org/2022/schedule/event/neighbourhoods/](https://fosdem.org/2022/schedule/event/neighbourhoods/)
   * [https://detroitcommunitytech.org/sites/default/files/librarypdfs/TeachingCommunityTech.pdf](https://detroitcommunitytech.org/sites/default/files/librarypdfs/TeachingCommunityTech.pdf)
-  * [https://togethernet.org/](https://togethernet.org)
+  * [https://togethernet.org/](https://togethernet.org/)
 * we can get some of us to read and call for a discussion of these in the next days.
 
 
@@ -157,7 +157,7 @@ Anthillhack and filled the calendar = Team recap
 
 * Discussion Uttarakhand project (Girish's project)&#x20;
 * Syncthing updates
-* [http://app.milli.link/](http://app.milli.link) updates
+* [http://app.milli.link/](http://app.milli.link/) updates
 * Apnic Proposal (Servelots cowmesh)
 
 ## 24-06-21
@@ -255,7 +255,7 @@ Anthillhack and filled the calendar = Team recap
 * shalini on CNX gender panel
 * shafali on WaP deck 2
 * LoI
-  * [https://en.ftx.apc.org/](https://en.ftx.apc.org) fem tech exchange. Safety reboot.
+  * [https://en.ftx.apc.org/](https://en.ftx.apc.org/) fem tech exchange. Safety reboot.
   * shafali gdoc on mxpr [https://docs.google.com/presentation/d/1TNPrzf3dFTG3lb7l1l3cZYzgAPPYAoqXBPus2VCEbvM/edit#slide=id.gad8c4d8e20\_0\_52](https://docs.google.com/presentation/d/1TNPrzf3dFTG3lb7l1l3cZYzgAPPYAoqXBPus2VCEbvM/edit#slide=id.gad8c4d8e20\_0\_52)
   * [https://compost.digital](https://compost.digital)&#x20;
 
@@ -323,7 +323,7 @@ Anthillhack and filled the calendar = Team recap
     (upload files here [https://files.janastu.org/s/ggz4L4qmwKQn5W7](https://files.janastu.org/s/ggz4L4qmwKQn5W7))
 
     * logo of your organization (in .png format): [https://files.janastu.org/s/kfTpRxHHCgj79SM](https://files.janastu.org/s/kfTpRxHHCgj79SM)
-    * website address: [https://blog.janastu.org/](https://blog.janastu.org)
+    * website address: [https://blog.janastu.org/](https://blog.janastu.org/)
     * social media accounts (if you have any): [https://twitter.com/servelots](https://twitter.com/servelots) and [https://www.instagram.com/servelots/](https://www.instagram.com/servelots/)
     * any communication guidelines you want us to follow: janastu@servelots.com
     * pictures of project ([see attachment for the photo guidelines](https://files.janastu.org/s/oF8C7j6K6ptKWGm)) : [https://files.janastu.org/s/9iSnt3Rs5KEKbWW](https://files.janastu.org/s/9iSnt3Rs5KEKbWW)
@@ -339,7 +339,7 @@ Anthillhack and filled the calendar = Team recap
 
 * Ravi Chennai&#x20;
   * Scratch workshop for mzpr girls
-  * Mentioned [https://course.fast.ai/](https://course.fast.ai) start\_colab&#x20;
+  * Mentioned [https://course.fast.ai/](https://course.fast.ai/) start\_colab&#x20;
   * And that the ASPi logo reads like "pa" unless its a hindi pa and an english i (so should we break the I line to i? @shefoo)
 * Who are inst people here. Should we @janastu accont on insta. Whats the update on twitter.
 * ASPi blog draft new [https://docs.google.com/document/d/15Iyp1eU8csJcHaVltAeAszJourDx49sPKSJIJJZeMHs/edit?usp=sharing](https://docs.google.com/document/d/15Iyp1eU8csJcHaVltAeAszJourDx49sPKSJIJJZeMHs/edit?usp=sharing)
@@ -405,14 +405,14 @@ Anthillhack and filled the calendar = Team recap
 
 ## 1028
 
-* r3c [https://events.ccc.de/](https://events.ccc.de)
+* r3c [https://events.ccc.de/](https://events.ccc.de/)
 * anthillhacks [https://hackmd.io/xMOBarH7TCyq1hKzWMR0Jg?view](https://hackmd.io/xMOBarH7TCyq1hKzWMR0Jg?view)
 * Ramya maduve
 * tmkr-dd link setup test (manoj will help - Sat?)
 * Ragigudda + Ramram plan
 * Yatharth here mid-nov
 * [https://hackmd.io/4TNYlksIQuGkdoo0-WbDOw](https://hackmd.io/4TNYlksIQuGkdoo0-WbDOw) talk tmrw morn program = digital + humanities
-*   (@mani please file these demo links - can we do a page/blog?) For interactive panorama: [https://bear71vr.nfb.ca/](https://bear71vr.nfb.ca)
+*   (@mani please file these demo links - can we do a page/blog?) For interactive panorama: [https://bear71vr.nfb.ca/](https://bear71vr.nfb.ca/)
 
     one of the pano stories from pratiksha on ITB using getfader, [https://app.getfader.com/projects/64a1c57f-3824-4cc0-8088-ccf510db976f/publish](https://app.getfader.com/projects/64a1c57f-3824-4cc0-8088-ccf510db976f/publish)
 
@@ -444,7 +444,7 @@ Anthillhack and filled the calendar = Team recap
 * Ragigudda, Ramram, dd for next dispatch?
 * video for dd apc work
 * STREE and women with craft interest
-* use [https://discord.com/](https://discord.com) for mxpr w4p?
+* use [https://discord.com/](https://discord.com/) for mxpr w4p?
 
 ## 1017
 
@@ -544,7 +544,7 @@ Anthillhack and filled the calendar = Team recap
 ## 0910
 
 * [ ] papad blog
-* [ ] Jerry Can You? [https://emmabuntus.org/](https://emmabuntus.org) ; [https://emmabuntus.org/a-propos/](https://emmabuntus.org/a-propos/) ; [https://www.youandjerrycan.org/](https://www.youandjerrycan.org) ; [https://apifr.org/index\_en.html](https://apifr.org/index\_en.html) ; [https://montpellibre.fr/spip.php?rubrique151](https://montpellibre.fr/spip.php?rubrique151) ; [https://montpellibre.fr/spip.php?article4580](https://montpellibre.fr/spip.php?article4580)&#x20;
+* [ ] Jerry Can You? [https://emmabuntus.org/](https://emmabuntus.org/) ; [https://emmabuntus.org/a-propos/](https://emmabuntus.org/a-propos/) ; [https://www.youandjerrycan.org/](https://www.youandjerrycan.org/) ; [https://apifr.org/index\_en.html](https://apifr.org/index\_en.html) ; [https://montpellibre.fr/spip.php?rubrique151](https://montpellibre.fr/spip.php?rubrique151) ; [https://montpellibre.fr/spip.php?article4580](https://montpellibre.fr/spip.php?article4580)&#x20;
 * [ ] volunteer monica
 * [ ] Tumkur DD link [update](https://hackmd.io/rLlEerE9QUiaQm\_u5OF-qg?view)
 * [ ] Links
@@ -595,7 +595,7 @@ Anthillhack and filled the calendar = Team recap
 
       join our session this Saturday at 4pm using this google meet link: meet.google.com/iov-xfdb-rhk
 * Links
-  *   [https://openengiadina.net/](https://openengiadina.net) openEngiadina is developing a platform for open local knowledge.
+  *   [https://openengiadina.net/](https://openengiadina.net/) openEngiadina is developing a platform for open local knowledge.
 
       Local knowledge consists of thousand of little pieces of information that describe the social, cultural and natural environment of an area
 
@@ -611,7 +611,7 @@ Anthillhack and filled the calendar = Team recap
 * farah following up re. demx update
 * updates
 * links aside
-  * [https://mars.college/](https://mars.college) future iruway and for janastu-page design inputs?
+  * [https://mars.college/](https://mars.college/) future iruway and for janastu-page design inputs?
   * listen to [https://mastersofscale.com/caterina-fake-build-a-more-human-internet/](https://mastersofscale.com/caterina-fake-build-a-more-human-internet/)
   * Data prtection bill discussions [https://hasgeek.com/fifthelephant/impact-of-non-personal-data-bill-on-tech-and-business/schedule](https://hasgeek.com/fifthelephant/impact-of-non-personal-data-bill-on-tech-and-business/schedule)
   * [https://azimpremjiuniversity.edu.in/SitePages/covid-19-research-funding-programme-2020.aspx](https://azimpremjiuniversity.edu.in/SitePages/covid-19-research-funding-programme-2020.aspx) 3 months program call
@@ -664,7 +664,7 @@ Anthillhack and filled the calendar = Team recap
 * savita earthlabs radio along the cost for investigative journalism
 * diy tech+pi team
 * maaya for radio
-* [http://acts-of-air.crisap.org/](http://acts-of-air.crisap.org) - an excercise for us too?
+* [http://acts-of-air.crisap.org/](http://acts-of-air.crisap.org/) - an excercise for us too?
 
 ## 0814
 
@@ -819,7 +819,7 @@ Anthillhack and filled the calendar = Team recap
 * [ ] docs in the works (please edit) [https://hackmd.io/fPmkEuF6THiFYLhsbJ3qmQ](https://hackmd.io/fPmkEuF6THiFYLhsbJ3qmQ)
 * [ ] \[@dinesh requests; **due monday**] help/contribute to prepare for dweb meet - a [10min presentation](https://docs.google.com/presentation/d/1w6Ah0z5qnahM6UVVZlQrgyNBUYrd7t9-S7CyGBu1kPE/) on our post-dweb work (ie., now)
 * [ ] tumkur to itb - ![100mbps line of sight](https://i.imgur.com/soCTs5q.jpg); siddaganga oil extractions is a friend and we can try the router. _now for tower on itb permissions_
-* [ ] magical guest appearence by arfah the visual magician - now working with [https://www.creaworld.org/](https://www.creaworld.org)
+* [ ] magical guest appearence by arfah the visual magician - now working with [https://www.creaworld.org/](https://www.creaworld.org/)
 * [ ] a pooja for promoting patch?
 
 ## 0724
@@ -925,7 +925,7 @@ Anthillhack and filled the calendar = Team recap
   * friday 4pm [https://www.ncbs.res.in/events/apls-apls-20200717-partition-sarin-jain](https://www.ncbs.res.in/events/apls-apls-20200717-partition-sarin-jain)
 * Papad Doc (Pre-Draft) from Yatharth [https://docs.google.com/document/d/1HMSkFLkHVC82WryG-LgbkH8ViWIT65RN08eQwB4mLjg/edit](https://docs.google.com/document/d/1HMSkFLkHVC82WryG-LgbkH8ViWIT65RN08eQwB4mLjg/edit)
 * Survey [https://docs.google.com/spreadsheets/d/1nNybWZI\_d4PjXOky\_adsAjT3XB-aPk6jUDomab-2HNU/edit#gid=686558073](https://docs.google.com/spreadsheets/d/1nNybWZI\_d4PjXOky\_adsAjT3XB-aPk6jUDomab-2HNU/edit#gid=686558073)
-* Activities list [https://docs.google.com/document/d/1tOPR10jCPmJ4YeOYd-dIQNznxu0RXYrbEyYSp-PTj80/edit#](https://docs.google.com/document/d/1tOPR10jCPmJ4YeOYd-dIQNznxu0RXYrbEyYSp-PTj80/edit#)
+* Activities list [https://docs.google.com/document/d/1tOPR10jCPmJ4YeOYd-dIQNznxu0RXYrbEyYSp-PTj80/edit#](https://docs.google.com/document/d/1tOPR10jCPmJ4YeOYd-dIQNznxu0RXYrbEyYSp-PTj80/edit)
 * Annotation sheet [https://bit.ly/papad-annos](https://bit.ly/papad-annos)
 
 ## 0714
@@ -1098,10 +1098,10 @@ ux course link: [https://www.futurelearn.com/courses/digital-skills-user-experie
 
 ## 0626
 
-* syncthing on Pantoto Server: [https://syncserver.janastu.org:8384/](https://syncserver.janastu.org:8384)
-* syncthing on webinar PI: [http://10.202.148.122:8384/](http://10.202.148.122:8384)
+* syncthing on Pantoto Server: [https://syncserver.janastu.org:8384/](https://syncserver.janastu.org:8384/)
+* syncthing on webinar PI: [http://10.202.148.122:8384/](http://10.202.148.122:8384/)
 * [Installation ref link for syncthing on PI: https://www.thedigitalpictureframe.com/using-syncthing-to-synchronize-files-between-your-raspberry-pi-and-your-mac-pc-linux-computers/ ](https://app.gitbook.com/yb1TqaWhQ9uyztK4rLJggg)[https://github.com/syncthing/syncthing/tree/main/etc/linux-systemd/system](https://github.com/syncthing/syncthing/tree/main/etc/linux-systemd/system)
-* syncthing is running on pantoto server [https://syncserver.janastu.org:8384/](https://syncserver.janastu.org:8384)
+* syncthing is running on pantoto server [https://syncserver.janastu.org:8384/](https://syncserver.janastu.org:8384/)
 * Kothanur migrants meet 2-3pm
 * papad has two parts. the annotation (papad.pantoto.org) and the content channels also available as local urls (eg: da.pantoto.org)
 
@@ -1123,7 +1123,7 @@ ux course link: [https://www.futurelearn.com/courses/digital-skills-user-experie
 *   install syncthing on the webinar pi. (also others)&#x20;
 
     [https://www.linuxbabe.com/ubuntu/install-syncthing-ubuntu-desktop-server](https://www.linuxbabe.com/ubuntu/install-syncthing-ubuntu-desktop-server)
-* [https://kafka.apache.org/](https://kafka.apache.org)
+* [https://kafka.apache.org/](https://kafka.apache.org/)
 * milli.link is updated
 * emery about trifa developer and toxbot
 
@@ -1154,7 +1154,7 @@ ux course link: [https://www.futurelearn.com/courses/digital-skills-user-experie
 
 * dry run for deployment - [https://hackmd.io/@sagesalus/ByUUI1BT8](https://hackmd.io/@sagesalus/ByUUI1BT8)
 * untold a11y states [https://hackmd.io/QPubwniMTk6brmgSAIT3-g](https://hackmd.io/QPubwniMTk6brmgSAIT3-g)
-* [https://blog.janastu.org/](https://blog.janastu.org) inviting ppl to write on our blog, also probably we make a internal guide for contributing
+* [https://blog.janastu.org/](https://blog.janastu.org/) inviting ppl to write on our blog, also probably we make a internal guide for contributing
 *   Please comment on logo design(Asha Vishwas Trust) created for MMU team. This is simplified from previous logo
 
     ![](https://i.imgur.com/Tn1b2Ws.jpg)
@@ -1175,11 +1175,11 @@ Emery toxid is DF0AC9107E0A30E7201C6832B017AC836FBD1EDAC390EE99B68625D73C3FD929F
 
 Latest build of the Trifa Android client at [https://circleci.com/api/v1.1/project/github/zoff99/ToxAndroidRefImpl/latest/artifacts/0/artefacts/ToxAndroidRefImpl.apk?filter=successful\&branch=zoff99%2Fdev003](https://circleci.com/api/v1.1/project/github/zoff99/ToxAndroidRefImpl/latest/artifacts/0/artefacts/ToxAndroidRefImpl.apk?filter=successful\&branch=zoff99%2Fdev003)
 
-Recommended desktop client is Qtox [https://qtox.github.io/](https://qtox.github.io)
+Recommended desktop client is Qtox [https://qtox.github.io/](https://qtox.github.io/)
 
 ### Nico offered help for us to mention our work for the ITU call.
 
-[https://reg4covid.itu.int/](https://reg4covid.itu.int) Form: [https://www.itu.int/net4/ITU-D/CDS/gq/generic/questionnaire.asp?ProjectID=1391](https://www.itu.int/net4/ITU-D/CDS/gq/generic/questionnaire.asp?ProjectID=1391) and the 3 he suggests are at [https://hackmd.io/rMtdYRxgSre4pZ0OUF-74g](https://hackmd.io/rMtdYRxgSre4pZ0OUF-74g) (please look up and help clean up)
+[https://reg4covid.itu.int/](https://reg4covid.itu.int/) Form: [https://www.itu.int/net4/ITU-D/CDS/gq/generic/questionnaire.asp?ProjectID=1391](https://www.itu.int/net4/ITU-D/CDS/gq/generic/questionnaire.asp?ProjectID=1391) and the 3 he suggests are at [https://hackmd.io/rMtdYRxgSre4pZ0OUF-74g](https://hackmd.io/rMtdYRxgSre4pZ0OUF-74g) (please look up and help clean up)
 
 Also Nico has time now and he can help us with our "platform" publication (on github?) work
 
@@ -1194,8 +1194,8 @@ Nico is asking if the links can be blogs in our domain - instead of hackmd or gd
 * reading [https://cis-india.org/raw/a-compilation-of-research-on-the-gig-economy](https://cis-india.org/raw/a-compilation-of-research-on-the-gig-economy)
 * [http://vikalpsangam.org/article/ecologies-of-hope-and-transformation-post-development-alternatives-from-india/](http://vikalpsangam.org/article/ecologies-of-hope-and-transformation-post-development-alternatives-from-india/)
 * [https://thebastion.co.in/covid-19/education-in-times-of-covid-how-corporation-schools-in-chennai-are-bridging-the-e-learning-gap/](https://thebastion.co.in/covid-19/education-in-times-of-covid-how-corporation-schools-in-chennai-are-bridging-the-e-learning-gap/)
-* ishita Biome meeting 2.30 18th. @Athithya @sagesalus @shalini [https://www.biome-solutions.com/](https://www.biome-solutions.com)&#x20;
-* [https://conifer.rhizome.org/](https://conifer.rhizome.org) ?
+* ishita Biome meeting 2.30 18th. @Athithya @sagesalus @shalini [https://www.biome-solutions.com/](https://www.biome-solutions.com/)&#x20;
+* [https://conifer.rhizome.org/](https://conifer.rhizome.org/) ?
 * 48% [https://docs.google.com/document/d/1iWcNRxMrViAlDBUoaLumJJoBHg3biacRWoOcYCJLbX0](https://docs.google.com/document/d/1iWcNRxMrViAlDBUoaLumJJoBHg3biacRWoOcYCJLbX0)&#x20;
 * getting fwd with the dry run, to test [rqlite](https://github.com/rqlite/rqlite) for papad-api backend&#x20;
 
@@ -1205,9 +1205,9 @@ Nico is asking if the links can be blogs in our domain - instead of hackmd or gd
 * webniar pi and papad on mesh
 * default location [https://classmeet.chiguru.tech/app/jan-ah7-3n6](https://classmeet.chiguru.tech/app/jan-ah7-3n6)
 * [https://www.androidauthority.com/best-raspberry-pi-projects-1125883/](https://www.androidauthority.com/best-raspberry-pi-projects-1125883/) (news feed :)
-* [https://www.twobits.net/](https://www.twobits.net)
+* [https://www.twobits.net/](https://www.twobits.net/)
 * Bhanu: This is the document i started for the papad dry run, adding use cases here will help [https://hackmd.io/@sagesalus/ByUUI1BT8](https://hackmd.io/@sagesalus/ByUUI1BT8)
-* milli certificates error fixed [https://iaw2020.milli.test.openrun.net/](https://iaw2020.milli.test.openrun.net)
+* milli certificates error fixed [https://iaw2020.milli.test.openrun.net/](https://iaw2020.milli.test.openrun.net/)
 
 ## 0615
 
@@ -1261,7 +1261,7 @@ footer: Janastu j.mp/janastu-mesh cowradio@janastu.org
 
 * Athithya on Papad update [https://gitlab.com/thiya1995/papad/](https://gitlab.com/thiya1995/papad/)
 * Khushboo and Shalini on MMU discussion
-* Sanketh [https://www.zerotier.com/](https://www.zerotier.com) installing into pi
+* Sanketh [https://www.zerotier.com/](https://www.zerotier.com/) installing into pi
 
 ## 0602
 
@@ -1339,7 +1339,7 @@ Shalini (Duriya) and Sanketh (Cpatna) update
 
 how to build a web conf hardware/software for a group.
 
-[https://www.bettertogethertoolkit.org/](https://www.bettertogethertoolkit.org)
+[https://www.bettertogethertoolkit.org/](https://www.bettertogethertoolkit.org/)
 
 reading on internet design [https://www.w3.org/DesignIssues/](https://www.w3.org/DesignIssues/) lots of copies [https://www.lockss.org/about/frequently-asked-questions](https://www.lockss.org/about/frequently-asked-questions) w4p: briar project
 
@@ -1359,7 +1359,7 @@ In this series, Rest of World follows the rising stars of these video apps as th
 
 common room - indonesia. story [https://www.apc.org/en/node/36407/](https://www.apc.org/en/node/36407/)
 
-[https://pixelfed.org/](https://pixelfed.org) decentralised photo posts
+[https://pixelfed.org/](https://pixelfed.org/) decentralised photo posts
 
 [https://www.tandfonline.com/doi/full/10.1080/01296612.2020.1764212](https://www.tandfonline.com/doi/full/10.1080/01296612.2020.1764212) - ram's paper on radio priorities => mesh radio content for broadcast radio?
 
@@ -1470,11 +1470,11 @@ COVID [https://drive.google.com/drive/folders/1HuUZ6cf8sDHjMPVirlCU8R\_3jHUKcFXM
 
 0502 W4P report - also summary of all activities of April Arts and Culture - Mirzapur post Local network local economy - talk theme with A\&AS
 
-Aditya on his story tracking idea. Song by him and Mujeeb. the grid demo and [http://caaprotests.info/](http://caaprotests.info)
+Aditya on his story tracking idea. Song by him and Mujeeb. the grid demo and [http://caaprotests.info/](http://caaprotests.info/)
 
 Followsheep GPX tracks [https://files.janastu.org/s/znyn7S4rCQEjr2s](https://files.janastu.org/s/znyn7S4rCQEjr2s)
 
-Nextcloud public link [http://public.test.openrun.net/](http://public.test.openrun.net)
+Nextcloud public link [http://public.test.openrun.net/](http://public.test.openrun.net/)
 
 Geetha and radio - bustTheHate kannada audio - scripts [https://youtu.be/Zu1QgUFDfqU](https://youtu.be/Zu1QgUFDfqU)
 
@@ -1496,7 +1496,7 @@ shilpa. spreadsheet [https://drive.google.com/drive/folders/1HuUZ6cf8sDHjMPVirlC
 
 heli keli / kaho suno (retro [https://www.youtube.com/watch?v=y3JSqcyy8r4](https://www.youtube.com/watch?v=y3JSqcyy8r4)) [https://github.com/janastu/janastu.github.io/blob/master/\_projects/heelikeeli.md](https://github.com/janastu/janastu.github.io/blob/master/\_projects/heelikeeli.md)
 
-shilpa call for volunteers: [https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view](https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view) **sample hospital map from the sheet** [https://lapis-great-season.glitch.me/](https://lapis-great-season.glitch.me) which is generated from this sheet in the COVID drive folder: [https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/](https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/)
+shilpa call for volunteers: [https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view](https://hackmd.io/UbJtM5LZQHiVQSYzUgA7bQ?view) **sample hospital map from the sheet** [https://lapis-great-season.glitch.me/](https://lapis-great-season.glitch.me/) which is generated from this sheet in the COVID drive folder: [https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/](https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/)
 
 tomorrow we can have a chat with Neha from Duriya village. I'll introduce her to all you. The call will be between 3pm-4pm. Neha prefers this time. Please let me know whoever can join [https://docs.google.com/spreadsheets/d/1Fd\_u6-MU8rlI2YJlbOjiT41T2kpHQKRCIfOlMLyXMF4/edit#gid=0](https://docs.google.com/spreadsheets/d/1Fd\_u6-MU8rlI2YJlbOjiT41T2kpHQKRCIfOlMLyXMF4/edit#gid=0)
 
@@ -1504,13 +1504,13 @@ Emery notes on yggdrasil for our mesh [https://cryptpad.fr/code/#/2/code/edit/a8
 
 0429
 
-From this sheet in the COVID folder [https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/](https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/) sample hospital map from the sheet [https://lapis-great-season.glitch.me/](https://lapis-great-season.glitch.me)
+From this sheet in the COVID folder [https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/](https://docs.google.com/spreadsheets/d/1CGI34vRsZGzgA7pO2S5ilvpsIf9uKgT0uQqoBlDhC2A/) sample hospital map from the sheet [https://lapis-great-season.glitch.me/](https://lapis-great-season.glitch.me/)
 
 Papad UX (feedback) [https://docs.google.com/document/d/17P2ZbGmokS2TwLRZ-LaPAobuxKug7w893GuRYygzpNY/](https://docs.google.com/document/d/17P2ZbGmokS2TwLRZ-LaPAobuxKug7w893GuRYygzpNY/)
 
 Sakshi ++ at Leos
 
-Emery will make a page about intalling [https://yggdrasil-network.github.io/](https://yggdrasil-network.github.io)
+Emery will make a page about intalling [https://yggdrasil-network.github.io/](https://yggdrasil-network.github.io/)
 
 AS/papad: Bhanu asked create one single table, but it uses 2 table. station details and related image. audio id and all in another table.
 
@@ -1526,7 +1526,7 @@ Arun: lost 3-4 days due to ubuntu upgrade 20.04 being not good.
 
 0428
 
-[https://www.audm.com/](https://www.audm.com) listen to longform articles linked from [https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not](https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not)
+[https://www.audm.com/](https://www.audm.com/) listen to longform articles linked from [https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not](https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not)
 
 prasoon [https://prasoonj.github.io/mili/docs/](https://prasoonj.github.io/mili/docs/) milli audio sample [http://archives.ncbs.res.in/node/943](http://archives.ncbs.res.in/node/943)
 
@@ -1561,7 +1561,7 @@ Kushbhoo
 
 sanketh and pi for emry to help setup
 
-0421 [https://indieadhar.org/](https://indieadhar.org) - Dog care gaurdian tagging site by Khushboo and friends.
+0421 [https://indieadhar.org/](https://indieadhar.org/) - Dog care gaurdian tagging site by Khushboo and friends.
 
 @khushboo makerspaces collation doc, [https://reapbenefit.org/platforms/](https://reapbenefit.org/platforms/) and theory of change
 
@@ -1571,7 +1571,7 @@ safe.com?
 
 arun - phonegap for followsheep upasana - auxohub iitm startup. ngo <-> corporate-csr connect. community assessment, impact assessment - before intervention
 
-mani-papad documentation. Bhanu suggests [https://webflow.com/](https://webflow.com)
+mani-papad documentation. Bhanu suggests [https://webflow.com/](https://webflow.com/)
 
 anivar+call open source video conf tool dev jitsi, openvidu, bigbluebutton, .. webrtc. nextcould talk, namaste-bharat, spreed.me
 
@@ -1589,13 +1589,13 @@ reapbenefit for waste management - by khushboo samvada - poornima - spreadsheet 
 
 india wants jitsi make in india [https://www.gadgetsnow.com/slideshows/all-you-need-to-know-about-governments-rs-1-crore-zoom-challenge/The-winning-team-will-also-get-Rs-10-lakh-every-year-for-maintenance-and-operational-costs/photolist/75242461.cms](https://www.gadgetsnow.com/slideshows/all-you-need-to-know-about-governments-rs-1-crore-zoom-challenge/The-winning-team-will-also-get-Rs-10-lakh-every-year-for-maintenance-and-operational-costs/photolist/75242461.cms)
 
-Maptales [https://docs.google.com/document/d/1Ie0EZqCICc7pAiyCBc1WQjctyBFD7A-0DK6-J0irx3Y/edit?ts=5e9d8e0f#](https://docs.google.com/document/d/1Ie0EZqCICc7pAiyCBc1WQjctyBFD7A-0DK6-J0irx3Y/edit?ts=5e9d8e0f#)
+Maptales [https://docs.google.com/document/d/1Ie0EZqCICc7pAiyCBc1WQjctyBFD7A-0DK6-J0irx3Y/edit?ts=5e9d8e0f#](https://docs.google.com/document/d/1Ie0EZqCICc7pAiyCBc1WQjctyBFD7A-0DK6-J0irx3Y/edit?ts=5e9d8e0f)
 
 * [Notes on Storycorps Introductory Tutorial](https://app.gitbook.com/BV91BhbGT-2VOECN29NOVA)
 * [Storycorps storytelling project planning template](https://app.gitbook.com/HPiYOIgNS96OT4OpPoBhKw) -&#x20;
 * arun will join and update
 * srinivas on too
-* janastu website - The skeleton is here [https://janastu.github.io/](https://janastu.github.io)
+* janastu website - The skeleton is here [https://janastu.github.io/](https://janastu.github.io/)
 * apc We do have plans to publish one story on the APC.org website and Ndunge (cc’d) is currently gathering the stories.  Your narrative is made up of multiple stories.  Would you be able to choose one to share with Ndunge so that she can liaise with APC communications and add it to the website as the Janastu/Servelots “final output”?&#x20;
 * priyanka asked us to look at [https://www.slideshare.net/sdnetwork/service-design-forin-transition-cameron-tonkinwise-terry-irwin-carnegie-mellon-university](https://www.slideshare.net/sdnetwork/service-design-forin-transition-cameron-tonkinwise-terry-irwin-carnegie-mellon-university)
 * pipups cuddle cam
@@ -1626,7 +1626,7 @@ webmemex to archive tweets and pages?
 
 > \[name=bhanu] not sure if social media posts will work with webmemx, upon testing found the css is not loading. Dinesh mentioned how to remote upload snapshots, emery suggest we can save on local filesysten and enable a syncthing kind of a sync service for snapshots
 >
-> > [https://getpolarized.io/](https://getpolarized.io) **gerben mentioned - they do annotation with data kept locally** Ananth+ issues
+> > [https://getpolarized.io/](https://getpolarized.io/) **gerben mentioned - they do annotation with data kept locally** Ananth+ issues
 > >
 > > > This really looks good, didnt try the desktop app yet tho, will checkout
 
@@ -1648,4 +1648,4 @@ syncthing on shalini.radio and merging with thinkcentre in the office.
 
 another radio [https://www.wbur.org/modernlove/2020/04/01/love-stories-coronavirus](https://www.wbur.org/modernlove/2020/04/01/love-stories-coronavirus)
 
-Yggdrasil [https://yggdrasil-network.github.io/](https://yggdrasil-network.github.io)
+Yggdrasil [https://yggdrasil-network.github.io/](https://yggdrasil-network.github.io/)

@@ -67,7 +67,7 @@
 * Sanketh came back to Bangalore and he and Dinesh planning to go Tumkur tommorow
 * Dinesh have shared recent photos from Thimnayakanahalli [https://files.janastu.org/s/YTmD4dfBcPN7SQd](https://files.janastu.org/s/YTmD4dfBcPN7SQd)
 * Dinesh and Shafali have discussed about tommorow DD meeting
-* Dinesh and Bhanu have discussed about content, we should collect content from [https://anthill.janastu.org/](https://anthill.janastu.org) and [http://sheeptracker.test.openrun.net/](http://sheeptracker.test.openrun.net) for the DDHills-Jatre event
+* Dinesh and Bhanu have discussed about content, we should collect content from [https://anthill.janastu.org/](https://anthill.janastu.org/) and [http://sheeptracker.test.openrun.net/](http://sheeptracker.test.openrun.net/) for the DDHills-Jatre event
 * Mani and Athithya created the sheet mapper for the DDHils-jatre
   * ddhills sheet mapper UI: [https://themanikantan.github.io/ddhills-sheet-mapper/](https://themanikantan.github.io/ddhills-sheet-mapper/)
   * and spreadsheet: [https://docs.google.com/spreadsheets/d/1DfFeBAC25kPqw7cfBA8mj7HSn846hjNDSozZ7FrbX74/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1DfFeBAC25kPqw7cfBA8mj7HSn846hjNDSozZ7FrbX74/edit?usp=sharing)
@@ -121,7 +121,7 @@
 
 * Yatharth was updating yesterday discussion on Jatre. Later team figuring out how to go with Projection mapping, Photobooth, rpi+laser and walkinstudios.
   * [https://www.ubuy.co.in/catalog/product/view/id/8707354/s/mophorn-button-maker-machine-1-inch-25mm-button-maker-machine-1000pc](https://www.ubuy.co.in/catalog/product/view/id/8707354/s/mophorn-button-maker-machine-1-inch-25mm-button-maker-machine-1000pc)
-  * [https://www.instagram.com/p/CKLcd85pJsh/?utm\_source=ig\_web\_copy\_link](https://www.instagram.com/p/CKLcd85pJsh/)
+  * [https://www.instagram.com/p/CKLcd85pJsh/?utm\_source=ig\_web\_copy\_link](https://www.instagram.com/p/CKLcd85pJsh/?utm\_source=ig\_web\_copy\_link)
   * [https://www.youtube.com/watch?v=-SuyLT5pGg0](https://www.youtube.com/watch?v=-SuyLT5pGg0)
 * Dinesh asked Mani to collect Shilpa's COVID related data for Jatre
 
@@ -141,7 +141,7 @@
 
 ### 12 March 2021
 
-* Dinesh and Mani going through kolibri studio [https://studio.learningequality.org/](https://studio.learningequality.org) how to use and upload video.
+* Dinesh and Mani going through kolibri studio [https://studio.learningequality.org/](https://studio.learningequality.org/) how to use and upload video.
 * Yatharth and Dinesh talking on creating email addresses using plus sign (+) for kolibri.
   * [https://www.labnol.org/internet/multiple-email-addresses-in-gmail/17426/](https://www.labnol.org/internet/multiple-email-addresses-in-gmail/17426/)
   * [https://www.cnet.com/how-to/6-clever-gmail-tricks-to-minimize-regret-frustration-and-spam/](https://www.cnet.com/how-to/6-clever-gmail-tricks-to-minimize-regret-frustration-and-spam/)

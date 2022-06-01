@@ -75,14 +75,14 @@ We are currently working in several villages in Mirzapur, Uttar Pradesh where we
 
 #### Reflections and Results
 
-| Index | Key Results                               | Details                                                                                                      |
-| ----- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 1     | Mirzapur Update June 2020                 | [Link](https://docs.google.com/document/d/1ziV796cpY9\_k5qeQ-vJ4DYgBWjJuAbNUr9YPyOKJSK8/edit)                |
-| 2     | W4P JAM Stories End of Year 2020          | [Link](https://hackmd.io/WvYOFd98SE28YIUKMK99lA)                                                             |
-| 3     | W4P Tech Challenge Project Review Meeting | [Link](https://docs.google.com/document/d/1vn-6TDjowCQUKYRt62kaiAeBeKCYvtsLOEHPLdOdwf4/edit)                 |
-| 4     | Garima Girls Till Now                     | [Link](https://docs.google.com/presentation/d/1TNPrzf3dFTG3lb7l1l3cZYzgAPPYAoqXBPus2VCEbvM/edit?usp=sharing) |
-| 5     | From Ideas To Action - The W4P Project    | [Link](https://hackmd.io/j605-cZ\_QBK7cQWuozXTcw?view)                                                       |
-| 6     | Swarambh (W4P Tech Challenge)             | [Link](https://www.canva.com/design/DAEOt19GgHE/VC4sTfMQdT7xvxURYkq-Hg/view)                                 |
+| Index | Key Results                               | Details                                                                                                                                                                                |
+| ----- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Mirzapur Update June 2020                 | [Link](https://docs.google.com/document/d/1ziV796cpY9\_k5qeQ-vJ4DYgBWjJuAbNUr9YPyOKJSK8/edit)                                                                                          |
+| 2     | W4P JAM Stories End of Year 2020          | [Link](https://hackmd.io/WvYOFd98SE28YIUKMK99lA)                                                                                                                                       |
+| 3     | W4P Tech Challenge Project Review Meeting | [Link](https://docs.google.com/document/d/1vn-6TDjowCQUKYRt62kaiAeBeKCYvtsLOEHPLdOdwf4/edit)                                                                                           |
+| 4     | Garima Girls Till Now                     | [Link](https://docs.google.com/presentation/d/1TNPrzf3dFTG3lb7l1l3cZYzgAPPYAoqXBPus2VCEbvM/edit?usp=sharing)                                                                           |
+| 5     | From Ideas To Action - The W4P Project    | [Link](https://hackmd.io/j605-cZ\_QBK7cQWuozXTcw?view)                                                                                                                                 |
+| 6     | Swarambh (W4P Tech Challenge)             | [Link](https://www.canva.com/design/DAEOt19GgHE/VC4sTfMQdT7xvxURYkq-Hg/view?utm\_content=DAEOt19GgHE\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=homepage\_design\_menu) |
 
 ### Reading Material
 

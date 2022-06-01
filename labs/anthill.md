@@ -49,19 +49,19 @@ We are looking for documenters and translators for each of the 5 locations in th
 ### Physical Locations within the COWmesh area <a href="#physical-locations-within-the-cowmesh-area" id="physical-locations-within-the-cowmesh-area"></a>
 
 1. Anterras by Yatrinivas, Devarayanadurga/ddhills
-2. [Iruway](https://iruway.janastu.org), Halekote
-3. [CrafterSpace](https://crafts.janastu.org), Halekote/Durgadahalli
+2. [Iruway](https://iruway.janastu.org/), Halekote
+3. [CrafterSpace](https://crafts.janastu.org/), Halekote/Durgadahalli
 4. Near Village Well, Durgadahalli
 5. Tamarind Grove, Thimmanayakanahalli
 
-Distributed sessions, each location will have tents with a large screen, camera and [AsPi devices](https://blog.janastu.org). People can attend sessions live at their location or by choosing a remote channel.
+Distributed sessions, each location will have tents with a large screen, camera and [AsPi devices](https://blog.janastu.org/). People can attend sessions live at their location or by choosing a remote channel.
 
 **Setup days** from 20th Dec, 2021 - logistics, food and other requirements.\
 **Tech wise** - streaming tools within mesh and for those joining from locations outside.
 
 ### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
 
-[Janastu/Servelots](https://janastu.org) || [Chiguru CoLab](https://chigurucolab.com) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com) || [Futuretronlabs](https://www.futuretronlabs.in)
+[Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com/) || [Futuretronlabs](https://www.futuretronlabs.in/)
 
 ### Covid protocols <a href="#covid-protocols" id="covid-protocols"></a>
 
@@ -104,7 +104,7 @@ _Ants21.22- Sharable & Editable link to this document:_ [_https://j.mp/ants2122_
 ## OUR HISTORY
 
 \---\
-General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://anthillhacks.in)\
+General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://anthillhacks.in/)\
 A visual overview of the hill after the annotations: [graphical walkthrough](https://anthill.janastu.org/walkthrough.html) "Neowarli" Anthill illustration by Megha Vishwanath\
 \---
 
@@ -165,7 +165,7 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * [Spotlight on AnthillHacks by Alekhya](https://vimeo.com/392178753)
 * [LibreRouter: the why? by Nicolás Pace](https://vimeo.com/390408799)
 * [Anthill 2 min summaries](https://janastu.github.io/maaya/examples/)
-* [anthillhacks.pantoto.net](https://anthillhacks.pantoto.net) poster 2015
+* [anthillhacks.pantoto.net](https://anthillhacks.pantoto.net/) poster 2015
 * &#x20;[j.mp/iruway](http://j.mp/iruway) poster 2016
 * [AG and AHH](https://hackmd.io/FFzPF2RZRCSuQMyaRRu9Iw)
 * [Anthillhacks20.21 Session](https://files.janastu.org/s/cZprCcGcj4DXRsH)s
@@ -184,7 +184,7 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 {% tabs %}
 {% tab title="Sites" %}
 * [https://anthillhacks.in](https://anthillhacks.in)
-* [https://anthill.janastu.org/](https://anthill.janastu.org)
+* [https://anthill.janastu.org/](https://anthill.janastu.org/)
 * [http://j.mp/ourhills](http://j.mp/ourhills)
 * j.mp/myhill
 {% endtab %}

@@ -106,8 +106,8 @@ Participants: Team
 * Dinesh on saturday we might go to ragigudda slum there is some street play happening.
 * Upasana and Dinesh Sharing thoughts on rotary crafts grants -[https://drive.google.com/file/d/1jUSZAXN\_ZIQmFsdiNoYHyJnQwrlZYSLe/view?usp=sharing](https://drive.google.com/file/d/1jUSZAXN\_ZIQmFsdiNoYHyJnQwrlZYSLe/view?usp=sharing) and [https://my.rotary.org/en/take-action/apply-grants/global-grants](https://my.rotary.org/en/take-action/apply-grants/global-grants)
 * Bhanu on papad, Biome's Omeka and long emergency new collection data sheet.
-* Team was discussing on Hany Babu website and later yatharth suggested on carrd [https://carrd.co/](https://carrd.co)
-* Shafali: [http://radiohandbook.org/](http://radiohandbook.org) interesting thing for papad to experiment with garima girls as well
+* Team was discussing on Hany Babu website and later yatharth suggested on carrd [https://carrd.co/](https://carrd.co/)
+* Shafali: [http://radiohandbook.org/](http://radiohandbook.org/) interesting thing for papad to experiment with garima girls as well
 * Micha: The monday report that we have to give. what else should we add [https://hackmd.io/2NsMkpJNTB6uHgW51ctOoQ](https://hackmd.io/2NsMkpJNTB6uHgW51ctOoQ)
 
 ### 24 September 2020
@@ -225,9 +225,9 @@ Participants: Team
 * Dinesh: [https://www.youtube.com/watch?v=277cVhWZFYg](https://www.youtube.com/watch?v=277cVhWZFYg) CPC slum jayanagar bangalore (1 from agnii.org) archiving as a thank you note to people who did tiktok based on their original. now that tiktok is banned is a significant memorialization
 *   Links:
 
-    [https://longemergency.demx.in/](https://longemergency.demx.in)
+    [https://longemergency.demx.in/](https://longemergency.demx.in/)
 
-    [https://public.janastu.org/](https://public.janastu.org)&#x20;
+    [https://public.janastu.org/](https://public.janastu.org/)&#x20;
 
 ### 17 September 2020
 
@@ -242,7 +242,7 @@ Participants: Team
 
     \-- Later we can invest some basic equipment &#x20;
 * Arun, Bhanu and Dinesh were discussing on server certificate issue.
-* Athithya: [https://public.janastu.org/](https://public.janastu.org) and [http://files.janastu.org/s/xCqmYjTwzok3wGB](http://files.janastu.org/s/xCqmYjTwzok3wGB) this is also not working server certificate issue
+* Athithya: [https://public.janastu.org/](https://public.janastu.org/) and [http://files.janastu.org/s/xCqmYjTwzok3wGB](http://files.janastu.org/s/xCqmYjTwzok3wGB) this is also not working server certificate issue
 * Mani: Can we look into agenda page for Website Monitoring and hackmd page list:
   *   To re-start Website Monitoring
 
@@ -272,11 +272,11 @@ Participants: Team with Sarbani
 * Biome - Omeka - S issues, https and 500 error when adding items
 *   Links:
 
-    [https://creativecommons.org/](https://creativecommons.org) Creative Commons
+    [https://creativecommons.org/](https://creativecommons.org/) Creative Commons
 
-    [https://freemusicarchive.org/](https://freemusicarchive.org)
+    [https://freemusicarchive.org/](https://freemusicarchive.org/)
 
-    [https://freesound.org/](https://freesound.org)
+    [https://freesound.org/](https://freesound.org/)
 
     [https://www.apc.org/en/blog/community-networks-stories-servelots-uses-community-mesh-radio-demystify-technology-through](https://www.apc.org/en/blog/community-networks-stories-servelots-uses-community-mesh-radio-demystify-technology-through)
 
@@ -293,11 +293,11 @@ Participants: Team
 * Mani: I had collected audio clip from all. So athithya is uploading few clip into [https://public.janastu.org/Garima\_girls\_pilot/](https://public.janastu.org/Garima\_girls\_pilot/)&#x20;
 * Dinesh and Micah: Upading on Medha yesterday's meeting.
 * Shafali: She was talking about web lit [https://mozilla.github.io/web-lit-core/](https://mozilla.github.io/web-lit-core/)
-* Dinesh and Arun was discussing on edx [https://www.edx.org/](https://www.edx.org) online courses.
+* Dinesh and Arun was discussing on edx [https://www.edx.org/](https://www.edx.org/) online courses.
 *   Athithya: I have uploaded audio clip on nextcloud and put in spreadsheet [http://bit.ly/papad-annos](http://bit.ly/papad-annos)
 
     \-- Bhanu: [https://docs.google.com/spreadsheets/d/1aHN2NAQLKTQnlrDUnn7Ri6VkOR-RnDtNbALNfEqeB1k/edit#gid=0](https://docs.google.com/spreadsheets/d/1aHN2NAQLKTQnlrDUnn7Ri6VkOR-RnDtNbALNfEqeB1k/edit#gid=0) Papad audio annotations data
-*   Bhanu: He was explaining Biome project [https://www.biome-solutions.com/](https://www.biome-solutions.com)
+*   Bhanu: He was explaining Biome project [https://www.biome-solutions.com/](https://www.biome-solutions.com/)
 
     &#x20;\-- Micah Alex re: i'd like to get involved on this
 * Dinesh - Ragigudda slum in bangalore update: We'll just wait for Ram when he is here. Will call for a meeting with others.
@@ -308,7 +308,7 @@ Participants: Team
 
     [https://www.320youtube.com/v7/](https://www.320youtube.com/v7/)
 
-    [http://www.arividam.in/](http://www.arividam.in)
+    [http://www.arividam.in/](http://www.arividam.in/)
 
     [https://www.ansible.com/integrations/containers/docker](https://www.ansible.com/integrations/containers/docker)
 
@@ -317,17 +317,17 @@ Participants: Team
 Participants: Team
 
 * Dinesh: Introducing Micahand Shafali to the team...
-* Bhanu: He was introducing Papad application, So papad is project that we started at 2015 for Development Alternatives ([https://www.devalt.org/](https://www.devalt.org)) they're working with community radio in India. Also we collaborated radioactive in Bengaluru there are community radio station.
-  *   [http://papad.test.openrun.net/](http://papad.test.openrun.net)
+* Bhanu: He was introducing Papad application, So papad is project that we started at 2015 for Development Alternatives ([https://www.devalt.org/](https://www.devalt.org/)) they're working with community radio in India. Also we collaborated radioactive in Bengaluru there are community radio station.
+  *   [http://papad.test.openrun.net/](http://papad.test.openrun.net/)
 
       User: janastu / Pwd: jan123
 * Athithya: I have added collected audio clip upload the link into spreadsheet bit.ly/papad-annos  and [https://public.janastu.org/Garima\_girls\_pilot/](https://public.janastu.org/Garima\_girls\_pilot/).  &#x20;
 * Shalini updating on mirzapur's girls: We have conducted on safe space on internet how the girls can be safe online. So we had two session with Garima girls and  as part of that we wanted them to give home work on roleplay characters [https://hackmd.io/zoHXXv00QxmQKJ36cjI3kw?both](https://hackmd.io/zoHXXv00QxmQKJ36cjI3kw?both) (Home Work on safe space).
 *   Team was discussing on app for experimental purpose and shared they suggestion.
 
-    [http://www.inshot.com/](http://www.inshot.com)
+    [http://www.inshot.com/](http://www.inshot.com/)
 
-    [https://obsproject.com/](https://obsproject.com)
+    [https://obsproject.com/](https://obsproject.com/)
 
     Micah Alex: airdroid sometimes opera flow browser and a whatsapp group with just me in it and ipmsg
 
@@ -337,7 +337,7 @@ Participants: Team
 
     [https://play.google.com/store/apps/details?id=info.dvkr.screenstream\&hl=en\_IN](https://play.google.com/store/apps/details?id=info.dvkr.screenstream\&hl=en\_IN)
 
-    Micah: this one is also very promising [https://anytype.io/](https://anytype.io)
+    Micah: this one is also very promising [https://anytype.io/](https://anytype.io/)
 
     [https://www.reddit.com/r/selfhosted/comments/elsuc7/anytypeio\_a\_new\_selfhosted\_allinone\_tool\_with/](https://www.reddit.com/r/selfhosted/comments/elsuc7/anytypeio\_a\_new\_selfhosted\_allinone\_tool\_with/)
 * Geetha: I was working Data uploading in Kolibri [https://learningequality.org/kolibri/](https://learningequality.org/kolibri/)
@@ -397,14 +397,14 @@ Participants: Team
   * Papad blog at least we should put few paragraph and push.
   *   Second thing is Jerry
 
-      [https://emmabuntus.org/](https://emmabuntus.org) ; [https://emmabuntus.org/a-propos/](https://emmabuntus.org/a-propos/) ; [https://www.youandjerrycan.org/](https://www.youandjerrycan.org) ; [https://apifr.org/index\_en.html](https://apifr.org/index\_en.html) ; [https://montpellibre.fr/spip.php?rubrique151](https://montpellibre.fr/spip.php?rubrique151) ; [https://montpellibre.fr/spip.php?article4580](https://montpellibre.fr/spip.php?article4580)&#x20;
+      [https://emmabuntus.org/](https://emmabuntus.org/) ; [https://emmabuntus.org/a-propos/](https://emmabuntus.org/a-propos/) ; [https://www.youandjerrycan.org/](https://www.youandjerrycan.org/) ; [https://apifr.org/index\_en.html](https://apifr.org/index\_en.html) ; [https://montpellibre.fr/spip.php?rubrique151](https://montpellibre.fr/spip.php?rubrique151) ; [https://montpellibre.fr/spip.php?article4580](https://montpellibre.fr/spip.php?article4580)&#x20;
   * volunteer monica
   * Tumkur DD link \[update] ([https://hackmd.io/rLlEerE9QUiaQm\_u5OF-qg?view](https://hackmd.io/rLlEerE9QUiaQm\_u5OF-qg?view))
   *   Links
 
       [https://www.deepl.com/translator](https://www.deepl.com/translator)
 
-      [https://www.onlinemictest.com/](https://www.onlinemictest.com)
+      [https://www.onlinemictest.com/](https://www.onlinemictest.com/)
 
       [https://www.google.com/search?q=jerry+can](https://www.google.com/search?q=jerry+can)
   * News
@@ -418,7 +418,7 @@ Participants: Team
 
     ![](https://i.imgur.com/OoWjSrF.png)
 * Shalini: I'm still working on Webinar Pi and based on Sanketh's document i have to test virtual keyboard on the smaller screen on Pi. So i just exploried.
-* Dinesh: have another meeting. talking about [http://www.youandjerrycan.org/](http://www.youandjerrycan.org)
+* Dinesh: have another meeting. talking about [http://www.youandjerrycan.org/](http://www.youandjerrycan.org/)
 
 ### 08 September 2020
 
@@ -436,7 +436,7 @@ Participants: Team
   * Airplanes - B.O.B ft. Hayley Williams \[Lyrics]: [https://www.youtube.com/watch?v=-RQNe52jkao](https://www.youtube.com/watch?v=-RQNe52jkao)
 *   Links:
 
-    [https://ruggedboard.com/](https://ruggedboard.com)
+    [https://ruggedboard.com/](https://ruggedboard.com/)
 
     System on Modules [https://www.phytec.in/products/system-on-module-som/?gclid=CjwKCAjw19z6BRAYEiwAmo64LcOsHCIbzdO-\_ZRqYp\_bj33KEfuEueG-4vyJkYUSlxlsm\_MKt2dZdhoCb\_oQAvD\_BwE](https://www.phytec.in/products/system-on-module-som/?gclid=CjwKCAjw19z6BRAYEiwAmo64LcOsHCIbzdO-\_ZRqYp\_bj33KEfuEueG-4vyJkYUSlxlsm\_MKt2dZdhoCb\_oQAvD\_BwE)
 
@@ -495,7 +495,7 @@ Participants: Team
     \-- Dinesh re: You have seen anthillhacks.in , anthill.janastu.org and j.mp/myhill nice illustration.
 *   Links:
 
-    [https://rd.nytimes.com/](https://rd.nytimes.com)
+    [https://rd.nytimes.com/](https://rd.nytimes.com/)
 
 ### 02 September 2020
 

@@ -42,7 +42,7 @@ Renarration and Accessiblity - T B Dinesh on Localized Knowledge in Rural India 
 
 **A number of demos that consider diverse scenarios of use have been encouraging:**
 
-* [https://a11y.in/](https://a11y.in) a visual walk of renarration process and user oriented content recommendations,
+* [https://a11y.in/](https://a11y.in/) a visual walk of renarration process and user oriented content recommendations,
 * Social semantic web (local/decentralized) and bcp [http://mitan.in/bcp/raika/](http://mitan.in/bcp/raika/)
 * [https://wiki.janastu.org/wiki/Alipi](https://wiki.janastu.org/wiki/Alipi) Early applications of Renaration ideas
 * [https://open.janastu.org/projects/renarration](https://open.janastu.org/projects/renarration) a comprehensive peek at related activities,
@@ -58,6 +58,6 @@ Renarration and Accessiblity - T B Dinesh on Localized Knowledge in Rural India 
 * [Towards RMPL](https://hackmd.io/0UKUZwGEQGCDW0IU4-oflw)
 * [Annotated Re-Narrations](https://docs.google.com/presentation/d/1XAVLkGar0GCkzyUuiHOZCFIeksoTv5sbYBV7FiepzUg/edit?usp=sharing)
 * [https://arxiv.org/pdf/1810.12379.pdf](https://arxiv.org/pdf/1810.12379.pdf)
-* [Janastu-sanchaya](http://janastu-sanchaya.blogspot.com)
+* [Janastu-sanchaya](http://janastu-sanchaya.blogspot.com/)
 {% endtab %}
 {% endtabs %}

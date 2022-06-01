@@ -4,7 +4,7 @@ description: Our collected works into living archives and knowledge management.
 
 # Archival Projects
 
-![](../.gitbook/assets/da.png)
+![](../../.gitbook/assets/da.png)
 
 The transformative potential of indigenous knowledge production, archiving and storytelling in a decentralized wifi-mesh context is likely going to lead to alternate possibilities of development for low-literate and remote communities.
 
@@ -19,18 +19,17 @@ Access to the archive then invites questions of use and performance. Who chooses
 * [https://demx.in/](https://demx.in/)
 * [https://longemergency.demx.in/](https://longemergency.demx.in/)
 * [http://campusuprisings.openrun.net/](http://campusuprisings.openrun.net/)
-* [https://dd.demx.in/\#/home](https://dd.demx.in/#/home)
+* [https://dd.demx.in/#/home](https://dd.demx.in/#/home)
 * [campus collection feb 2019 update and milestones](https://docs.google.com/document/d/1fSCBPggcO9OCcXqrYYare7ruXXg7zeFc4DTx6km1Ieg/edit?usp=sharing)
-* [EA Testing](https://docs.google.com/document/d/1OxJVUtiq0OaGoZ2LiUtBwTDb8_UYR5NZPbRDfmNS27c/edit?usp=sharing)
+* [EA Testing](https://docs.google.com/document/d/1OxJVUtiq0OaGoZ2LiUtBwTDb8\_UYR5NZPbRDfmNS27c/edit?usp=sharing)
 * [democracy archives tech report](https://docs.google.com/document/d/1VsIFiINuapkqd88pS5zSKsriQzSvxHudQ-g2wuoaewY/edit?usp=sharing)
 {% endtab %}
 
 {% tab title="Milli" %}
 * [Milli Sessions - International Archives Week](https://hackmd.io/@tbdinesh/H1jAk1V28)
-* [Milli Sessions, International Archives Week 2020 - Weblinks and Readings](https://docs.google.com/document/d/1Ot-6VixXhrWliWrkzFt2PsALWr0LjzA_ZSFvcLZdWpE/edit?usp=sharing)
+* [Milli Sessions, International Archives Week 2020 - Weblinks and Readings](https://docs.google.com/document/d/1Ot-6VixXhrWliWrkzFt2PsALWr0LjzA\_ZSFvcLZdWpE/edit?usp=sharing)
 * [IAW2020 recording of our session.](https://www.youtube.com/channel/UCD8hSSbSqZgViOJS77w65oQ/videos)
 * [Specere Milli Conversations](https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A)
-* [LD4 slides set off june 10 IAW2021 session](https://docs.google.com/presentation/d/1Fgt0vzk4FjQq2oFAlvff5c7gIHLqEPKyUW7TU6_Ht7g/edit?usp=sharing)
+* [LD4 slides set off june 10 IAW2021 session](https://docs.google.com/presentation/d/1Fgt0vzk4FjQq2oFAlvff5c7gIHLqEPKyUW7TU6\_Ht7g/edit?usp=sharing)
 {% endtab %}
 {% endtabs %}
-

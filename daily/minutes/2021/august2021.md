@@ -41,7 +41,7 @@
 * Dinesh requested emery to thing about the Usecases of Papad
 * Shared link:
   * [https://gitlab.com/servelots/slots/team/daily-task](https://gitlab.com/servelots/slots/team/daily-task)
-  * [https://syncthing.net/](https://syncthing.net)
+  * [https://syncthing.net/](https://syncthing.net/)
   * [http://purl.org/eris](http://purl.org/eris)
   * inqlab.net ([http://purl.org/eris](http://purl.org/eris))
 

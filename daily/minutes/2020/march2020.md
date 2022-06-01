@@ -110,7 +110,7 @@ University of Virginia Digital Collection Toolkit for Crises [http://digitalcoll
 
 Documenting Your Community’s Experience of COVID-19: A Resource List Archivists adding what their respective 'units' are doing. Mostly university collection projects. [https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit](https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit)
 
-Web page recording [https://webrecorder.io/](https://webrecorder.io)
+Web page recording [https://webrecorder.io/](https://webrecorder.io/)
 
 A collection of causes during COVID lockdown [blrcauses](https://j.mp/blrcauses)
 

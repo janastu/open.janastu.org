@@ -10,7 +10,7 @@ In a Craft Cluster, nearby craft centers are assisted by a central makerspace wh
 
 The CrafterSpace, our first center, engages in research and technology development to make sustainable connections between local people, locally available materials and tools, and the required techniques and technology. A community knowledge archive, community radio and digital storytelling activities are also part of the space. It encourages renewal of craft skills so women and youth in rural areas are able to collaboratively handle design communication, end-to-end orders, production, distribution, marketing and supply chain management. It aspires to augment area economies with craft, tech and media capacities in addition to enhancing local cultural economic spaces. CrafterSpace is based in the foothills of Devarayanadurga at Halekote of Durgadahalli is collaboratively developed by Mitan and Janastu, and funded by Rotary Dist. 3190 through a Rotary International Global Grant. The center intends to bring an ideology of craftsmanship that can be applied in a positive, real-world way by aspiring craftspersons and convey a user-oriented understanding of contemporary technologies that can make craft livelihoods more productive and better able to find markets. It has been a research and resource center for creative crafts and product prototyping using locally and naturally available material such as Bull Rush grass, Areca leaves, Coconuts produce, banana fibre, sheep wool, etc.
 
-&#x20;Se[e](http://crafts.janastu.org) [crafts.janastu.o](http://crafts.janastu.org)rg
+&#x20;Se[e](http://crafts.janastu.org/) [crafts.janastu.o](http://crafts.janastu.org/)rg
 
 ![](../.gitbook/assets/img-20190718-wa0005.jpg)
 
@@ -70,7 +70,7 @@ The CrafterSpace, our first center, engages in research and technology developme
 
 {% tabs %}
 {% tab title="Sites" %}
-* [https://crafts.janastu.org/](https://crafts.janastu.org)
+* [https://crafts.janastu.org/](https://crafts.janastu.org/)
 * [https://www.instagram.com/crafter\_space/](https://www.instagram.com/crafter\_space/)
 {% endtab %}
 {% endtabs %}

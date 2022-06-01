@@ -27,7 +27,7 @@
 * [InclusiveEntrepreneurship Tweet Chat questions - by DA](https://docs.google.com/document/d/1hYRCFGaApLsRk1akKdcJMQ1R0tN7v4EZaV0h\_xj14FE/edit?usp=sharing)
 * [Janastu feed](https://hackmd.io/27RhtheESZW92NUXHTfozA?view)
 * [One year of Kwol Radio](https://hackmd.io/\_kX0rcPASoWGBxCV-EZ5Zg?view)
-* [syncshare.janastu.org](https://syncshare.janastu.org)
+* [syncshare.janastu.org](https://syncshare.janastu.org/)
 * [https://duckduckgo.com/?q=isif+servelots](https://duckduckgo.com/?q=isif+servelots)
 * **Wideangle**
   * [Image Stock Technical documentation](https://docs.google.com/document/d/1WbtY3IFOrVBwkDRuc7xDIon9Opsus\_klbCk2JNTVG7I/edit?usp=sharing)
@@ -143,10 +143,10 @@
 {% tab title="Cloud" %}
 * [Logos-Archive](https://files.janastu.org/s/7qQJHCME3iBmiqb)
 * [48percent](https://files.janastu.org/s/oF8C7j6K6ptKWGm)
-* [https://public.janastu.org/](https://public.janastu.org)
-* [https://files.janastu.org/](https://files.janastu.org)
-* [https://syncshare.janastu.org/](https://syncshare.janastu.org)
-* [http://da.pantoto.org/](http://da.pantoto.org)
+* [https://public.janastu.org/](https://public.janastu.org/)
+* [https://files.janastu.org/](https://files.janastu.org/)
+* [https://syncshare.janastu.org/](https://syncshare.janastu.org/)
+* [http://da.pantoto.org/](http://da.pantoto.org/)
 {% endtab %}
 
 {% tab title="Server" %}
