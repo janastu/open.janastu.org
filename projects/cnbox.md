@@ -13,3 +13,21 @@ We propose CnBox, a plug and play _Community Networking_ cloud server with decen
 **use cases:** [https://hackmd.io/L6MynXknQVaprOJfMAxCbA?view](https://hackmd.io/L6MynXknQVaprOJfMAxCbA?view)
 
 Audio conversations has been the main stay of human communications. As Internet reach for the rural and low-literate populations of the world is halting, interaction and interconnection support for audio based communications are a necessity to encourage utilitarian engagement. Collaborative media annotations can effectively contribute to decentralised hypermedia content networks. We have developed and deployed collaborative audio annotation tools in a number of community networks. These are in the contexts of listening sessions in rural contexts and mesh networks, community radio - curation and discovery, micro media and storytelling archives, ethnography and community health, and online learning in offline spaces during the COVID lockdown times. With this work, we ensure availability of packaged open source tools for self hosting in addition to devices that plugin to a participant network context for "sense-making as a service".
+
+#### Related Projects
+
+{% content-ref url="webinar-pi.md" %}
+[webinar-pi.md](webinar-pi.md)
+{% endcontent-ref %}
+
+{% content-ref url="papad.md" %}
+[papad.md](papad.md)
+{% endcontent-ref %}
+
+{% content-ref url="cowmesh.md" %}
+[cowmesh.md](cowmesh.md)
+{% endcontent-ref %}
+
+{% content-ref url="mirzapur.md" %}
+[mirzapur.md](mirzapur.md)
+{% endcontent-ref %}
