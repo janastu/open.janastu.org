@@ -2,7 +2,7 @@
 description: Hypermedia storytelling, archiving and media making through Audio.
 ---
 
-# Papad API
+# Papad
 
 ## **Summary**
 
@@ -38,12 +38,12 @@ Our research focus has been on web accessibility for Indian needs in the local c
 {% endtab %}
 
 {% tab title="Demo" %}
-* [http://papad.pantoto.org/](http://papad.pantoto.org)
+* [http://papad.pantoto.org/](http://papad.pantoto.org/)
 * &#x20;[http://papad.test.openrun.net](http://papad.test.openrun.net) User: janastu / Pwd: jan123
 {% endtab %}
 
 {% tab title="Others" %}
-* [http://papad.test.openrun.net/](http://papad.test.openrun.net) User: janastu / Pwd: jan123
+* [http://papad.test.openrun.net/](http://papad.test.openrun.net/) User: janastu / Pwd: jan123
 * [https://papad-api-2.test.openrun.net/fragments/](https://papad-api-2.test.openrun.net/fragments/)
 * [https://papad.test.openrun.net/item/604b7927c2db367f593eee3a](https://papad.test.openrun.net/item/604b7927c2db367f593eee3a)
 * [https://papad.test.openrun.net/item/60536dd8884df2c2883eee55 ](https://papad.test.openrun.net/item/60536dd8884df2c2883eee55)

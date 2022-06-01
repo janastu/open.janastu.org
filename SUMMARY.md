@@ -11,7 +11,7 @@
   * [Maptales](projects/maptales.md)
   * [Indic NLP](projects/indic-nlp.md)
   * [Raagi Gudda Slum Project](projects/ragigudda.md)
-  * [Papad API](projects/papad.md)
+  * [Papad](projects/papad.md)
   * [Archival Projects](projects/archives.md)
   * [CrafterSpace](projects/crafts.md)
   * [Compost](projects/compost.md)
