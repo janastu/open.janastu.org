@@ -2,25 +2,27 @@
 description: Upcoming / Earlier / Topics / About / History
 ---
 
-# Anthillhacks Co-Parties
+# Anthillhacks 21.22
 
-## Planning Anthillhacks 22.23
+## **About**
 
-<figure><img src="../.gitbook/assets/ants2223 (1).jpg" alt=""><figcaption><p>bit.ly/2223</p></figcaption></figure>
+![](../.gitbook/assets/Anthillhacks21.21.jpg)
+
+## **T**ogether Being Apart
 
 
 
-**We are planning Anthillhacks at the end of the year** starting the last week and flowing into the new year (say 23rd Dec to 3rd Jan which includes 2 weekends **or** 28th Dec to 8th Jan)
+Our theme is to **Cook together being apart** and **hack together being apart** with in the wifi mesh network area.
 
-Again like last one, at the beautiful hills near Devarayanadurga, Tumkur where we want to camp, cook and hack together. In the pristine Iruway farm over the course of 10 days, and we are open to ideas of making this event more distributed.
+Come join us in the beautiful hills near Devarayanadurga, Tumkur where we want to camp, cook and hack together. In the pristine Iruway farm over the course of 10 days, we will be exploring life and sciences in many forms. From learning and practicing sustainable farming practices to learning about building a localised health infrastructure, from Cooking Online and Offline together with our friends and neighbours exploring local recipes to learning about knowledge tools and craft practices from a hyperlocal lens - this is an unparalleled experience spanning from the 24th December 2021 to the 3rd of Jan 2022.
 
-Be a collaborator! Cocreator and Theme or session developer.
+Over the course of AnthillHacks 21.22, we will be exploring different tracks through practice as well as working sessions in collaboration with local participants. These tracks seek to explore a few large questions in small yet meaningful ways
 
-### Dates: Dec 23rd to Jan 3rd or Dec 28 to Jan 8 <a href="#dates-dec-23rd-to-jan-4th" id="dates-dec-23rd-to-jan-4th"></a>
+### Dates: Dec 23rd to Jan 4th <a href="#dates-dec-23rd-to-jan-4th" id="dates-dec-23rd-to-jan-4th"></a>
 
-### Theme:  Community care  <a href="#theme-cook-and-hack-days" id="theme-cook-and-hack-days"></a>
+Sessions and activities from **Dec 24th to Jan 3rd** (9 days including the 2 weekends of Dec 24th and Jan 1st)
 
-(tentatively)
+### Theme: Cook and Hack days <a href="#theme-cook-and-hack-days" id="theme-cook-and-hack-days"></a>
 
 **Everyday session tracks**
 
@@ -36,21 +38,57 @@ Our wifi mesh network area is about 70km from Bangalore, setup in 4 villages - a
 
 ### Volunteer, participate and ideate <a href="#volunteer-participate-and-ideate" id="volunteer-participate-and-ideate"></a>
 
+**Please register on this** [**link**](https://nextcloud.livinglabs.network/apps/forms/xk4JEemKJ5M68NYj)**. Registration is free and helps us plan the event.**
+
 Our team is looking forward to include your session or activity request for the days of your participation and preference. Please email us at [anthillhacks@janastu.org](mailto:anthillhacks@janastu.org)
 
 We are looking for documenters and translators for each of the 5 locations in the mesh area.
 
+**Pre-announced parallel cooking sessions** of the same “**recipe**” (adapted to location of the parallelly cooking participants) in different villages of ddhills COWmesh area where some are likely to join in from outside - india and elsewhere. A similar process/pattern we hope will be used for other tech and nontech activities you all bring in to the event.
+
+### Physical Locations within the COWmesh area <a href="#physical-locations-within-the-cowmesh-area" id="physical-locations-within-the-cowmesh-area"></a>
+
+1. Anterras by Yatrinivas, Devarayanadurga/ddhills
+2. [Iruway](https://iruway.janastu.org/), Halekote
+3. [CrafterSpace](https://crafts.janastu.org/), Halekote/Durgadahalli
+4. Near Village Well, Durgadahalli
+5. Tamarind Grove, Thimmanayakanahalli
+
+Distributed sessions, each location will have tents with a large screen, camera and [AsPi devices](https://blog.janastu.org/). People can attend sessions live at their location or by choosing a remote channel.
+
+**Setup days** from 20th Dec, 2021 - logistics, food and other requirements.\
+**Tech wise** - streaming tools within mesh and for those joining from locations outside.
+
 ### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
 
-APC and CN networks || [Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com/) || [Futuretronlabs](https://www.futuretronlabs.in/) || Design Beku
+[Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com/) || [Futuretronlabs](https://www.futuretronlabs.in/)
+
+### Covid protocols <a href="#covid-protocols" id="covid-protocols"></a>
+
+While we are open to you coming physically to the locations at ddhills area, we also ask you to be mindful of the need for the physically present to be in comfortable (safe) spaces. We may limit numbers to be 10 in closed spaces and 25 in open spaces. The session owners will be directing who will be in their physical proximity.
+
+### Participation Links for online visitors: <a href="#participation-links-for-online-visitors" id="participation-links-for-online-visitors"></a>
+
+To get involved in discussions, share your ideas for workshops or sessions, give feedback, and stay in touch with our community, you can join our discord channel.
+
+* Session Link: [https://meet.jit.si/anthillhacks](https://meet.jit.si/anthillhacks)
+* Our Discord channel: [http://j.mp/anthillchat](http://j.mp/anthillchat)
 
 ### Food & Accommodation: <a href="#food-amp-accommodation" id="food-amp-accommodation"></a>
 
-Please see last year notes for now.
+There are a couple of rooms in nearby Yatri nivas - a travellers lodge, and other smaller “guest houses” built by the devotees of the temple on the hill in case of larger groups visiting we would like to know a bit earlier to coordinate the logistics. You are welcome to pitch your own tent. We have some tents that can be allotted on a first come basis. One meal a day is planned to be cooked by the participants on a pre-decided recipe, this activity will also be streamed so people online can also be part of the cooking and we are having some local cooks to prepare the other meals.
+
+_**P.S:** Guest house on the hill will be 4km away by 2 wheelers, 12 km by 4 wheelers and 1.5 km by foot from the iruWay farm. Will be closed on 31st and 1st._
 
 ### Event Costs: <a href="#event-costs" id="event-costs"></a>
 
-We wish that the cost will prevent anyone who wishes to engage. (more details later)
+Online participation is free. There is a day pass for people coming on-site and a camping pass for those staying overnight (options are guest house on the hill, tents or grass huts at iruway, stay in village house, etc) A sliding scale on both of these passes allows everyone to participate.\
+All passes cover breakfast, access to daily talks, workshops, and activities plus costs like equipment rentals, facilities rent, shade structures, electricity, internet and consumables. The camping pass also includes a tent space and the use of shared bathing facilities. Every organizer and participant is a volunteer. We are not for profit but encourage sharing.
+
+| **Pass type** | **Sliding scale** |
+| ------------- | ----------------- |
+| Day pass      | Rs. 101-1001/day  |
+| Camping pass  | Rs. 301-2001/day  |
 
 ### Things to Carry: <a href="#things-to-carry" id="things-to-carry"></a>
 
@@ -60,13 +98,13 @@ We wish that the cost will prevent anyone who wishes to engage. (more details la
 * Carry cash, nearest ATM is 6-7 km away
 
 {% hint style="info" %}
-_Ants21.22- Sharable & Editable link to this document:_ [_https://bit.ly/ants2223_](https://bit.ly/ants2223) __&#x20;
+_Ants21.22- Sharable & Editable link to this document:_ [_https://j.mp/ants2122_](https://j.mp/ants2122)__
 {% endhint %}
 
 ## OUR HISTORY
 
 \---\
-General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://anthillhacks.in/) (under construction)\
+General overview page: [j.mp/myhill](http://j.mp/myhill) and [anthillhacks.in](https://anthillhacks.in/)\
 A visual overview of the hill after the annotations: [graphical walkthrough](https://anthill.janastu.org/walkthrough.html) "Neowarli" Anthill illustration by Megha Vishwanath\
 \---
 
@@ -103,10 +141,6 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 * Channel (during sessions): [http://j.mp/anthillchat](http://bit.ly/anthillchat)
 * Gitbook (archives/details): [https://open.janastu.org/activity/anthill](https://open.janastu.org/activity/anthill)
 * [Poster](https://drive.google.com/file/d/1azzGlwuieHLys1FmhQEthIQT74G1gYlA/view)
-
-ANTHILLHACKS 21.22
-
-* &#x20;[anthill2122.md](anthill2122.md "mention")
 
 {% tabs %}
 {% tab title="Docs" %}
@@ -152,7 +186,7 @@ ANTHILLHACKS 21.22
 * [https://anthillhacks.in](https://anthillhacks.in)
 * [https://anthill.janastu.org/](https://anthill.janastu.org/)
 * [http://j.mp/ourhills](http://j.mp/ourhills)
-* [https://j.mp/myhill](https://j.mp/myhill)
+* j.mp/myhill
 {% endtab %}
 
 {% tab title="Social" %}
