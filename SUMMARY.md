@@ -86,7 +86,7 @@
 
 * [KiFi 2021](labs/kifi-2021.md)
 * [Anthillhacks 21.22](labs/anthill2122.md)
-* [Anthillhacks Co-Parties](labs/anthill.md)
+* [Anthillhacks Co-Creation](labs/anthill.md)
 * [IruWay Farm](labs/iruway.md)
 * [Devarayanadurga Jatre](labs/ddhills-jatre.md)
 
