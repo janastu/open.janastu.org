@@ -2,33 +2,65 @@
 description: Upcoming / Earlier / Topics / About / History
 ---
 
-# Anthillhacks Co-Parties
+# Anthillhacks Request for Participation
 
-## Planning Anthillhacks 22.23
+## Planning Anthillhacks 2022
 
 <figure><img src="../.gitbook/assets/ants2223 (1).jpg" alt=""><figcaption><p>bit.ly/2223</p></figcaption></figure>
 
+**Anthillhacks 2022**
+
+Starting **Dec 15th** we begin the build activities
+and invite friends and community to help.
+
+We expect the event activities to start by
+the weekend after which is the 17th and 18th of December.
+We expect it to go on until the end of the year
+but most activities to peak before the 24th (Saturday)
 
 
-**We are planning Anthillhacks at the end of the year** starting the last week and flowing into the new year (say 23rd Dec to 3rd Jan which includes 2 weekends **or** 28th Dec to 8th Jan)
+STORIES
 
-Again like last one, at the beautiful hills near Devarayanadurga, Tumkur where we want to camp, cook and hack together. In the pristine Iruway farm over the course of 10 days, and we are open to ideas of making this event more distributed.
+    - everyday some stories and films
+
+GENDER
+
+    - everyday on gender and inclusion
+    
+FOOD
+
+    - everyday different nodes
+    
+
+The event will be distributed in the COWMesh area
+but the iruWay campus will have the main gathering
+with accomodation in and around the campus. 
+
+We invite organizations to annouce days of their convinience
+and we hope to help build the activities around them.
+
+
+**build days** 
+    - nodes setup with aspi, mesh extended with additonal nodes including test setups
+    - spaces for activities
+    - distributed and CN contexts
+    - COWLanding page setup
+    - people roles and responsibilities
+
+**Suggested labelling of other days:**
+
+gender days, libre router and antennas, community networks and services, 
+cowlanding and applications, voice communications and media archiving,
+annotations and renarration, dWeb and Community Networks, e-vehicles and rural design, 
+organic and permaculture, internet independence and education, heritage and biodiverity narratives (ethno botanical practices),
+crafts and arts, data rituals (30% of economy; creating markets by formalising the informal economy), 
+resource mapping excercises, follow the sheep and other map story telling, sustainable structures, 
+open space events, makerspaces, creative community displays, hikes treks and bouldering, ..
+
+
+Again at the beautiful **hills near Devarayanadurga, Tumkur** where we want to camp, cook and hack together. In the pristine Iruway farm over the course of 15 days, and we are open to ideas of making this event more distributed.
 
 Be a collaborator! Cocreator and Theme or session developer.
-
-### Dates: Dec 23rd to Jan 3rd or Dec 28 to Jan 8 <a href="#dates-dec-23rd-to-jan-4th" id="dates-dec-23rd-to-jan-4th"></a>
-
-### Theme:  Community care  <a href="#theme-cook-and-hack-days" id="theme-cook-and-hack-days"></a>
-
-(tentatively)
-
-**Everyday session tracks**
-
-1. Wireless mesh networking, nodes/devices and services
-2. Crafts and Maker Space
-3. Learning and local content, tools and management
-4. Farming, trekking and performances on the rocks
-5. Cooking - we want to try if cooking together offline with online participants maybe be a way to connect sideways and informally in these times of fatiguing online sessions.
 
 ### Location : near Bangalore, India <a href="#location-near-bangalore-india" id="location-near-bangalore-india"></a>
 
@@ -42,7 +74,7 @@ We are looking for documenters and translators for each of the 5 locations in th
 
 ### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
 
-APC and CN networks || [Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) || [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com/) || [Futuretronlabs](https://www.futuretronlabs.in/) || Design Beku
+APC and CN networks || [Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) ||  [OpenSpace Foundation](https://openspacefoundation.in/)|| [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com/) || [Futuretronlabs](https://www.futuretronlabs.in/) || [Design Beku](http://designbeku.in)
 
 ### Food & Accommodation: <a href="#food-amp-accommodation" id="food-amp-accommodation"></a>
 
@@ -50,7 +82,7 @@ Please see last year notes for now.
 
 ### Event Costs: <a href="#event-costs" id="event-costs"></a>
 
-We wish that the cost will prevent anyone who wishes to engage. (more details later)
+We wish that the cost will NOT prevent anyone who wishes to engage. (more details later)
 
 ### Things to Carry: <a href="#things-to-carry" id="things-to-carry"></a>
 
@@ -143,7 +175,8 @@ ANTHILLHACKS 21.22
 * Anthillhacks 21.22 Documentation
   * crafts sessions [https://hackmd.io/AMB1NxQcSn-qAzMqf6pHQA](https://hackmd.io/AMB1NxQcSn-qAzMqf6pHQA)
   * [https://pad.riseup.net/p/cow221](https://pad.riseup.net/p/cow221)
-  * [https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/    ](https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/) Anthillhack calendar
+  * [https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/
+    ](https://cryptpad.fr/sheet/#/2/sheet/edit/o7-ZIaXxy0GOkrGh94yGphOr/) Anthillhack calendar
 {% endtab %}
 {% endtabs %}
 
