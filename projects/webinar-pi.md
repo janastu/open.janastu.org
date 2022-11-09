@@ -8,7 +8,7 @@ description: Portable community centered computing based on raspberry pi.
 
 ASPi is first a webinar device (based on raspberry pis) for collectives and groups - including college-going girls who have not been able to continue their vocational education and schooling because of the ongoing pandemic. This is could also be a substantial contribution to edu-tech as it seeks to address the problems of connectivity and schooling/learning that are faced by about 75% of the households in the country. Through a low-cost and accessible setup, we are creating technology that is community-driven and for the use of groups, thereby working towards goal of self-directed learning as well. While these webinar-pis can be used for educational seminars, online/recorded classes, they are build with hands-on workshops and inclusion of the people in the girls' neighborhood.
 
-![](<../.gitbook/assets/uvjsj6v (1).jpg>)
+![](../.gitbook/assets/uvjsj6v.jpg)
 
 The primary objective is to build a Community Operated Wireless (COW) Mesh Network for Mirzapur girls' communities. The network will eventually be operated and sustained by their communities aiding livelihood generation, education and decentralized archiving for storytelling and "marketing" needs. COW Mesh for now is what we call "mesh-mash" as it uses internet as a backbone where linking nodes on a physical local mesh becomes difficult or unnatural even as during the COVID lockdown travel restrictions.
 
