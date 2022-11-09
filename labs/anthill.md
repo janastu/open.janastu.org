@@ -44,7 +44,7 @@ We invite organizations to announce days of their convenience and we hope to hel
 
 **Topics of interest suggested for:**
 
-gender days, libre router (LR) and antennas, community networks and services, cowlanding and applications, voice communications and media archiving, annotations and renarration, dWeb and Community Networks, e-vehicles and rural design, organic and permaculture, internet independence and education, heritage and biodiverity narratives (ethno botanical practices), crafts and arts, data rituals (30% of economy; creating markets by formalising the informal economy), resource mapping exercises, follow the sheep and other map story telling, sustainable structures, open space events, makerspaces, creative community displays, hikes treks and bouldering, ..
+gender days, libre router (LR) and antennas, community networks and services, cowlanding and applications, voice communications and media archiving, annotations and renarration, dWeb and Community Networks, e-vehicles and rural design, organic and permaculture, internet independence and education, heritage and biodiverity narratives (ethno botanical practices), crafts and arts, data rituals (30% of economy; creating markets by formalising the informal economy), resource mapping exercises, follow the sheep and other map story telling, sustainable structures, open space events, makerspaces, creative community displays, hikes treks and bouldering, .. **creative music and large puppets  (friends of Agnii - Art for All)**
 
 Again at the beautiful **hills near Devarayanadurga, Tumkur** where we want to camp, cook and hack together. In the pristine Iruway farm over the course of 15 days, and we are open to ideas of making this event more distributed.
 
