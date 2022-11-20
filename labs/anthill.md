@@ -62,15 +62,15 @@ We are looking for documentation and translation help for each of the locations 
 
 ### Collaborations offered <a href="#collaborations-offered" id="collaborations-offered"></a>
 
-APC and CN networks || [Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) || [OpenSpace Foundation](https://openspacefoundation.in/)|| [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [Mudhands](https://mudhands.com/) || [Futuretronlabs](https://www.futuretronlabs.in/) || [Design Beku](http://designbeku.in)
+APC and CN networks || [Janastu/Servelots](https://janastu.org/) || [Chiguru CoLab](https://chigurucolab.com/) || [OpenSpace Foundation](https://openspacefoundation.in/)|| [Gida Living Colors](https://www.instagram.com/gida\_livingcolours/) || [`0penstudi0`](http://instagram.com/0penstudi0) || [Marali Mannige](https://www.instagram.com/maralimannige) || [Tex-art Studio](https://www.instagram.com/texart\_studio19) || [`artsy_hudugi`](https://www.instagram.com/artsy\_hudugi) || [Futuretronlabs](https://www.futuretronlabs.in/) || [Design Beku](http://designbeku.in) || [48%](https://48percent.org) ||
 
 ### Food & Accommodation: <a href="#food-amp-accommodation" id="food-amp-accommodation"></a>
 
-Please see last year notes for now.
+There are a few rooms and a number of tents that can be reserved. You are welcome to pitch your own tent. You get to choose when you register. Please bring warm cloths for the evenings. Follow on [anthillhacks.in](https://anthillhacks.in)&#x20;
 
 ### Event Costs: <a href="#event-costs" id="event-costs"></a>
 
-We wish that the cost will NOT prevent anyone who wishes to engage. (more details later)
+We wish that the cost will NOT prevent anyone who wishes to engage. Write to us of your contraints and needs. (more details later)
 
 ### Things to Carry: <a href="#things-to-carry" id="things-to-carry"></a>
 
