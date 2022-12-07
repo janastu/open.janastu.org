@@ -1,16 +1,16 @@
 ---
 description: Upcoming / Earlier / Topics / About / History
-cover: ../.gitbook/assets/ants2223retro1000.jpg
-coverY: 365.0689428759028
+cover: ../.gitbook/assets/Anthillhacks16x9.jpg
+coverY: 0
 ---
 
 # Anthillhacks Co-Creation
 
-##
+
+
+<figure><img src="../.gitbook/assets/anthillhacks2022.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Planning Anthillhacks 2022 - 2023?
-
-<figure><img src="../.gitbook/assets/ants2223retro1000.jpg" alt=""><figcaption><p><a href="http://bit.ly/ants2223">http://bit.ly/ants2223</a></p></figcaption></figure>
 
 **Anthillhacks 2022 - 2023?**
 
