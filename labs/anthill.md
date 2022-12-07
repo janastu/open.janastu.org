@@ -1,6 +1,6 @@
 ---
 description: Upcoming / Earlier / Topics / About / History
-cover: ../.gitbook/assets/Anthillhacks16x9.jpg
+cover: ../.gitbook/assets/Anthillhacks16x9banner.jpg
 coverY: 0
 ---
 
