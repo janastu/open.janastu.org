@@ -40,8 +40,9 @@ Our research focus has been on web accessibility for Indian needs in the local c
 {% endtab %}
 
 {% tab title="Demo" %}
-* [http://papad.pantoto.org/](http://papad.pantoto.org/)
-* &#x20;[http://papad.test.openrun.net](http://papad.test.openrun.net) User: janastu / Pwd: jan123
+* \[Latest] [https://stories.janastu.org/](https://stories.janastu.org/)
+* \[Deprecated] [http://papad.pantoto.org/](http://papad.pantoto.org/)
+* \[Deprecated] [http://papad.test.openrun.net](http://papad.test.openrun.net) User: janastu / Pwd: jan123
 {% endtab %}
 
 {% tab title="Others" %}
