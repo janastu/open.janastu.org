@@ -8,7 +8,7 @@ description: Hypermedia storytelling, archiving and media making through Audio.
 
 Demo: [https://stories.janastu.org/](https://stories.janastu.org/)
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-28 at 13-02-55 PAPAD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-01-28 at 13-02-55 PAPAD (1).png" alt=""><figcaption><p>Screenshot of the dashboard</p></figcaption></figure>
 
 We have been telling stories, re-telling stories and weaving incredibly complex network of stories. How can Internet standards, protocols and tools support this basic human need? How can a hyper-media Web of inter-linked stories become discoverable and navigable content for all - inclusive of low-literate people. How can Internet technologies help archive, reshape, reinterpret, and reinvent to assist the natural ways of storytelling and help capture oral histories and local knowledge directly by the people for the first time in human evolution?
 
