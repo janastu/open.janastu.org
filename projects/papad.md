@@ -1,5 +1,5 @@
 ---
-description: Hypermedia storytelling, archiving and media making through Audio.
+description: Hypermedia storytelling, archiving and media making through Audio and Video.
 ---
 
 # Papad
@@ -23,13 +23,6 @@ Our research focus has been on web accessibility for Indian needs in the local c
 * [cowde-visual](https://salus-sage.github.io/cowde-visual/)
 {% endtab %}
 
-{% tab title="R&D" %}
-* [Papad Login Page Documentation](https://hackmd.io/1GQqVej\_SX-G0EE\_SeG45w?view)
-* [Re-factoring Papad angular front-end application](https://hackmd.io/0l6iS6taRgqFd3MvIcJ\_sw?view)
-* [Papad Mobile Requirements](https://hackmd.io/G5DS3pBZTEmLgpFnRvS2DQ)
-* [Papad - UX Project](https://docs.google.com/document/d/17P2ZbGmokS2TwLRZ-LaPAobuxKug7w893GuRYygzpNY/edit)
-{% endtab %}
-
 {% tab title="Drafts and Workbench" %}
 * [Papad Doc - Pre-Draft](https://docs.google.com/document/d/1HMSkFLkHVC82WryG-LgbkH8ViWIT65RN08eQwB4mLjg/edit)
 * [Papad Documentation](https://docs.google.com/document/d/1AZzOU\_iEVBKfQSETWQV81NbdDOJjcJ0IMu301d8SkQw/edit)
@@ -47,6 +40,10 @@ Our research focus has been on web accessibility for Indian needs in the local c
 
 {% tab title="Others" %}
 * [http://papad.test.openrun.net/](http://papad.test.openrun.net/) User: janastu / Pwd: jan123
+* [Papad Login Page Documentation](https://hackmd.io/1GQqVej\_SX-G0EE\_SeG45w?view)
+* [Re-factoring Papad angular front-end application](https://hackmd.io/0l6iS6taRgqFd3MvIcJ\_sw?view)
+* [Papad Mobile Requirements](https://hackmd.io/G5DS3pBZTEmLgpFnRvS2DQ)
+* [Papad - UX Project](https://docs.google.com/document/d/17P2ZbGmokS2TwLRZ-LaPAobuxKug7w893GuRYygzpNY/edit)
 * [https://papad-api-2.test.openrun.net/fragments/](https://papad-api-2.test.openrun.net/fragments/)
 * [https://papad.test.openrun.net/item/604b7927c2db367f593eee3a](https://papad.test.openrun.net/item/604b7927c2db367f593eee3a)
 * [https://papad.test.openrun.net/item/60536dd8884df2c2883eee55 ](https://papad.test.openrun.net/item/60536dd8884df2c2883eee55)
@@ -69,5 +66,12 @@ Our research focus has been on web accessibility for Indian needs in the local c
 
     \
     [    ](https://embed.kumu.io/2c2b83fb76253407f42f0dce3f8480e3)
+{% endtab %}
+
+{% tab title="Untitled" %}
+* [Papad Login Page Documentation](https://hackmd.io/1GQqVej\_SX-G0EE\_SeG45w?view)
+* [Re-factoring Papad angular front-end application](https://hackmd.io/0l6iS6taRgqFd3MvIcJ\_sw?view)
+* [Papad Mobile Requirements](https://hackmd.io/G5DS3pBZTEmLgpFnRvS2DQ)
+* [Papad - UX Project](https://docs.google.com/document/d/17P2ZbGmokS2TwLRZ-LaPAobuxKug7w893GuRYygzpNY/edit)
 {% endtab %}
 {% endtabs %}

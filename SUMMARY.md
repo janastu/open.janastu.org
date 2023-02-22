@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+  * [Papad Release](readme/papad-release.md)
 * [About](about/README.md)
   * [Organisations](about/organisations.md)
 * [Projects](projects/README.md)
@@ -43,8 +44,7 @@
   * [Athithya](people/athithya.md)
   * [Shafali Jain](people/shafali.md)
   * [Upasana](people/upasana.md)
-  * [Joel Louzado](people/joel.md)
-  * [Member name](people/yatharth.md)
+  * [Shashi](people/shashi.md)
 * [Contact](contact/README.md)
   * [Join us](contact/join.md)
   * [Websites](contact/website.md)

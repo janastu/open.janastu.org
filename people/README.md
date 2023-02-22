@@ -1,30 +1,57 @@
 # People
 
-{% page-ref page="tb-dinesh.md" %}
+{% content-ref url="tb-dinesh.md" %}
+[tb-dinesh.md](tb-dinesh.md)
+{% endcontent-ref %}
 
-{% page-ref page="shalini.md" %}
+{% content-ref url="shalini.md" %}
+[shalini.md](shalini.md)
+{% endcontent-ref %}
 
-{% page-ref page="bhanuprakash.md" %}
+{% content-ref url="bhanuprakash.md" %}
+[bhanuprakash.md](bhanuprakash.md)
+{% endcontent-ref %}
 
-{% page-ref page="arun.md" %}
+{% content-ref url="arun.md" %}
+[arun.md](arun.md)
+{% endcontent-ref %}
 
-{% page-ref page="yatharth-2.md" %}
+{% content-ref url="yatharth-2.md" %}
+[yatharth-2.md](yatharth-2.md)
+{% endcontent-ref %}
 
-{% page-ref page="emery.md" %}
+{% content-ref url="emery.md" %}
+[emery.md](emery.md)
+{% endcontent-ref %}
 
-{% page-ref page="sankethkumar.md" %}
+{% content-ref url="sankethkumar.md" %}
+[sankethkumar.md](sankethkumar.md)
+{% endcontent-ref %}
 
-{% page-ref page="manoj.md" %}
+{% content-ref url="manoj.md" %}
+[manoj.md](manoj.md)
+{% endcontent-ref %}
 
-{% page-ref page="micah.md" %}
+{% content-ref url="micah.md" %}
+[micah.md](micah.md)
+{% endcontent-ref %}
 
-{% page-ref page="manikantan.md" %}
+{% content-ref url="manikantan.md" %}
+[manikantan.md](manikantan.md)
+{% endcontent-ref %}
 
-{% page-ref page="athithya.md" %}
+{% content-ref url="athithya.md" %}
+[athithya.md](athithya.md)
+{% endcontent-ref %}
 
-{% page-ref page="shafali.md" %}
+{% content-ref url="shafali.md" %}
+[shafali.md](shafali.md)
+{% endcontent-ref %}
 
-{% page-ref page="upasana.md" %}
+{% content-ref url="upasana.md" %}
+[upasana.md](upasana.md)
+{% endcontent-ref %}
 
-{% page-ref page="joel.md" %}
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
