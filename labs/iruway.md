@@ -34,14 +34,14 @@ The transformative potential of indigenous knowledge production, archiving and s
 
 {% tabs %}
 {% tab title="Docs" %}
-* [Nov 1 LGBT, sangama 377 with Design Beku](https://photos.app.goo.gl/isUJPSpaTYW82xUTA)****
+* [Nov 1 LGBT, sangama 377 with Design Beku](https://photos.app.goo.gl/isUJPSpaTYW82xUTA)
 * [Nov 2nd Dipti and Natural farming - microbes gathering ](https://photos.app.goo.gl/iZChnUhsr1ZhJ3T6A)
 * [Nov 16th SoTM anthillhacks and Helavaru at IIMB](https://photos.app.goo.gl/ai9ddJftk9f9vbdp9)
 * [Nov 25th Mela with Sanketh and friends at durgadahalli](https://photos.app.goo.gl/PRQw5NaxAjabRAML7)
 * [Dec 9th Mela with Mark and Yoomi and Jennifer Laser](https://photos.app.goo.gl/pQNhP6Lvikq8X4MQ9)
 * [Jan 12th food wrapping experiment](https://photos.app.goo.gl/MGAwwUrr1fMs2qWz7)
 * [Hari, Shreyas and Moda with Trink from Hillhacks](https://photos.app.goo.gl/D4rCvSCQLDadsb2F9)
-* ****[Iruway random from June 2019 to Aug 2019](https://photos.app.goo.gl/qiwj5h8z2fXo8xun8)
+* [Iruway random from June 2019 to Aug 2019](https://photos.app.goo.gl/qiwj5h8z2fXo8xun8)
 * [Iruway and anthillhacks sotm, With students learning from Arun and Moda and acting out, and video of goats walking by banyan tree](https://photos.app.goo.gl/1WxQn4gPBG6DZnPG8)
 * [general dd area pics, halekote and devarayanadurga](https://photos.app.goo.gl/ibinyzUDSq13Lfk78)
 * [nov-feb-2019-albums](https://docs.google.com/document/d/1dOh6iaV7w-C\_MyGtIPS5y3wX-MRnY-VNKZRn-Dm4xRg/edit)

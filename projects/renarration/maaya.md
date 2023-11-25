@@ -1,6 +1,6 @@
 # Maaya
 
-![](<../.gitbook/assets/maaya (1).png>)
+![](<../../.gitbook/assets/maaya (1).png>)
 
 [Maaya](https://github.com/janastu/maaya) is a class of utilities to co-create AV presentations from a Web browser. It as been used to generate video renditions of Girija Kalyana of Hampi using Prof. Chelavaraju's narrative, Street Vending is Pakka Legal using ALF's cartoon book, Give back our Drums using a tribal story, Anthillhacks in short daily updates, etc.,
 

@@ -22,8 +22,8 @@ The primary objective is to build a Community Operated Wireless (COW) Mesh Netwo
 * [https://vimeo.com/469746171](https://vimeo.com/469746171)
 * &#x20;[https://youtu.be/pRwE-PgPfaY](https://youtu.be/pRwE-PgPfaY)
 * [AAMNE SAAMNE PI - Video Demo](https://www.youtube.com/watch?v=MxgcVadLffc\&list=LLyhINzXFNSHFo1R0VyXoaLA\&index=1)
-* [ASPi and COVID](https://hackmd.io/YQ-h9d5AS0a3d-7AwmthLQ)****\
-  ****
+* [ASPi and COVID](https://hackmd.io/YQ-h9d5AS0a3d-7AwmthLQ)\
+
 {% endtab %}
 
 {% tab title="Spec Sheets" %}

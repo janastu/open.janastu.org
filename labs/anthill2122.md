@@ -98,7 +98,7 @@ All passes cover breakfast, access to daily talks, workshops, and activities plu
 * Carry cash, nearest ATM is 6-7 km away
 
 {% hint style="info" %}
-_Ants21.22- Sharable & Editable link to this document:_ [_https://j.mp/ants2122_](https://j.mp/ants2122)__
+_Ants21.22- Sharable & Editable link to this document:_ [_https://j.mp/ants2122_](https://j.mp/ants2122)
 {% endhint %}
 
 ## OUR HISTORY
@@ -134,8 +134,8 @@ A visual overview of the hill after the annotations: [graphical walkthrough](htt
 
 **ANTHILLHACKS 20.21** (online sessions)
 
-* Date 30 Dec 2020 -  Jan 27 2021 ****&#x20;
-* Session **** information: [https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view](https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view)
+* Date 30 Dec 2020 -  Jan 27 2021&#x20;
+* Session information: [https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view](https://hackmd.io/6f8fkSXmRui9YgermXXklQ?view)
 * Session link:  [https://classmeet.chiguru.tech/app/anthillhacks](https://classmeet.chiguru.tech/app/anthillhacks/)
 * Gathering (pre/post meets): [http://j.mp/wonderant](http://j.mp/wonderant)
 * Channel (during sessions): [http://j.mp/anthillchat](http://bit.ly/anthillchat)

@@ -4,7 +4,7 @@ description: Mapping pastoral routes
 
 # Pastoral Map
 
-To map routes (for LL) - for the Covid study, as well as for the Atlas on Indian pastoralism.
+To map routes (for LL) - for the Covid study, as well as for the Atlas on Indian pastoralism. This collaborative project, undertaken by the Janastu Team in partnership with the Center for Pastoralism (CfP), meticulously maps the migratory routes of pastoralists across diverse states in India, including Gujarat, Uttarakhand, Jammu and Kashmir, Karnataka, Andhra Pradesh, Telangana, Tamil Nadu, and Leh. The interdisciplinary approach involves data compilation from various sources, geolocation, and mapping using tools like Mapbox and Google My Maps, resulting in an insightful representation of the intricate paths taken by different communities, emphasizing the importance of these routes in the context of the pandemic and the nation's pastoral landscape.
 
 ![](../.gitbook/assets/a4-1.jpg)
 

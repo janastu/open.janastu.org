@@ -6,11 +6,11 @@ description: These are organisations we are allied with across domains and place
 
 `organisations` , `individuals` , event
 
-* ****[**Mitan**](http://mitan.in/) **** in the language of the Adivasis of Bastar means - A long term business relationship across the value chain upholding human dignity. MITAN was promoted by a network of professionals from diverse fields, including Scientists, Designers, Information Technologists, Textile Engineers, Social Scientists, Architects, and Communications & Media professionals committed to craft-based, sustainable livelihoods approach to development.
+* [**Mitan**](http://mitan.in/)  in the language of the Adivasis of Bastar means - A long term business relationship across the value chain upholding human dignity. MITAN was promoted by a network of professionals from diverse fields, including Scientists, Designers, Information Technologists, Textile Engineers, Social Scientists, Architects, and Communications & Media professionals committed to craft-based, sustainable livelihoods approach to development.
 
 
 
-* [**AGNII - Art For All**](http://agnii.org/)  ****  began as an entertainment group performing fire-dance and drum shows and today has metamorphosed into an ART for a CAUSE group, aspiring to create a culture of peace, friendship and harmony in the society. Agnii is driven by passion to see the world smile and dance with joy.
+* [**AGNII - Art For All**](http://agnii.org/)  began as an entertainment group performing fire-dance and drum shows and today has metamorphosed into an ART for a CAUSE group, aspiring to create a culture of peace, friendship and harmony in the society. Agnii is driven by passion to see the world smile and dance with joy.
 
 
 
@@ -34,7 +34,7 @@ description: These are organisations we are allied with across domains and place
 
 &#x20;
 
-* ****[**Futuretronlab**](https://www.futuretronlabs.in/) The future is always around the corner. Our mission is to build an affordable and aesthetically pleasing Eco-friendly bike that revolutionizes intra-city travel
+* [**Futuretronlab**](https://www.futuretronlabs.in/) The future is always around the corner. Our mission is to build an affordable and aesthetically pleasing Eco-friendly bike that revolutionizes intra-city travel
 
 
 
@@ -54,7 +54,7 @@ description: These are organisations we are allied with across domains and place
 
 
 
-* ****[**LLN** ](https://linktr.ee/llnaf)**-** Living Labs Network is a place based organisation that works with different contexts and communities for a participatory reimagination of development for the place
+* [**LLN** ](https://linktr.ee/llnaf)**-** Living Labs Network is a place based organisation that works with different contexts and communities for a participatory reimagination of development for the place
 
 
 

@@ -30,7 +30,7 @@
 
 * Arun went yesterday to tumakuru he was sharing experience about Jatre.
 * Shafali and Micah are working on milli
-* Athithya updated on sheet mapper [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) There is a bug in the map. Map opens only after clicking on the zoom button, **** She's trying to fix.
+* Athithya updated on sheet mapper [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) There is a bug in the map. Map opens only after clicking on the zoom button, She's trying to fix.
 * Dinesh asked Mani to collect more photos about crafs products (including shared link from dinesh) and upload that links to spreadsheet for sheet mapper to point in the map.
 * Mani moved all project descriptions content to open.janastu page. [https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit?usp=sharing)
 
@@ -45,7 +45,7 @@
 
 * Dinesh suggested to recorded minutes if possible.
 * Shafali went yesterday to DA office to meet with learning team. first they (DA) had online discussion with Dinesh and Shalini and Medha team. After that conversation went on tech related and Mirzapur Girls.
-* Dinesh asked Athithya to work cowmesh captive pages sites which should run without internet (locally) also suggeted try with **** css.
+* Dinesh asked Athithya to work cowmesh captive pages sites which should run without internet (locally) also suggeted try with css.
 * Yatarth have showed Capturing photos from camera and also displayed the face with tracking. Still he's woarking on javascript and interface in html & css to get final output.
 * Micah was updating on bidar he met district collector and archiving story from him related to historical things of bidar.
 * Arun working on Maptales figuring out some sample content.
@@ -53,7 +53,7 @@
 ### **23 March 2021**
 
 * Shreyas and Dinesh have discussed about Mesh Network, Libre Router
-* Athithya have presented sheet mapper for the ddhills-jatre [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) **** and [https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing)
+* Athithya have presented sheet mapper for the ddhills-jatre [https://athithya-velu.github.io/ddhills-sheet-mapper/](https://athithya-velu.github.io/ddhills-sheet-mapper/) and [https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1d3ZUpxx-X\_bKHqASVYLjSmS8wb5pPYM2TQW-3fgw4HU/edit?usp=sharing)
 * Dinesh said take more content, photos from Crafter space, for pointing the craft make some triangle or different colors of circle
 * Yatarth have presented Capturing photos from camera and also alternatively displayed the face with different background and different face
 * Sanketh have updated Libre Router Backend Issues
@@ -62,7 +62,7 @@
 
 ### **22 March 2021**
 
-* Mani and Yatarth have discussed Janastu Project Description [https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0](https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0) **** and Later **** Yatarth said the timeline we can add to about page and all other pages, one image and description we can add.
+* Mani and Yatarth have discussed Janastu Project Description [https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0](https://docs.google.com/spreadsheets/d/1bFbmGG9uwoRQsR2oaxeiUbVzue3iq4CT5dJ01ggBsVA/edit#gid=0) and Later Yatarth said the timeline we can add to about page and all other pages, one image and description we can add.
 * Shafali and Dinesh have discussed the Project cleanup and will add photos to Mirzapur Girls projects [https://open.janastu.org/publications/pictures](https://open.janastu.org/publications/pictures)
 * Sanketh came back to Bangalore and he and Dinesh planning to go Tumkur tommorow
 * Dinesh have shared recent photos from Thimnayakanahalli [https://files.janastu.org/s/YTmD4dfBcPN7SQd](https://files.janastu.org/s/YTmD4dfBcPN7SQd)
@@ -76,7 +76,7 @@
 
 ### **19 March 2021**
 
-* Shalini asked Athithya and Mani to test if **** site are up or not. [https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing)
+* Shalini asked Athithya and Mani to test if site are up or not. [https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nuY7FYr7gSffgLFnzQ7-a-cni0-phaO1j0SrwEgpAcs/edit?usp=sharing)
 * Shafali shared a note in telegram about DA meeting flow for monday at DA office in Delhi.
   * Your visit to mirzapur
   * Working remotely

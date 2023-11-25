@@ -4,6 +4,8 @@ description: Index Current projects and Past projects
 
 # Projects
 
+Janastu's pioneering initiatives redefine digital accessibility and community engagement through innovative projects. The Renarration Web, utilizing semantic web annotations, ensures internet content is accessible to low-literate users by creating alternative narratives. The Virtual Library and 3D reconstructions enrich online learning experiences, while the Follow the Sheep Project maps pastoralist migratory routes, emphasizing the significance of these paths. BaaApp empowers shepherds with an intuitive Android application for interactive tracking. Street Vendors Act booklet sheds light on legal protections, and Maaya enables AV presentations. SWeeTs and SWeeT Web offer a participatory Social Semantic Web experience, while Papad facilitates hypermedia annotations. COWMesh empowers rural connectivity and storytelling, embodying Janastu's vision for inclusive, community-driven digital landscapes.
+
 {% tabs %}
 {% tab title="Index" %}
 {% content-ref url="cnbox.md" %}
@@ -50,12 +52,12 @@ description: Index Current projects and Past projects
 [compost.md](compost.md)
 {% endcontent-ref %}
 
-{% content-ref url="renarration.md" %}
-[renarration.md](renarration.md)
+{% content-ref url="renarration/" %}
+[renarration](renarration/)
 {% endcontent-ref %}
 
-{% content-ref url="maaya.md" %}
-[maaya.md](maaya.md)
+{% content-ref url="renarration/maaya.md" %}
+[maaya.md](renarration/maaya.md)
 {% endcontent-ref %}
 
 {% content-ref url="iihs.md" %}
@@ -70,20 +72,20 @@ description: Index Current projects and Past projects
 [ivr-box.md](ivr-box.md)
 {% endcontent-ref %}
 
-{% content-ref url="follow-the-sheep.md" %}
-[follow-the-sheep.md](follow-the-sheep.md)
+{% content-ref url="follow-the-sheep/" %}
+[follow-the-sheep](follow-the-sheep/)
 {% endcontent-ref %}
 
 {% content-ref url="pantoto.md" %}
 [pantoto.md](pantoto.md)
 {% endcontent-ref %}
 
-{% content-ref url="baa-app.md" %}
-[baa-app.md](baa-app.md)
+{% content-ref url="follow-the-sheep/baa-app.md" %}
+[baa-app.md](follow-the-sheep/baa-app.md)
 {% endcontent-ref %}
 
-{% content-ref url="sweet.md" %}
-[sweet.md](sweet.md)
+{% content-ref url="renarration/sweet.md" %}
+[sweet.md](renarration/sweet.md)
 {% endcontent-ref %}
 
 {% content-ref url="3d.md" %}
@@ -94,8 +96,8 @@ description: Index Current projects and Past projects
 [helavaru.md](helavaru.md)
 {% endcontent-ref %}
 
-{% content-ref url="alipi.md" %}
-[alipi.md](alipi.md)
+{% content-ref url="renarration/alipi.md" %}
+[alipi.md](renarration/alipi.md)
 {% endcontent-ref %}
 
 {% content-ref url="pastoral.md" %}

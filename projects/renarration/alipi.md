@@ -1,6 +1,6 @@
 # Alipi
 
-![](../.gitbook/assets/alipi-architecture-overview.png)
+![](../../.gitbook/assets/alipi-architecture-overview.png)
 
 **"**[**Alipi**](https://www.janastu.org/home/index.html#/alipi)**" means people without-alphabet or those who are text/print-impaired, ie., non-literates and low-literates.** Alipi, the Re-narration Web is set of tools for developing and rendering narratives that assist in accessing Web-content across cultural boundaries and in familiar scenarios of communitities with diversity in literacy. Re-narration Web is therefore about Web-accessibility for all (literate inclusive). [http://wiki.janastu.org/Alipi details some history of this work.](http://www.janastu.org/technoscience/index.php/Alipi)&#x20;
 

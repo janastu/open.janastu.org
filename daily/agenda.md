@@ -4,7 +4,7 @@ description: Agenda for daily team meetings
 
 # Daily Agenda
 
-💻 **Meeting Room:** [**https://8x8.vc/slots/team**](https://8x8.vc/slots/team) ****&#x20;
+💻 **Meeting Room:** [**https://8x8.vc/slots/team**](https://8x8.vc/slots/team)&#x20;
 
 ⏱️ **Meeting Time: 02:30 PM (Mon and Thu)**
 
