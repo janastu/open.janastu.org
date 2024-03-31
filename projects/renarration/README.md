@@ -38,7 +38,7 @@ Untold States of Accessibility : [Enumeration of Low-literacy and Diversity in I
 
 [https://wiki.janastu.org/wiki/DiMA](https://wiki.janastu.org/wiki/DiMA) - bring dev/techies in addition to community use case efforts.
 
-Renarration and Accessiblity - T B Dinesh on Localized Knowledge in Rural India By Karissa McKelvey on June 22, 2020 [https://www.digital-democracy.org/blog/renarration-and-accessibility-with-t-b-dinesh/](https://www.digital-democracy.org/blog/renarration-and-accessibility-with-t-b-dinesh/)
+Renarration and Accessiblity - T B Dinesh on Localized Knowledge in Rural India By Karissa McKelvey on June 22, 2020 [https://www.digital-democracy.org/blog/renarration-and-accessiblity-t-b-dinesh-on-localized-knowledge-in-rural-india](https://www.digital-democracy.org/blog/renarration-and-accessiblity-t-b-dinesh-on-localized-knowledge-in-rural-india)&#x20;
 
 **A number of demos that consider diverse scenarios of use have been encouraging:**
 
