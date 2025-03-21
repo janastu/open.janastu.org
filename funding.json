@@ -1,0 +1,66 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "owner",
+    "name": "Janastu",
+    "email": "dinesh@servelots.com",
+    "description": "Janastu is a people-oriented, open-source collective working to enable community storytelling by the people, for the people. Janastu, as Servelots, began in 1999 when a group of computer scientists came together to provide low-cost and user-friendly software solutions to small enterprises. In 2002, Servelots initiated Janastu, which provides innovative open-source solutions to not-for-profits and communities. We have worked regionally, nationally, and internationally with a wide range of partners. Our mission is to build decentralized, community-owned networks to provision local connectivity in remote areas and to facilitate Internet, technology, and crafts literacy.",
+    "webpageUrl": {
+      "url": "https://janastu.org/"
+    }
+  },
+  "projects": [
+    {
+      "guid": "plasma",
+      "name": "plasma",
+      "description": "We are developing a tool called Participatory Listening and Sense-Making of Archives (PLASMA), previously known as Papad, a decentralised hypermedia annotation tool designed for use in regions with low internet connectivity and low-literate populations. PLASMA enables the creation and sharing of audio/video-based knowledge, making it accessible to those with lower literacy levels. It empowers communities to voice their perspectives on topics like art, culture, education, and technology, preserving knowledge for future generations. Our research focuses on web accessibility tailored to India's cultural, literacy, and socio-economic contexts. PLASMA allows users to upload audio, tag fragments, and create audio-visual stories, serving as a publishing platform without the barriers of literacy.",
+      "webpageUrl": {
+        "url": "https://open.janastu.org/projects/papad"
+      },
+      "repositoryUrl": {
+        "url": "https://gitlab.com/servelots/papad/papad-api"
+      },
+      "licenses": [
+        "GNU AGPLv3"
+      ],
+      "tags": [
+        "storytelling",
+        "archives",
+        "decentralized"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "mybank",
+        "type": "bank",
+        "description": "Email us to know about our bank details"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "mybank",
+        "status": "active",
+        "name": "Yearly funding plan",
+        "description": "In 2022, this project started and explored different types of decentralization. This fund will be useful to explore further and implement those services in a federated and decentralized way. Half of the funding will be used for development and the rest will be for server maintenance, testing with communities, travel, and administration.",
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "One-Time",
+        "channels": [
+          "mybank"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2022,
+        "income": 15000,
+        "expenses": 15000,
+        "currency": "USD",
+        "description": "Started to develop this project."
+      }
+    ]
+  }
+}
