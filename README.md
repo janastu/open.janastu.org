@@ -4,7 +4,6 @@ description: >-
   we can in public domain. This is an effort towards building an evolving- fully
   open working model, Thank you for visiting!
 ---
-[View JSON File](https://raw.githubusercontent.com/janastu/open.janastu.org/refs/heads/master/funding.json)
 # Welcome
 
 ![](.gitbook/assets/untitled-1.jpg)
