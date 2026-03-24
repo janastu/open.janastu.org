@@ -29,6 +29,7 @@
   * [Pastoral Map](projects/pastoral.md)
   * [Helavaru](projects/helavaru.md)
   * [3D Project](projects/3d.md)
+  * [Nammalli Library](projects/library.md)
 * [People](people/README.md)
   * [TB Dinesh](people/tb-dinesh.md)
   * [Shalini A](people/shalini.md)
