@@ -108,6 +108,10 @@ Janastu's pioneering initiatives redefine digital accessibility and community en
 [stories-of-laws.md](stories-of-laws.md)
 {% endcontent-ref %}
 
+{% content-ref url="stories-of-laws.md" %}
+[library.md](library.md)
+{% endcontent-ref %}
+
 
 {% endtab %}
 
