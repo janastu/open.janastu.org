@@ -19,6 +19,7 @@ gathered not only to read, but to reflect on:
 * Rural identity and history
 * Local dialects and cultural memory
 * Intergenerational knowledge
+
 This engagement revealed a powerful truth — the most valuable knowledge in rural
 communities often remains undocumented. It lives in conversations, memory, and lived
 experience.
@@ -36,9 +37,11 @@ This reflection led to the evolution of the Living Library.
 
 
 The Living Library: Expanding the Vision
+
 The Living Library is a natural expansion of Nammalli Library.
 If Nammalli library created access to books, the Living Library recognises people themselves as
 knowledge holders.
+
 In this model:
 Community members become “living books”
 Their stories become knowledge resources
@@ -61,6 +64,7 @@ shared and valued.
 
 
 Why This Work Matters
+
 Rural histories, especially marginalised community and women’s lived experiences, are often
 absent from formal documentation systems. Without archiving, these narratives risk erasure.
 Through the Living Library, Janastu aims to:
@@ -74,11 +78,17 @@ history.
 
 
 The next phase of the initiative includes:
+
 1.Structured oral history documentation
+
 2.Audio and written archives
+
 3.Publication of community narratives
+
 4.Digital archiving through PAPAD and living library and other platforms
+
 5.Collaborative engagements with researchers and educators
+
 What began as an experimental Nammalli community library has now evolved into a
 participatory rural archiving model.
 Nammalli Library laid the foundation.
