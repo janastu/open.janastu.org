@@ -14,6 +14,9 @@ Attempt to bring community ownership and delibrate on different technologies ava
 
 Community owned mesh networks and radios began with Namma School Radio where old phone booths were converted into radio nodes, powered by Raspberry Pi devices. The servers were powered by solar panels. It has now been setup with several nodes using Libre Routers and served a number of students attend online classes and facilitated some IT workers from the village to work from home!
 
+Check out our [Wiki](https://wiki.janastu.org/index.php/COWMesh)
+
+
 {% tabs %}
 {% tab title="Docs" %}
 * [Janastu / Servelots Narrative report for APC 2019](https://hackmd.io/@sagesalus/ryPcqyhEL)
